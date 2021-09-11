@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://tinkr.de"
 copyright: Sebastian Schuster
 
-theme: zaunkoenig
+remote_theme: shostakovich/zaunkoenig
 plugins:
   - jekyll-feed
 
