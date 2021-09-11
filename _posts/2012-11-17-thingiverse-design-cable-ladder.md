@@ -27,4 +27,4 @@ It&#8217;s a very simple cable spool in form of a ladder.
 
 I used tinkercad.com to design the ladder. You can modify the design if you like (at tinkercad.com) or just print it (files available at <http://www.thingiverse.com/thing:34794>).
 
-<img loading="lazy" src="/assets/2012/11/cable_wrapper1.jpg" alt="" title="cable ladder" width="606" height="423" class="alignnone size-full wp-image-3107" />
+<img loading="lazy" src="/assets/2012/11/cable_wrapper1.jpg" alt="" title="cable ladder"    />

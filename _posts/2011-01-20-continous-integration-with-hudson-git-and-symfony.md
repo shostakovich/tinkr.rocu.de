@@ -22,7 +22,7 @@ tags:
 ---
 This week i&#8217;ve set up a continuos integration server for work. I&#8217;m quite amazed about it and how it will improved my future work.
 
-<img loading="lazy" src="/assets/2011/01/hudson1.jpg" alt="hudson.jpg" title="hudson.jpg" border="0" width="600" height="404" />
+<img loading="lazy" src="/assets/2011/01/hudson1.jpg" alt="hudson.jpg" title="hudson.jpg" border="0"   />
 
 In this post I want to explain how I managed to set up Hudson, with GIT and Symfony1.4. If you want to know more about certain details off the procedure you might want to check out the links at the end off this post.
 
@@ -66,7 +66,7 @@ Tada - Hudson runs off port 8080!!
 
 This was, well, the tricky part I managed to lock myself out two(!!!!) times. Quite frustrating - but if you know what you do its actually simple.
 
-<img loading="lazy" src="/assets/2011/01/hudson.jpg" alt="securing hudson" title="hudson.jpg" border="0" width="606" height="307" />
+<img loading="lazy" src="/assets/2011/01/hudson.jpg" alt="securing hudson" title="hudson.jpg" border="0"   />
 
 If you DO manage to lock yourself out - go and edit /var/lib/hudson/config.xml and set <useSecurity>true</useSecurity> to false - good luck!
 
@@ -79,11 +79,11 @@ If you DO manage to lock yourself out - go and edit /var/lib/hudson/config.xml a
 
 #### Setting up the project
 
-<img loading="lazy" src="/assets/2011/01/hudson_create_project.jpg" alt="hudson_create_project.jpg" title="hudson_create_project.jpg" border="0" width="600" height="239" />
+<img loading="lazy" src="/assets/2011/01/hudson_create_project.jpg" alt="hudson_create_project.jpg" title="hudson_create_project.jpg" border="0"   />
 
 Give your project a name and select &#8222;Build a free-style software project
 
-<img loading="lazy" src="/assets/2011/01/projects_setup_1.jpg" alt="projects_setup_1.jpg" title="projects_setup_1.jpg" border="0" width="600" height="453" />
+<img loading="lazy" src="/assets/2011/01/projects_setup_1.jpg" alt="projects_setup_1.jpg" title="projects_setup_1.jpg" border="0"   />
 
 Now configure git. Notice that for github its NOT sufficent to just copy the clone url. You have to alter the URI a little bit. Something like **ssh://git@github.com/UserAccount/ProjectName.git** will do. Then enter the branch. In my case I use the **integration** branch.
 
@@ -97,11 +97,11 @@ $ git config --global user.name "Mister Default"<br />
 $ git config --global user.email "yout@email.com"<br />
 `
 
-<img loading="lazy" src="/assets/2011/01/build_triggers.jpg" alt="build_triggers.jpg" title="build_triggers.jpg" border="0" width="600" height="173" />
+<img loading="lazy" src="/assets/2011/01/build_triggers.jpg" alt="build_triggers.jpg" title="build_triggers.jpg" border="0"   />
 
 Now enter **5,20,35,50 \* \* *** to Build Periodically and **0,15,35,45 \* \* *** into Poll SCM. This will pull your branch every 15 minutes and start a build 5 minutes later. Feel free to come up with something better here 😉
 
-<img loading="lazy" src="/assets/2011/01/build_steps.jpg" alt="build_steps.jpg" title="build_steps.jpg" border="0" width="600" height="470" />
+<img loading="lazy" src="/assets/2011/01/build_steps.jpg" alt="build_steps.jpg" title="build_steps.jpg" border="0"   />
 
 Now we have to enter the steps necessary to create a new database, compile the model, filters and forms, load some test-data, execute the test and export the results into an xml-file. This sounds easy, but it took me a while to get this working.
 
@@ -113,7 +113,7 @@ Now we have to enter the steps necessary to create a new database, compile the m
 
 **Note:** You will a running MySQL Database and (probably) you will need to export a database with **php symfony doctrine:data-dump** to have some test data (eg) categories.
 
-<img loading="lazy" src="/assets/2011/01/post_build_actions.jpg" alt="post_build_actions.jpg" title="post_build_actions.jpg" border="0" width="600" height="251" />
+<img loading="lazy" src="/assets/2011/01/post_build_actions.jpg" alt="post_build_actions.jpg" title="post_build_actions.jpg" border="0"   />
 
 Last but not least: Hint Hudson to the results and turn on Notifications. If you feel like it enable your Nabaztag 😉 (after downloading the plugin)
 

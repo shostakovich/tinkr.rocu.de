@@ -19,7 +19,7 @@ tags:
   - Marokko
   - TUI Cruises
 ---
-<img loading="lazy" src="/assets/2011/01/mein_schiff.jpg" alt="" title="Mein Schiff - Kataloge" width="606" height="408" class="alignnone size-full wp-image-2125" />
+<img loading="lazy" src="/assets/2011/01/mein_schiff.jpg" alt="" title="Mein Schiff - Kataloge"    />
 
 In 30 Tagen geht es mal zur Abwechslung auf hohe See, auf ein Kreuzfahrtschiff - die &#8222;Mein Schiff&#8220; um genau zu sein. Ein recht spezieller Name für ein Schiff, aber es war der Beste, den sie gefunden haben.
 Als Ziel haben wir uns die (hoffentlich nicht so frostigen) Kanaren ausgesucht. Genau wie Island wieder einmal Vulkaninseln.

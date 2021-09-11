@@ -19,8 +19,8 @@ tags:
   - Safari
   - Safari 4
 ---
-Für alle die es nicht wissen sollten: Auch für Safari gibt es Addons. Eine gute Einführung dazu gibt es unter [pimpmysafari.com](http://pimpmysafari.com/). Ich bin kein großer Addon-Narr aber PithHelmet benutze ich dennoch schon seit einigen Jahren.  
-<img loading="lazy" alt="" src="http://web2.0du.de/pictures/pithHelmet.png" title="PithHelmet unter Safari 4" class="alignnone" width="620" height="446" /> 
+Für alle die es nicht wissen sollten: Auch für Safari gibt es Addons. Eine gute Einführung dazu gibt es unter [pimpmysafari.com](http://pimpmysafari.com/). Ich bin kein großer Addon-Narr aber PithHelmet benutze ich dennoch schon seit einigen Jahren.
+<img loading="lazy" alt="" src="http://web2.0du.de/pictures/pithHelmet.png" title="PithHelmet unter Safari 4"    />
 
 PithHelmet ist ein ziemlich genialer und effizienter Werbeblocker. Leider versagt das Plugin mit dem sympatischen Tropenhelm unter Safari 4 seinen Dienst, was sich allerdings zum Glück verhältnismäßig leicht beheben lässt. Hier eine kurze Schritt-für-Schritt Anleitung:
 

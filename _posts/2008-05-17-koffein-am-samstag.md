@@ -19,6 +19,6 @@ tags:
 ---
 Heute hat Risk einen Geniestreich vollbracht und die erste inoffizielle Version von YiGGClipse veröffentlich. Das muss an dem übermäßigen Koffeinkonsum im Büro liegen.. Ich muss gestehen, dass ich darüber schon etwas schmunzeln musste. Auf jeden Fall gilt für YiGG ab jetzt definitiv: Marvin Inside.
 
-<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/apps/YiGGclipse.png" alt="Bild von YiGGClipse" width="434" height="322" /> 
+<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/apps/YiGGclipse.png" alt="Bild von YiGGClipse"   />
 
 Im Büro sind alle hochmotiviert und wir freuen uns schon riesig auf die neue Version! Wann es so weit ist? Nun lasst euch überraschen..

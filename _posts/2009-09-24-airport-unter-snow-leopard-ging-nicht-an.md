@@ -48,6 +48,6 @@ Ein kurzer Hinweis für alle verzweifelten da draußen. Meine Airport ging seit 
 
 Das Symbol war in der Menüleiste vorhanden, ließ sich aber nicht aktivieren. Nunja die Lösung war eine neue Funktion von SnowLeopard zu deaktivieren, die offensichtlich nicht funktioniert..
 
-<img loading="lazy" src="/assets/2009/09/airport.jpg" alt="Administratorpasswort für Anschalten des Wlans" title="Administratorpasswort für Anschalten des Wlans" width="606" height="471" />
+<img loading="lazy" src="/assets/2009/09/airport.jpg" alt="Administratorpasswort für Anschalten des Wlans" title="Administratorpasswort für Anschalten des Wlans"   />
 
 Wirklich - ich war doch leicht erzürnt. Anstelle mich nach dem Passwort zu fragen, passiert gar nichts und ich hab doch tatsächlich geglaubt die Hardware sei kaputt..

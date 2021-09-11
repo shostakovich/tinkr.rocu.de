@@ -20,9 +20,9 @@ tags:
   - Solar Charger
   - Solar Lader
 ---
-<img loading="lazy" src="/assets/2011/04/apple_solar_charger_11.jpg" alt="" title="Apple-Solar-Charger: (fast) komplettes Kit " width="606" height="455" class="alignnone size-full wp-image-2344" srcset="/assets/2011/04/apple_solar_charger_11.jpg 606w, /assets/2011/04/apple_solar_charger_11-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2011/04/apple_solar_charger_11.jpg" alt="" title="Apple-Solar-Charger: (fast) komplettes Kit "    srcset="/assets/2011/04/apple_solar_charger_11.jpg 606w, /assets/2011/04/apple_solar_charger_11-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 Mit einer kleinen Zusatzschaltung kann ich meine 20W-Solaranlage im Garten (für die Wetterstation) dazu verwenden, die mobilen Geräte aus dem Hause Apple zu laden. Hierzu zählen die iPods, iPhones und die iPads.
-<img loading="lazy" src="/assets/2011/04/apple_solar_charger_21.jpg" alt="" title="Apple-Solar-Charger - Elektronik und iPhone" width="606" height="455" class="alignnone size-full wp-image-2345" srcset="/assets/2011/04/apple_solar_charger_21.jpg 606w, /assets/2011/04/apple_solar_charger_21-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2011/04/apple_solar_charger_21.jpg" alt="" title="Apple-Solar-Charger - Elektronik und iPhone"    srcset="/assets/2011/04/apple_solar_charger_21.jpg 606w, /assets/2011/04/apple_solar_charger_21-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Die Schaltung wandelt über einen DC/DC-Wandler die 14-12V DC der Solaranlage runter auf Apple-verträgliche 5V. Über ein Widerstandsnetzwerk kann man den Geräten vorgaukeln, man sei ein original Apple-Netzteil und schon ziehen die Geräte einen Ladestrom von 2A statt 0,5A. Oder im iPad-Fall würde es ohne dieses Netzwerk keine Aufladung des internen Akkus stattfinden.
 

@@ -25,7 +25,7 @@ Seit dem ich das letzte mal über [YaCy die verteilte Suchmaschine](http://www.y
 
 Inszwischen ist YaCy in der Version 0.91 und das spürt man. Die Performance hat sich nach einer Umstellung auf die [neue IndexCell Datenstruktur](http://forum.yacy-websuche.de/viewtopic.php?f=5&t=1940) vervielfacht. Die Suche wurde optisch und Funktional wunderbar durch ein wenig Javascript aufgewertet. Man muss seinen Peer nicht mehr alle paar Stunden neustarten: Kurz es macht immer mehr Spaß YaCy zu benutzen.
 
-<img loading="lazy" class="alignleft size-full wp-image-920" title="yacy_stats" src="/assets/2009/07/yacy_stats.jpg" alt="yacy_stats" width="293" height="218" /> Nun lenkt YaCy aber natürlich auch ein wenig vom Bloggen ab und daher habe ich mir mal ein paar  Stunden Zeit genommen und schnell ein kleines WordPress-Plugin zusammengestrickt. Es zeigt den Status eines YaCy Peers in einem WordPress-Widget an und kann in jedem Theme benutzt werden, dass Widgets unterstützt.
+<img loading="lazy"  title="yacy_stats" src="/assets/2009/07/yacy_stats.jpg" alt="yacy_stats"   /> Nun lenkt YaCy aber natürlich auch ein wenig vom Bloggen ab und daher habe ich mir mal ein paar  Stunden Zeit genommen und schnell ein kleines WordPress-Plugin zusammengestrickt. Es zeigt den Status eines YaCy Peers in einem WordPress-Widget an und kann in jedem Theme benutzt werden, dass Widgets unterstützt.
 
 Die Daten bezieht das Plugin über die in YaCy integrierte API und benutzt SimpleXML um sie aus der Antwort zu picken.
 

@@ -27,11 +27,11 @@ We have a combination of two irrigation systems, one from the UK brand Hozelock 
 In the last week I expanded the number of drippers to supply the water to all the raspberry plants. I bought enough drippers and pips, but forgot to buy the pegs.
 But this is not a seriously problem, I just printed some with my 3D printer:
 
-<img loading="lazy" src="/assets/2014/07/irrigation_peg_01.jpg" alt="pipe peg" width="606" height="590" class="alignnone size-full wp-image-3580" />
+<img loading="lazy" src="/assets/2014/07/irrigation_peg_01.jpg" alt="pipe peg"    />
 
-<img loading="lazy" src="/assets/2014/07/irrigation_peg_02.jpg" alt="pipe peg" width="606" height="622" class="alignnone size-full wp-image-3581" />
+<img loading="lazy" src="/assets/2014/07/irrigation_peg_02.jpg" alt="pipe peg"    />
 
-<img loading="lazy" src="/assets/2014/07/irrigation_peg_03.jpg" alt="pipe peg" width="606" height="606" class="alignnone size-full wp-image-3582" />
+<img loading="lazy" src="/assets/2014/07/irrigation_peg_03.jpg" alt="pipe peg"    />
 
 [File]
 Download the files at Thingiverse:

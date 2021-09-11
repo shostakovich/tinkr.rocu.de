@@ -26,7 +26,7 @@ For our Z-Pan-&Tilt-System I needed to controll a camera with an Arduino. My fir
 At first I disassembled the camera (Canon Ixus 70). A disassmebly video can be found here: <http://www.youtube.com/watch?v=ZsJAYNCPWng>
 
 At the switch there are two points we need to solder a wire to, the ground and signal terminal. They are marked in the picture below:
-<img loading="lazy" src="/assets/2010/07/canon_camera_hack.png" alt="" title="Canon Ixus camera hack" width="606" height="529" class="alignnone size-full wp-image-1745" srcset="/assets/2010/07/canon_camera_hack.png 606w, /assets/2010/07/canon_camera_hack-300x261.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/07/canon_camera_hack.png" alt="" title="Canon Ixus camera hack"    srcset="/assets/2010/07/canon_camera_hack.png 606w, /assets/2010/07/canon_camera_hack-300x261.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 I used a very thin enamelled copper wire because the terminals are very thin.
 
 I extended the enamelled copper wire with normal wire and bond it there, where the damaged lcd once was.
@@ -34,19 +34,19 @@ I extended the enamelled copper wire with normal wire and bond it there, where t
 [Update] I found out, that the metal sheet on the back of the lcd must not be removed from the camera, otherwise the CMOS sensor is not correctly shielded and produces noise on the captured image.
 
 So this setup will cause noise on your images:
-<img loading="lazy" src="/assets/2010/07/canon_camera_hack_2.jpg" alt="" title="modified Canon Ixus camera" width="606" height="455" class="alignnone size-full wp-image-1747" srcset="/assets/2010/07/canon_camera_hack_2.jpg 606w, /assets/2010/07/canon_camera_hack_2-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/07/canon_camera_hack_2.jpg" alt="" title="modified Canon Ixus camera"    srcset="/assets/2010/07/canon_camera_hack_2.jpg 606w, /assets/2010/07/canon_camera_hack_2-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Add the metall sheet, and the noise is gone:
-<img loading="lazy" src="/assets/2010/07/canon_camera_hack_3.jpg" alt="" title="Canon Ixus: shielded CMOS sensor" width="606" height="455" class="alignnone size-full wp-image-1767" srcset="/assets/2010/07/canon_camera_hack_3.jpg 606w, /assets/2010/07/canon_camera_hack_3-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/07/canon_camera_hack_3.jpg" alt="" title="Canon Ixus: shielded CMOS sensor"    srcset="/assets/2010/07/canon_camera_hack_3.jpg 606w, /assets/2010/07/canon_camera_hack_3-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 For the cable feedthrough I filed a small hole in the enclosure:
-<img loading="lazy" src="/assets/2010/07/canon_camera_hack3.png" alt="" title="Canon Ixus: cable feedthrough" width="606" height="455" class="alignnone size-full wp-image-1748" />
+<img loading="lazy" src="/assets/2010/07/canon_camera_hack3.png" alt="" title="Canon Ixus: cable feedthrough"    />
 
 Finally the fully assembled system with the camera and the pan&tilt system.
-<img loading="lazy" src="/assets/2010/07/canon_camera_hack4.jpg" alt="" title="camera on the pal&tilt system" width="606" height="455" class="alignnone size-full wp-image-1749" srcset="/assets/2010/07/canon_camera_hack4.jpg 606w, /assets/2010/07/canon_camera_hack4-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/07/canon_camera_hack4.jpg" alt="" title="camera on the pal&tilt system"    srcset="/assets/2010/07/canon_camera_hack4.jpg 606w, /assets/2010/07/canon_camera_hack4-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 The circuit can be found here:
-<img loading="lazy" src="/assets/2010/07/Arduino_CAM_Hack_breadboard.png" alt="" title="Arduino camera hack - breadboard" width="606" height="587" class="alignnone size-full wp-image-1754" srcset="/assets/2010/07/Arduino_CAM_Hack_breadboard.png 606w, /assets/2010/07/Arduino_CAM_Hack_breadboard-300x290.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/07/Arduino_CAM_Hack_breadboard.png" alt="" title="Arduino camera hack - breadboard"    srcset="/assets/2010/07/Arduino_CAM_Hack_breadboard.png 606w, /assets/2010/07/Arduino_CAM_Hack_breadboard-300x290.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 The Arduino connects the switch signal to GND via a npn-transistor. With the signal to GND, the camera takes a picture.
 Note in the code, that the transistor is inverting.
 

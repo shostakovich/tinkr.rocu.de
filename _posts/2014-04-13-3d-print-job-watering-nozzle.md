@@ -28,26 +28,26 @@ The print took about 8,5h - my longest print ever.
 
 The nozzle fits on diameters of: x: ~25mm, y: ~28mm
 
-<div id="attachment_3567" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3567" loading="lazy" src="/assets/2014/04/watering_nozzle_01.jpg" alt="nozzle on printing bed" width="606" height="519" class="size-full wp-image-3567" />
+<div id="attachment_3567" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3567" loading="lazy" src="/assets/2014/04/watering_nozzle_01.jpg" alt="nozzle on printing bed"    />
 
-  <p id="caption-attachment-3567" class="wp-caption-text">
+  <p id="caption-attachment-3567" >
     nozzle on printing bed
   </p>
 </div>
 
-<div id="attachment_3568" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3568" loading="lazy" src="/assets/2014/04/watering_nozzle_02.jpg" alt="finished nozzle" width="606" height="461" class="size-full wp-image-3568" />
+<div id="attachment_3568" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3568" loading="lazy" src="/assets/2014/04/watering_nozzle_02.jpg" alt="finished nozzle"    />
 
-  <p id="caption-attachment-3568" class="wp-caption-text">
+  <p id="caption-attachment-3568" >
     finished nozzle
   </p>
 </div>
 
-<div id="attachment_3569" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3569" loading="lazy" src="/assets/2014/04/watering_nozzle_03.jpg" alt="assembled nozzle" width="606" height="434" class="size-full wp-image-3569" />
+<div id="attachment_3569" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3569" loading="lazy" src="/assets/2014/04/watering_nozzle_03.jpg" alt="assembled nozzle"    />
 
-  <p id="caption-attachment-3569" class="wp-caption-text">
+  <p id="caption-attachment-3569" >
     assembled nozzle
   </p>
 </div>

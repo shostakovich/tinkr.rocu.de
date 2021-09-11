@@ -26,10 +26,10 @@ tags:
 ---
 Its pretty interesting to measure ones heart beat. A lot of fancy analog circuitry is needed for this. But fortunately there is a Arduino shield for this: the SHIELD-EKG-EMG from Olimex.
 
-<div id="attachment_3242" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3242" loading="lazy" src="/assets/2013/03/ecg_olimex.jpg" alt="ECG wiring" width="606" height="766" class="size-full wp-image-3242" />
+<div id="attachment_3242" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3242" loading="lazy" src="/assets/2013/03/ecg_olimex.jpg" alt="ECG wiring"    />
 
-  <p id="caption-attachment-3242" class="wp-caption-text">
+  <p id="caption-attachment-3242" >
     ECG wiring
   </p>
 </div>
@@ -69,10 +69,10 @@ ANI_SEL – 1 position (channel)
 If the conductivity is bad, you might get a noisy image like this:
 
 
-<div id="attachment_3245" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3245" loading="lazy" src="/assets/2013/03/electric_guru_noise.png" alt="Electric Guru: noise" width="606" height="320" class="size-full wp-image-3245" />
+<div id="attachment_3245" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3245" loading="lazy" src="/assets/2013/03/electric_guru_noise.png" alt="Electric Guru: noise"    />
 
-  <p id="caption-attachment-3245" class="wp-caption-text">
+  <p id="caption-attachment-3245" >
     Electric Guru: noise
   </p>
 </div>
@@ -80,10 +80,10 @@ If the conductivity is bad, you might get a noisy image like this:
 Otherwise, if everything works fine and you are still alive, it looks like this:
 
 
-<div id="attachment_3244" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3244" loading="lazy" src="/assets/2013/03/electric_guru_ecg.png" alt="Electric Guru: ecg" width="606" height="320" class="size-full wp-image-3244" />
+<div id="attachment_3244" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3244" loading="lazy" src="/assets/2013/03/electric_guru_ecg.png" alt="Electric Guru: ecg"    />
 
-  <p id="caption-attachment-3244" class="wp-caption-text">
+  <p id="caption-attachment-3244" >
     Electric Guru: ECG
   </p>
 </div>

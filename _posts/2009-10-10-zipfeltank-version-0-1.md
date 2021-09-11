@@ -29,6 +29,6 @@ Der Zipfeltank besteht aus:
   * Viele viele Kabel
   * Drehpotentionmeter
 
-<img loading="lazy" src="/assets/2009/10/ZipfelTank.png" alt="ZipfelTank" title="ZipfelTank" width="607" height="462" class="alignnone size-full wp-image-1240" srcset="/assets/2009/10/ZipfelTank.png 607w, /assets/2009/10/ZipfelTank-300x228.png 300w" sizes="(max-width: 607px) 100vw, 607px" />
+<img loading="lazy" src="/assets/2009/10/ZipfelTank.png" alt="ZipfelTank" title="ZipfelTank"    srcset="/assets/2009/10/ZipfelTank.png 607w, /assets/2009/10/ZipfelTank-300x228.png 300w" sizes="(max-width: 607px) 100vw, 607px" />
 
 Der Panzer lässt sich mit der Nunchuck steuern. In einigen Tagen lege ich den Sourcecode und einen Schaltplan nach 😉 Für die Zukunft ist geplant, dem Panzer noch Sensorik, sowie ein XBee-Shield zu verpassen und ihn mit meinem einem Programm auf meinem Laptop fernzusteuern.

@@ -19,7 +19,7 @@ Mein eigener kleiner Shorturl Service heißt [Mug.im](http://mug.im) und untersc
 
 Ausserdem hat [Mug.im](http://mug.im) eine kleine API, über die man erfahren kann, wie es dem Link nach dem Tweeten so ergangen ist. Ich weiß gibt es alles schon 😉
 
-<img loading="lazy" src="/assets/2009/08/mug.im.jpg" alt="mug.im" title="mug.im" width="600" height="438" class="alignnone size-full wp-image-1038" srcset="/assets/2009/08/mug.im.jpg 600w, /assets/2009/08/mug.im-300x219.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
+<img loading="lazy" src="/assets/2009/08/mug.im.jpg" alt="mug.im" title="mug.im"    srcset="/assets/2009/08/mug.im.jpg 600w, /assets/2009/08/mug.im-300x219.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
 
 Dem ein oder anderen wird aufgefallen sein, dass auch YiGG.de inzwischen [mug.im](http://mug.im) benutzt. Das liegt zum einen an der geographischen Nähe der Server und zum anderen eben an besagter kleiner API, mit der wir noch etwas mehr über den einer Story oder eines Tweets Buzz erfahren können.
 

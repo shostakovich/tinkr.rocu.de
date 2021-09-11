@@ -24,7 +24,7 @@ tags:
 ---
 This week I was ill. I dind&rsquo;t enjoy it - all I was able to do is to throw all the stories with interessting titles into Instapaper. And read them this morning.
 
-<img loading="lazy" src="/assets/2012/02/link_palace.jpg" width="606" height="455" alt="Fishing for links in the shopping mall" />
+<img loading="lazy" src="/assets/2012/02/link_palace.jpg"   alt="Fishing for links in the shopping mall" />
 
 Some of these links contain real wisdom and made me think and the link &ldquo;game of thrones&rdquo; made me laugh hard 🙂 I also like that next week, when I am out of bed - there is 1 nice new Codeschool course waiting for me.
 

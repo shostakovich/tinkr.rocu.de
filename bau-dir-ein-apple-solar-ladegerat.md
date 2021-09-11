@@ -21,11 +21,11 @@ Warum nicht seine eigenen Apple-Geräte mit Solar-Strom laden, wenn man über ei
 ### Einleitung
 
 **Wichtiger Hinweis: Bitte beachte, der Einsatz eines selbstgebauten Netzteils kann Auswirkungen auf die Garantie des Herstellers machen. Ein Nachbau erfolgt nur auf eigene Gefahr.**
-<img loading="lazy" src="/assets/2011/05/apple_solar_charger_3.jpg" alt="" title="Iphone mit dem Apple-Solar-Lagegerät" width="606" height="439" class="alignnone size-full wp-image-2365" />
+<img loading="lazy" src="/assets/2011/05/apple_solar_charger_3.jpg" alt="" title="Iphone mit dem Apple-Solar-Lagegerät"    />
 
 Mit einer kleinen Zusatzschaltung kann ich meine 20W-Solaranlage im Garten (für die Wetterstation) dazu verwenden, die mobilen Geräte aus dem Hause Apple zu laden. Hierzu zählen die iPods, iPhones und die iPads.
-<img loading="lazy" src="/assets/2011/05/apple_solar_charger_solar_anlage.jpg" alt="" title="Garten Solaranlage - 20W" width="606" height="455" class="alignnone size-full wp-image-2367" srcset="/assets/2011/05/apple_solar_charger_solar_anlage.jpg 606w, /assets/2011/05/apple_solar_charger_solar_anlage-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
-<img loading="lazy" src="/assets/2011/05/apple_solar_charger_4.jpg" alt="" title="Zusammengebautes Gehäuse vom Ladegerät" width="606" height="455" class="alignnone size-full wp-image-2366" srcset="/assets/2011/05/apple_solar_charger_4.jpg 606w, /assets/2011/05/apple_solar_charger_4-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2011/05/apple_solar_charger_solar_anlage.jpg" alt="" title="Garten Solaranlage - 20W"    srcset="/assets/2011/05/apple_solar_charger_solar_anlage.jpg 606w, /assets/2011/05/apple_solar_charger_solar_anlage-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2011/05/apple_solar_charger_4.jpg" alt="" title="Zusammengebautes Gehäuse vom Ladegerät"    srcset="/assets/2011/05/apple_solar_charger_4.jpg 606w, /assets/2011/05/apple_solar_charger_4-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Die Schaltung wandelt über einen DC/DC-Wandler die 14-12V DC der Solaranlage runter auf Apple-verträgliche 5V und stellt diese an einer USB-Buchse zur Verfügung. Über ein Widerstandsnetzwerk kann man den Geräten vorgaukeln, man sei ein original-Apple-Netzteil und schon ziehen die Geräte einen Ladestrom von 2A statt 0,5A. Oder im iPad-Fall würde es ohne dieses Netzwerk keine Aufladung des internen Akkus stattfinden, da das Gerät nur mit 2A geladen werden möchte.
 
@@ -37,7 +37,7 @@ Das Laden des iPhones (3GS) dauert genauso lange wie mit dem mitgelieferten Netz
 
 ### Schaltplan
 
-[<img loading="lazy" src="/assets/2011/05/solar_lader_zm_110507_sch_sml.jpg" alt="" title="Apple-Solar-Lader Schaltplan" width="606" height="418" class="alignnone size-full wp-image-2371" />](/assets/2011/05/solar_lader_zm_110507_sch.jpg)
+[<img loading="lazy" src="/assets/2011/05/solar_lader_zm_110507_sch_sml.jpg" alt="" title="Apple-Solar-Lader Schaltplan"    />](/assets/2011/05/solar_lader_zm_110507_sch.jpg)
 
 Was muss unsere Hardware genau tun? Wir müssen aus ca. 12V am Eingang von der Solaranlage - ausgangsseitig 5V zur Verfügung stellen. Desweiteren müssen wir die USB-Data+ und -Data- Leitung speziell beschalten, damit uns die Apple-Hardware für ein Originalnetzteil (liefert bis zu 2A) und nicht für eine poppelige USB-Buchse hält, die nur 0,5A liefern kann.
 Demnach muss unsere Spannungsquelle auch mehr als 2A zur Verfügung stellen können. Ein 7805 kommt daher nicht in Frage, der Wirkungsgrad wäre erstens sehr schlecht (um die 35%) und der max. Strom liegt nur bei 1A.

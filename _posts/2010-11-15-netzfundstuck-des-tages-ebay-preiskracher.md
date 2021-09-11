@@ -18,7 +18,7 @@ tags:
   - Wow
 ---
 Ein ganz netter Preiskracher ist mir heute über den Weg gelaufen:
-<img loading="lazy" src="/assets/2010/11/preiskracher_ebay.png" alt="" title="Preiskracher ebay" width="606" height="465" class="aligncenter size-full wp-image-2005" />
+<img loading="lazy" src="/assets/2010/11/preiskracher_ebay.png" alt="" title="Preiskracher ebay"    />
 
 ohne Worte 😉
 18 Leute haben da schon zugeschlagen [[Link]](http://cgi.ebay.de/ws/eBayISAPI.dll?ViewItem&item=380280908313)

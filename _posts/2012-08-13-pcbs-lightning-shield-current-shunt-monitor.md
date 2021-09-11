@@ -23,10 +23,10 @@ tags:
   - Shield
 ---
 I have a couple of new pcbs in development. Firstly there is the lightning-sensor-shield. It uses a AS3935 sensor from AMS to detect lightning. I&#8217;m pretty excited to get this one running.
-<img loading="lazy" src="/assets/2012/08/lightning_shield_sml.jpg" alt="" title="lightning-shield" width="606" height="455" class="alignnone size-full wp-image-2945" />
+<img loading="lazy" src="/assets/2012/08/lightning_shield_sml.jpg" alt="" title="lightning-shield"    />
 
 Then we have a power LED nano shield. You plug it onto an Arduino Nano. It&#8217;s possible to dim the power LED (350mA) via PWM. And there is also a touch switch on the back of the board to turn the LED on and off.
-<img loading="lazy" src="/assets/2012/08/led_nano_shield_sml.jpg" alt="" title="power led nano-shield" width="606" height="455" class="alignnone size-full wp-image-2944" />
+<img loading="lazy" src="/assets/2012/08/led_nano_shield_sml.jpg" alt="" title="power led nano-shield"    />
 
 And finally there is the current shunt monitor board. It measures the current going through the shunt resistor.
-<img loading="lazy" src="/assets/2012/08/current_shunt_monitor.jpg" alt="" title="current shunt monitor" width="606" height="455" class="alignnone size-full wp-image-2943" />
+<img loading="lazy" src="/assets/2012/08/current_shunt_monitor.jpg" alt="" title="current shunt monitor"    />

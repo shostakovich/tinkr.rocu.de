@@ -18,6 +18,6 @@ tags:
   - Sommer
 ---
 In München war es heute den ganzen Tag über gefühlte 50°C warm -selbst im sonst kühlen Büro war es kaum auszuhalten. Es blieb bloß eine Lösung - ein Ventilator musste her und zwar ein mörderisch großer! Zum Glück konnte ich einen wirklich riesigen auftreiben - Model Flugzeugturbine.
-<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/electronics/ventilator.png" alt="Ventilator" width="435" height="236" />
+<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/electronics/ventilator.png" alt="Ventilator"   />
 
 So lässt es sich, vom Lärm abgesehen gut arbeiten.

@@ -25,9 +25,9 @@ This camera plattform shots every 5 seconds one image and then moves to a new po
 
 
 After the shoot we have 50 images. I loaded them into the Microsoft ICE tool, that can be found here: [[Link]](http://research.microsoft.com/en-us/um/redmond/groups/ivm/ICE/)
-<img loading="lazy" src="/assets/2010/07/stitch_pan_tilt_0_1.png" alt="" title="Microsoft ICE, structured panorama" width="606" height="455" class="alignnone size-full wp-image-1773" srcset="/assets/2010/07/stitch_pan_tilt_0_1.png 606w, /assets/2010/07/stitch_pan_tilt_0_1-300x225.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/07/stitch_pan_tilt_0_1.png" alt="" title="Microsoft ICE, structured panorama"    srcset="/assets/2010/07/stitch_pan_tilt_0_1.png 606w, /assets/2010/07/stitch_pan_tilt_0_1-300x225.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 After the stitching process we get this result and can crop the image.
-<img loading="lazy" src="/assets/2010/07/stitch_pan_tilt_1_1.png" alt="" title="Stitched panorama" width="606" height="379" class="alignnone size-full wp-image-1774" srcset="/assets/2010/07/stitch_pan_tilt_1_1.png 606w, /assets/2010/07/stitch_pan_tilt_1_1-300x187.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/07/stitch_pan_tilt_1_1.png" alt="" title="Stitched panorama"    srcset="/assets/2010/07/stitch_pan_tilt_1_1.png 606w, /assets/2010/07/stitch_pan_tilt_1_1-300x187.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 As a final result we get an image with a resolution of 289 megapixels.

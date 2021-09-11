@@ -21,7 +21,7 @@ tags:
 ---
 Ich will heute einmal Lob aussprechen und zwar dem [Expandrive](http://www.expandrive.com/mac) Team. Ich arbeite seit einiger Zeit produktiv auf SnowLeopard und hatte eigentlich so weit keine ernstzunehmenden Probleme - nur ExpanDrive versagte mir plötzlich den Dienst. Natürlich ist das absolut verzeihlich (SnowLeopard ist ja auch noch nicht erhältlich), aber ich brauche ExpanDrive einfach um vernünftig auf unserem Webserver arbeiten zu können.
 
-[<img loading="lazy" class="alignnone size-full wp-image-731" title="expandrive" src="/assets/2009/06/expandrive.png" alt="expandrive" width="600" height="180" srcset="/assets/2009/06/expandrive.png 600w, /assets/2009/06/expandrive-300x90.png 300w" sizes="(max-width: 600px) 100vw, 600px" />](http://www.expandrive.com/mac)
+[<img loading="lazy"  title="expandrive" src="/assets/2009/06/expandrive.png" alt="expandrive"   srcset="/assets/2009/06/expandrive.png 600w, /assets/2009/06/expandrive-300x90.png 300w" sizes="(max-width: 600px) 100vw, 600px" />](http://www.expandrive.com/mac)
 
 Expandrive hat sich nach längerer Suche nämlich als die einzige vernnünftige und schnelle Lösung für das synchronisieren via SFTP herausgestellt. ExpanDrive basiert auf [MacFUSE](http://code.google.com/p/macfuse/) scheint aber noch einiges mehr unter der Haube zu haben als [MacFusion](http://www.macfusionapp.org/). Es fühlt sich einfach schnell und ziemlich normal an auf dem Webserver zu arbeiten und die Dateien sind in einem Augenschlag da. Es fühlt sich praktisch wie eine zusätzliche Festplatte an (jedenfalls mit Textdateien).
 

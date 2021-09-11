@@ -21,10 +21,10 @@ tags:
 ---
 This app (written in Processing) is our entry for the Intel Perceptual Challenge. It tries to help computer users maintaining a better posture.
 
-<div id="attachment_3454" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3454" loading="lazy" src="/assets/2013/09/sit_prefect_06061.jpg" alt="Sit Perfect App" width="606" height="620" class="size-full wp-image-3454" />
+<div id="attachment_3454" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3454" loading="lazy" src="/assets/2013/09/sit_prefect_06061.jpg" alt="Sit Perfect App"    />
 
-  <p id="caption-attachment-3454" class="wp-caption-text">
+  <p id="caption-attachment-3454" >
     Sit Perfect App
   </p>
 </div>

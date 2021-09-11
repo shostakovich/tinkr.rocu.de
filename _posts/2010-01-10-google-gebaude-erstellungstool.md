@@ -23,9 +23,9 @@ Dieses Mal beschäftigen wir uns mit dem Google Gebäudeerstellungstool für Goo
 Ich habe mal in Nürnberg ein kleines Haus neben einer S-Bahn-Station ausprobiert:
 
 Zur erst muss man ein Gittermodell an den Ecken des Gebäudes ausrichten. Das wiederholt sich noch ganze fünf mal, für insgesamt sechs verschiedene Ansichten.
-<img loading="lazy" src="/assets/2010/01/google_builder_2d.png" alt="" title="Gitter auf 2D-Bild" width="606" height="326" class="alignnone size-full wp-image-1392" srcset="/assets/2010/01/google_builder_2d.png 606w, /assets/2010/01/google_builder_2d-300x161.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/01/google_builder_2d.png" alt="" title="Gitter auf 2D-Bild"    srcset="/assets/2010/01/google_builder_2d.png 606w, /assets/2010/01/google_builder_2d-300x161.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Anschließend kann man auf Ansicht klicken und das eigene Modell wird in GoogleEarth angezeigt:
-<img loading="lazy" src="/assets/2010/01/google_builder_3d.png" alt="" title="3D Gebäude für GoogleEarth" width="606" height="326" class="alignnone size-full wp-image-1393" srcset="/assets/2010/01/google_builder_3d.png 606w, /assets/2010/01/google_builder_3d-300x161.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/01/google_builder_3d.png" alt="" title="3D Gebäude für GoogleEarth"    srcset="/assets/2010/01/google_builder_3d.png 606w, /assets/2010/01/google_builder_3d-300x161.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Link: <http://sketchup.google.com/intl/de/3dwh/buildingmaker.html>

@@ -23,6 +23,6 @@ Gibt es etwas schöneres als im freien an YiGG.de zu programmieren? Ich glaube m
 
 Vor ein paar Tagen bin ich auf die verrückte Idee gekommen, das schöne Wetter und die Mörderreichweite unseres Büro WLAN&#8217;s auszunutzen und einfach draußen zu arbeiten. Ich muss sagen, die Idee war ausserordentlich gut !
 
-<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/sonstiges/yigg_dach.jpg" alt="Arbeiten auf dem Dach bei YiGG" width="434" height="247" /> 
+<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/sonstiges/yigg_dach.jpg" alt="Arbeiten auf dem Dach bei YiGG"   />
 
 Nebenbei können sich alle YiGG-Nutzer auf ein paar coole Features freuen, die jetzt in der nächsten Zeit kommen. Auf dem Dach hat man halt gute Ideen. Mit dem Umbau von Web2.0Du.de bin ich, angesichts des tollen Wetters, nicht so recht weitergekommen, im Hintergrund ändern sich aber viele Kleinigkeiten, von denen ihr (hoffentlich) nichts mitbekommt.

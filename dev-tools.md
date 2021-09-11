@@ -14,7 +14,7 @@ All programs are written in Visual C#. The latest .net-runtime must be installed
 
 ### BMP2RGB8-converter tool
 
-<img loading="lazy" src="/assets/2008/08/program_bmp-300x202.png" alt="" title="Program bmp-converter" width="300" height="202" class="alignnone size-medium wp-image-94" />
+<img loading="lazy" src="/assets/2008/08/program_bmp-300x202.png" alt="" title="Program bmp-converter"    />
 
 
 

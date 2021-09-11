@@ -27,10 +27,10 @@ It&#8217;s really easy to loose the Withings Pulse with the original mount, when
 So why not create my own pouch? Said and done.
 
 
-<div id="attachment_3523" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3523" loading="lazy" src="/assets/2014/02/withings_pouch_01.jpg" alt="sewing machine and Withings Pulse Pouch" width="606" height="455" class="size-full wp-image-3523" srcset="/assets/2014/02/withings_pouch_01.jpg 606w, /assets/2014/02/withings_pouch_01-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3523" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3523" loading="lazy" src="/assets/2014/02/withings_pouch_01.jpg" alt="sewing machine and Withings Pulse Pouch"    srcset="/assets/2014/02/withings_pouch_01.jpg 606w, /assets/2014/02/withings_pouch_01-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3523" class="wp-caption-text">
+  <p id="caption-attachment-3523" >
     sewing machine and Withings Pulse Pouch
   </p>
 </div>
@@ -38,10 +38,10 @@ So why not create my own pouch? Said and done.
 As source material I used some fabric from a side pocket of a wasted outdoor jacket. The fabric is durable and you can also see the OLED display through it.
 
 
-<div id="attachment_3524" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3524" loading="lazy" src="/assets/2014/02/withings_pouch_02.jpg" alt="Withings Pulse is still visible" width="606" height="415" class="size-full wp-image-3524" />
+<div id="attachment_3524" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3524" loading="lazy" src="/assets/2014/02/withings_pouch_02.jpg" alt="Withings Pulse is still visible"    />
 
-  <p id="caption-attachment-3524" class="wp-caption-text">
+  <p id="caption-attachment-3524" >
     Withings Pulse is still visible
   </p>
 </div>
@@ -49,10 +49,10 @@ As source material I used some fabric from a side pocket of a wasted outdoor jac
 This is how I wear Withings Pulse:
 
 
-<div id="attachment_3526" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3526" loading="lazy" src="/assets/2014/02/withings_pouch_03.jpg" alt="Withings Pulse Pouch in my pocket" width="606" height="498" class="size-full wp-image-3526" />
+<div id="attachment_3526" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3526" loading="lazy" src="/assets/2014/02/withings_pouch_03.jpg" alt="Withings Pulse Pouch in my pocket"    />
 
-  <p id="caption-attachment-3526" class="wp-caption-text">
+  <p id="caption-attachment-3526" >
     Withings Pulse Pouch in my pocket
   </p>
 </div>

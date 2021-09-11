@@ -26,10 +26,10 @@ My Evo/Mint cleaning robot made some crunching noises when it was driving and cl
 
 It&#8217;s pretty easy to open the enclosure of it. Just unscrew these for screws:
 
-<div id="attachment_3232" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3232" loading="lazy" src="/assets/2013/03/evo_screws.jpg" alt="evo robot screws" width="606" height="654" class="size-full wp-image-3232" />
+<div id="attachment_3232" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3232" loading="lazy" src="/assets/2013/03/evo_screws.jpg" alt="evo robot screws"    />
 
-  <p id="caption-attachment-3232" class="wp-caption-text">
+  <p id="caption-attachment-3232" >
     evo robot screws
   </p>
 </div>
@@ -38,20 +38,20 @@ After that you can see what&#8217;s inside. Surprisingly there are two big weigh
 The design of all the components is pretty straight forward. Two bumper switches and the infrared distance sensor in the front. Two optical switches to detect if the robot is lifted from the surface.
 In the middle you can see the buzzer, 3 switches (1: on/off, 2+3: mode switches) and the infrared detector to detect the pattern projected by the robots satellite.
 
-<div id="attachment_3231" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3231" loading="lazy" src="/assets/2013/03/evo_inside.jpg" alt="evo inside" width="606" height="436" class="size-full wp-image-3231" />
+<div id="attachment_3231" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3231" loading="lazy" src="/assets/2013/03/evo_inside.jpg" alt="evo inside"    />
 
-  <p id="caption-attachment-3231" class="wp-caption-text">
+  <p id="caption-attachment-3231" >
     evo inside
   </p>
 </div>
 
 I vacuumed the chassis and removed some hairs that got between the wheels. And finally I put all together:
 
-<div id="attachment_3237" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3237" loading="lazy" src="/assets/2013/03/evo_repaired.jpg" alt="evo repaired" width="606" height="455" class="size-full wp-image-3237" srcset="/assets/2013/03/evo_repaired.jpg 606w, /assets/2013/03/evo_repaired-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3237" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3237" loading="lazy" src="/assets/2013/03/evo_repaired.jpg" alt="evo repaired"    srcset="/assets/2013/03/evo_repaired.jpg 606w, /assets/2013/03/evo_repaired-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3237" class="wp-caption-text">
+  <p id="caption-attachment-3237" >
     evo repaired
   </p>
 </div>

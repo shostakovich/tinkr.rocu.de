@@ -15,12 +15,12 @@ categories:
 ---
 Nachdem wir per Bahn in Bodenmais angekommen waren, mussten wir ein ganz schönes Stück zu Fuß zur Pension Paul-A kraxeln und waren dort ganz Positiv davon überrascht, dass wir für 2 Leute eine 4 Mann Suite zugeteilt bekamen.
 
-<img loading="lazy" src="/assets/2010/05/bodemais_tag1_1.jpg" alt="" title="bodemais_tag1_1" width="606" height="455" class="alignnone size-full wp-image-1624" srcset="/assets/2010/05/bodemais_tag1_1.jpg 606w, /assets/2010/05/bodemais_tag1_1-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/bodemais_tag1_1.jpg" alt="" title="bodemais_tag1_1"    srcset="/assets/2010/05/bodemais_tag1_1.jpg 606w, /assets/2010/05/bodemais_tag1_1-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Die Wirtin schien ganz nett und von der sehr beleibten Katze abgesehen, ist es hier sehr schön. Besonders unpostitiv überrascht sind wir auch von den vielfältigen Wellnessgerichten, die es hier in Bodenmais gibt. So kann man von Schweinsbraten über Schweinshaxen bis hin zu Schweinsbraten wirklich alles bekommen. Dafür kann sich hier der Selbstversorger aber sehr simpel bei Aldi und Rewe, die beide bis 20:00 Uhr aufhaben, eindecken.
 
-<img loading="lazy" src="/assets/2010/05/bodemais_tag1_2.jpg" alt="" title="bodemais_tag1_2" width="606" height="455" class="alignnone size-full wp-image-1625" srcset="/assets/2010/05/bodemais_tag1_2.jpg 606w, /assets/2010/05/bodemais_tag1_2-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/bodemais_tag1_2.jpg" alt="" title="bodemais_tag1_2"    srcset="/assets/2010/05/bodemais_tag1_2.jpg 606w, /assets/2010/05/bodemais_tag1_2-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Nachdem wir das nun gemacht haben, haben wir nun die Route für morgen geplant. Wir freuen uns schon sehr und wie immer gibt es morgen Bilder auf Zipfelmaus.
 
-<img loading="lazy" src="/assets/2010/05/bodemais_tag1_31.jpg" alt="" title="" width="606" height="455" class="alignnone size-full wp-image-1627" srcset="/assets/2010/05/bodemais_tag1_31.jpg 606w, /assets/2010/05/bodemais_tag1_31-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/bodemais_tag1_31.jpg" alt="" title=""    srcset="/assets/2010/05/bodemais_tag1_31.jpg 606w, /assets/2010/05/bodemais_tag1_31-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />

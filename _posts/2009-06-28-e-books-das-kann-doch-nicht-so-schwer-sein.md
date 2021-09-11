@@ -28,7 +28,7 @@ Es ist unglaublich wie viel Energie und Holz für jedes Buch, für all die Zeitu
 Erfreut war ich daher vor über 10 Jahren als ich von der Erfindung des elektronischen Papiers hörte. Ich habe mir als Kind der Generation 386’er schon damals gewünscht und vorgestellt, wie es sein könnte alle Bücher auf einem Gerät mitzunehmen und bequem lesen zu können.
 Heute ist die Technik ausgereift es gibt eine Menge benutzbarer E-Book-Reader. In den Vereinigten Staaten probiert Amazon mit dem Kindle den Büchermarkt zu revolutionieren.
 
-<img loading="lazy" src="/assets/2009/06/iliad.jpg" alt="iliad" title="iliad" width="606" height="403" class="alignleft size-full wp-image-825" srcset="/assets/2009/06/iliad.jpg 606w, /assets/2009/06/iliad-300x199.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/06/iliad.jpg" alt="iliad" title="iliad"    srcset="/assets/2009/06/iliad.jpg 606w, /assets/2009/06/iliad-300x199.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Vor einiger Zeit habe ich mir also auch einen E-Book-Reader gekauft - einen IRex Iliad und bin damit prinzipiell recht zufrieden. Mit dem Gerät meine ich - den es gibt ein riesiges Problem:
 Ich frage mich nämlich ernsthaft wie ich legal an E-Books kommen soll. Es ist lächerlich aber in Deutschland gibt es keine bequeme Möglichkeit dazu. Die wenigen Bücher, die es gibt sind kopiergeschützt und werden in nahezu unutzbaren propriätären Formaten angeboten. Es werden eigen Süppchen gekocht anstelle sich auf offene Standards zu einigen. Die Bücher sind genauso teuer wie die gedruckte Ausgabe inkl. Versand. Zudem ist die Suche nach den elektronischen Büchern bisher vollkommen unintuitiv.

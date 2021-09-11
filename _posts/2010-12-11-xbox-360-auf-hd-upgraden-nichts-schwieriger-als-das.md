@@ -24,7 +24,7 @@ tags:
 ---
 Stellen wir uns folgende Szene vor: Es ist der Heiligabend. Und Papa hat für sich und seinen Söner eine Xbox mit Kinect, HD-Beamer und allem Pipapo eingekauft. Er selbst denkt, an alles nur erdenkliche gedacht zu haben. Dann stellt er fest, dass sich Microsoft so einiges hat einfallen lassen, dass mehr als einmal die gesamte Weihnachtsstimmung flöten geht.
 
-<img loading="lazy" src="/assets/2010/12/xbox_kinect.png" alt="" title="Xbox 360 slim mit Kinect Sensor" width="606" height="450" class="aligncenter size-full wp-image-2042" />
+<img loading="lazy" src="/assets/2010/12/xbox_kinect.png" alt="" title="Xbox 360 slim mit Kinect Sensor"    />
 
 Wie ich darauf komme? Nun ich habe leider meine eigenen Erfahrungen damit gemacht:
 
@@ -37,10 +37,10 @@ Leider ging nach dieser Frickelei der HD-Beamer immer noch nicht nicht: kein Bil
 
 Ein zweiter Beamer war nötig, um der Xbox ein Bild über HDMI zu entlocken. Auf dem zweiten Beamer konnten wir dann die Auflösung der Xbox ändern, um den fest installierten Beamer zur Mitarbeit zu bewegen. Nach vielen nervenaufreibenden Minuten oder gar gefühlten Stunden war dann alles pikobello verkabelt und funktionierte auch so wie gedacht.
 
-<img loading="lazy" src="/assets/2010/12/xbox_kinect_beamer.png" alt="" title="komplett aufgebautes System mit HD Beamer, Leinwand und Xbox mit Kinect" width="606" height="464" class="aligncenter size-full wp-image-2043" />
+<img loading="lazy" src="/assets/2010/12/xbox_kinect_beamer.png" alt="" title="komplett aufgebautes System mit HD Beamer, Leinwand und Xbox mit Kinect"    />
 
 Fragt sich ob unserer fiktiver Weihnachtspapa, dass überhaupt alleine hinbekommen hätte - vermutlich wären einfach riesige Krokodilstränen geflossen.
 
 Schade, dass Technik immer noch so kompliziert sein muss.
 
-Weitere Infos zur Xbox und Kinect gibt es hier: [Xbox 360 - Konsole Slim 4 GB Kinect Bundle incl. Kinect Adventures](http://www.amazon.de/gp/product/B003WUXT9E?ie=UTF8&tag=zipfeblog-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=B003WUXT9E)<img loading="lazy" src="http://www.assoc-amazon.de/e/ir?t=zipfeblog-21&#038;l=as2&#038;o=3&#038;a=B003WUXT9E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+Weitere Infos zur Xbox und Kinect gibt es hier: [Xbox 360 - Konsole Slim 4 GB Kinect Bundle incl. Kinect Adventures](http://www.amazon.de/gp/product/B003WUXT9E?ie=UTF8&tag=zipfeblog-21&linkCode=as2&camp=1638&creative=19454&creativeASIN=B003WUXT9E)<img loading="lazy" src="http://www.assoc-amazon.de/e/ir?t=zipfeblog-21&#038;l=as2&#038;o=3&#038;a=B003WUXT9E"   border="0" alt="" style="border:none !important; margin:0px !important;" />

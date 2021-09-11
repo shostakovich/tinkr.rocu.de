@@ -22,9 +22,9 @@ tags:
 Gleich an zwei Projekten arbeitet das Z-Maus-Team diesen Sommer:
 
 an dem Pan&Tilt-System:
-<img loading="lazy" src="/assets/2010/07/pan_tilt_arduino.jpg" alt="" title="Pan&Tilt-System" width="606" height="455" class="alignnone size-full wp-image-1730" srcset="/assets/2010/07/pan_tilt_arduino.jpg 606w, /assets/2010/07/pan_tilt_arduino-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/07/pan_tilt_arduino.jpg" alt="" title="Pan&Tilt-System"    srcset="/assets/2010/07/pan_tilt_arduino.jpg 606w, /assets/2010/07/pan_tilt_arduino-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 Hiermit können Sensoren oder Kameras ausgerichtet und getriggert werden. Die Steuerung übernimmt ein Arduino Duemilanove.
 
 und einem modifizierten RC-Jeep:
-<img loading="lazy" src="/assets/2010/07/rc_jeep.jpg" alt="" title="Modifizierter RC-Jeep" width="606" height="455" class="alignnone size-full wp-image-1731" srcset="/assets/2010/07/rc_jeep.jpg 606w, /assets/2010/07/rc_jeep-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/07/rc_jeep.jpg" alt="" title="Modifizierter RC-Jeep"    srcset="/assets/2010/07/rc_jeep.jpg 606w, /assets/2010/07/rc_jeep-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 Das Chassis wird erweitert durch ein Blech, auf dem diverse Steuerungs- und Sensorikelektronik verbaut ist. Ein Arduino Mega übernimmt wiederum die Gesamtsteuerung.

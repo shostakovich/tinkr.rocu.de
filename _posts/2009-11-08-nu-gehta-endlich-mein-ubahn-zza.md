@@ -23,4 +23,4 @@ Bitte was, ZZA, was ist denn das? Das heißt ausgeschrieben Zugzielanzeiger, ist
 
 So einen ZZA hatte die MVG vor ein paar Jahren über und nun steht das kleine Kästchen schon einige Zeit bei mir rum. Das jetzige Wochenende hab ich dann auch genutzt, dem ZZA Leben einzuhauchen. Mangels Unterlagen ist das gar nicht so leicht und da hat es doch ein wenig gedauert, bis das 40kg Kästchen auch das gemacht hat, was es soll, den nächsten Zug anzeigen:
 
-<img loading="lazy" src="/assets/2009/11/zza1.jpg" alt="Ubahn-Zugzielanzeiger - Inbetriebnahme" title="Ubahn-Zugzielanzeiger - Inbetriebnahme" width="606" height="455" class="alignnone size-full wp-image-1282" srcset="/assets/2009/11/zza1.jpg 606w, /assets/2009/11/zza1-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/11/zza1.jpg" alt="Ubahn-Zugzielanzeiger - Inbetriebnahme" title="Ubahn-Zugzielanzeiger - Inbetriebnahme"    srcset="/assets/2009/11/zza1.jpg 606w, /assets/2009/11/zza1-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />

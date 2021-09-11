@@ -25,7 +25,7 @@ curl http://www.python.org/ftp/python/3.0/Python-3.0.tgz > Python.tgz
 tar -xvf Python.tgz
 cd Python-3.0/
 
-<img loading="lazy" alt="" src="http://cdn.cloudfiles.mosso.com/c12031/python.png" title="Burmese python 3 from Tambako the Jaguar (Flickr)" class="alignnone" width="606" height="467" />
+<img loading="lazy" alt="" src="http://cdn.cloudfiles.mosso.com/c12031/python.png" title="Burmese python 3 from Tambako the Jaguar (Flickr)"    />
 
 **Konfigurieren und installieren:**
 ./configure -enable-framework MACOSX\_DEPLOYMENT\_TARGET=10.5 -with-universal-archs=all

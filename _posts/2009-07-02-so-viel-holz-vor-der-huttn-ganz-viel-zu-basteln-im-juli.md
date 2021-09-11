@@ -20,9 +20,9 @@ tags:
 ---
 Recht viel Geld haben wir gestern im örtlichen Obibiber-Geschäft gelassen, um ein paar Holzplatten, -Leisten, -Rundstäbe und allerlei Zubehör zu erstehen.
 
-<img loading="lazy" src="/assets/2009/07/holz.jpg" alt="Holz so weit das Auge reicht" title="holz" width="606" height="455" class="alignleft size-full wp-image-865" srcset="/assets/2009/07/holz.jpg 606w, /assets/2009/07/holz-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/07/holz.jpg" alt="Holz so weit das Auge reicht" title="holz"    srcset="/assets/2009/07/holz.jpg 606w, /assets/2009/07/holz-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Aus diesem Holzdurcheinander sollen im Laufe des Monats ein paar nette Gegenstände werden. Einen ersten Vorgeschmack liefert die nachfolgenden Sketchup-Entwürfe:
-<img loading="lazy" src="/assets/2009/07/sketchup_roundup.png" alt="Sketchup Roundup" title="Sketchup Roundup" width="606" height="511" class="alignleft size-full wp-image-866" srcset="/assets/2009/07/sketchup_roundup.png 606w, /assets/2009/07/sketchup_roundup-300x252.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/07/sketchup_roundup.png" alt="Sketchup Roundup" title="Sketchup Roundup"    srcset="/assets/2009/07/sketchup_roundup.png 606w, /assets/2009/07/sketchup_roundup-300x252.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Die dazu passenden Bastel-Anleitungen folgen in den nächsten Tagen bzw. Wochen.

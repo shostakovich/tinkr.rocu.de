@@ -23,12 +23,12 @@ tags:
   - Videospiele
   - Wii
 ---
-<img loading="lazy" src="/assets/2008/08/gc_1-300x218.jpg" alt="" title="Games Convention" width="300" height="218" class="alignnone size-medium wp-image-103" />
+<img loading="lazy" src="/assets/2008/08/gc_1-300x218.jpg" alt="" title="Games Convention"    />
 
 Ganz viel los war heute auf der Games-Convention (GC) in Leipzig. In vier der fünf Leipziger Messehallen präsentierte die Spieleindustrie das, was die Daddelgeneration morgen spielen soll.
 Besonders stark wurde das Xbox-Spiel Rockband beworben.
 
-[<img border="0" src="http://ecx.images-amazon.com/images/I/41xlM0Jjl-L._SL160_.jpg" />](http://www.amazon.de/gp/product/B0017J6RY6?ie=UTF8&tag=zipfeblog-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=B0017J6RY6)<img loading="lazy" src="http://www.assoc-amazon.de/e/ir?t=zipfeblog-21&#038;l=as2&#038;o=3&#038;a=B0017J6RY6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[<img border="0" src="http://ecx.images-amazon.com/images/I/41xlM0Jjl-L._SL160_.jpg" />](http://www.amazon.de/gp/product/B0017J6RY6?ie=UTF8&tag=zipfeblog-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=B0017J6RY6)<img loading="lazy" src="http://www.assoc-amazon.de/e/ir?t=zipfeblog-21&#038;l=as2&#038;o=3&#038;a=B0017J6RY6"   border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Aber das war mir viel zu zipfelig. Selber angespielt habe ich:
 - Project Origin (Nachfolger von Fear), was ich recht schniecke fand, [Link](http://projectorigin.warnerbros.com/)
@@ -46,39 +46,19 @@ Auch in der Leipziger Fußgängerzone fanden sich einige Ausläufer der GC. So w
 <div id='gallery-2' class='gallery galleryid-102 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/gc_1/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/gc_1.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/gc_1/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/gc_1.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00118/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00118.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00118/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00118.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00092/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00092.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <br style="clear: both" />
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00094/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00094.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00097/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00097.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00098/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00098.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00092/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00092.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
@@ -86,39 +66,19 @@ Auch in der Leipziger Fußgängerzone fanden sich einige Ausläufer der GC. So w
 
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00099/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00099.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00094/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00094.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00101/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00101.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00097/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00097.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00103/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00103.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <br style="clear: both" />
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00104/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00104.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00106/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00106.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00108/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00108.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00098/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00098.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
@@ -126,19 +86,59 @@ Auch in der Leipziger Fußgängerzone fanden sich einige Ausläufer der GC. So w
 
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00111/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00111.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00099/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00099.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00113/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00113.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00101/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00101.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon '>
-      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00115/'><img width="1" height="1" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00115.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00103/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00103.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <br style="clear: both" />
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon '>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00104/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00104.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon '>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00106/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00106.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon '>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00108/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00108.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <br style="clear: both" />
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon '>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00111/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00111.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon '>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00113/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00113.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon '>
+      <a href='http://tinkr.de/blog/crazy-for-you-crazy-for-me-oder-so-ahnlich-live-von-der-games-convention/dsc00115/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/08/dsc00115.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 

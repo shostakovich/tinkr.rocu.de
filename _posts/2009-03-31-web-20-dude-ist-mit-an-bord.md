@@ -13,6 +13,6 @@ categories:
 ---
 Endlich ist es so weit: Zipfelmaus und ich haben beschlossen von nun an zusammen zu Bloggen. Wir beide schreiben jeweils eher unregelmäßig und hoffen zusammen eine Artikelfrequenz zu erreichen, bei der unsere Leser nicht einschlafen müssen.
 
-<img loading="lazy" src="/assets/2009/03/robert-128x128.png" width="128" height="128" alt="Robert_128x128.png" style="float:left;" /> Nun aber ein paar Zeilen zu meiner Person: Ich bin 25 Jahre alt und Webentwickler bei YiGG.de, einen größeren deutschen Web 2.0 Seite. In meiner Freizeit widme ich mich meinem Nabaztag/Tag, spiele mit YaCy (einer verteilten Suchmachine) rum oder mache andere Geekige Sachen 🙂
+<img loading="lazy" src="/assets/2009/03/robert-128x128.png"   alt="Robert_128x128.png" style="float:left;" /> Nun aber ein paar Zeilen zu meiner Person: Ich bin 25 Jahre alt und Webentwickler bei YiGG.de, einen größeren deutschen Web 2.0 Seite. In meiner Freizeit widme ich mich meinem Nabaztag/Tag, spiele mit YaCy (einer verteilten Suchmachine) rum oder mache andere Geekige Sachen 🙂
 
 Nur der Vollständigkeit halber: Meine alten Artikel sind mit umgezogen, schaut euch um - vielleicht gefällt euch ja das ein oder andere.

@@ -24,10 +24,10 @@ A few days ago i tried to get the WebClient example in Arduino working. After so
 
 (UPDATE: It does also has issues with Lighttpd - Fix in the second example)
 
-<div id="attachment_1140" style="width: 589px" class="wp-caption alignnone">
-  <a href="http://www.flickr.com/photos/mbiddulph/2398504278/sizes/l/"><img aria-describedby="caption-attachment-1140" loading="lazy" src="/assets/2009/09/2398504278_75edbeeb0e_b1.jpg" alt="Arduino with Ethernet Shield (Matt Biddulph / Flickr)" title="2398504278_75edbeeb0e_b" width="579" height="434" class="size-full wp-image-1140" srcset="/assets/2009/09/2398504278_75edbeeb0e_b1.jpg 579w, /assets/2009/09/2398504278_75edbeeb0e_b1-300x224.jpg 300w" sizes="(max-width: 579px) 100vw, 579px" /></a>
+<div id="attachment_1140" style="width: 589px" >
+  <a href="http://www.flickr.com/photos/mbiddulph/2398504278/sizes/l/"><img aria-describedby="caption-attachment-1140" loading="lazy" src="/assets/2009/09/2398504278_75edbeeb0e_b1.jpg" alt="Arduino with Ethernet Shield (Matt Biddulph / Flickr)" title="2398504278_75edbeeb0e_b"    srcset="/assets/2009/09/2398504278_75edbeeb0e_b1.jpg 579w, /assets/2009/09/2398504278_75edbeeb0e_b1-300x224.jpg 300w" sizes="(max-width: 579px) 100vw, 579px" /></a>
 
-  <p id="caption-attachment-1140" class="wp-caption-text">
+  <p id="caption-attachment-1140" >
     Arduino with Ethernet Shield (Matt Biddulph / Flickr)
   </p>
 </div>
@@ -42,7 +42,7 @@ I propose to add a hint to the example or to change it, since a router is the no
 
 Here is my slightly modified version of the example code that finally worked 🙂
 
-[cpp]
+```
 #include <Ethernet.h>
 
 byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
@@ -85,15 +85,15 @@ for(;;)
 ;
 }
 }
-[/cpp]
+```
 
 ## UPDATE:
 
 The Ethernet Library does not work with Lighttpd. You can however easily circumvent this if you use a HTTP-proxy server.
 You have to set server variable to the IP of the proxy and send something like the following example to the proxy. The rest works pretty much the same then..
 
-[cpp]
+```
 client.println("GET http://www.google.com/search?q=arduino HTTP/1.0");
 client.println("host: www.google.com"); // You have to send a host-header for many domains
 client.println();
-[/cpp]
+```

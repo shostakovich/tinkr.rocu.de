@@ -23,7 +23,7 @@ Bevor es aber mit den Monsterprojekten, den Arm- und Jeep-Roboter, losgeht, gibt
 
 Mit diesem kann man auf einer Langzeitbelichtung lustige Sachen malen. Ein Beispiel seht ihr hier:
 
-<img loading="lazy" src="/assets/2010/03/led_stift_hallo.jpg" alt="" title="LED-Stift - Hallo" width="606" height="404" class="alignnone size-full wp-image-1500" srcset="/assets/2010/03/led_stift_hallo.jpg 606w, /assets/2010/03/led_stift_hallo-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/03/led_stift_hallo.jpg" alt="" title="LED-Stift - Hallo"    srcset="/assets/2010/03/led_stift_hallo.jpg 606w, /assets/2010/03/led_stift_hallo-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Der Aufbau ist wirklich simpel und sicherlich liegt das meiste Daheim schon rum:
 2 Knopfzellen
@@ -33,5 +33,5 @@ und eine Kamera, die wo Langzeitbelichtung kann
 
 Die Knopfzellen werden in gleicher Polung übereinander gelegt und mit Tesa zusammen geklebt. Das lange Beinchen der LED wird so gebogen, das beide Beinchen gut auf den Knopfzellen aufliegen können. Das lange Beinchen kommt auf den Pluspol (in der Regel der Batterienboden) und das kurze auf den Minuspol. Schon müsste die LED leuchten und das Schreiben kann beginnen.
 
-<img loading="lazy" src="/assets/2010/03/led_stift.jpg" alt="" title="LED-Stift" width="606" height="404" class="alignnone size-full wp-image-1499" srcset="/assets/2010/03/led_stift.jpg 606w, /assets/2010/03/led_stift-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/03/led_stift.jpg" alt="" title="LED-Stift"    srcset="/assets/2010/03/led_stift.jpg 606w, /assets/2010/03/led_stift-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 Hinweis: Beim Umgang mit elektrischem Strom sind die gängigen Vorschriften zu beachten.

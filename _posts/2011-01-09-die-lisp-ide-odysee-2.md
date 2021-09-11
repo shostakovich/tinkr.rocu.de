@@ -53,7 +53,7 @@ Danach habe ich eine Zeit lang mit [LISPIDE](http://www.daansystems.com/lispide/
 
 ### Emacs und Slime
 
-<img loading="lazy" src="/assets/2011/01/emacs_slime.jpg" alt="Emacs und Slime" title="emacs_slime" width="606" height="620" class="alignnone size-full wp-image-2144" />
+<img loading="lazy" src="/assets/2011/01/emacs_slime.jpg" alt="Emacs und Slime" title="emacs_slime"    />
 
 Tja schließlich bin ich dann doch bei Emacs und Slime hängengeblieben. Ich wollte es ja eigentlich vermeiden, aber es scheint wirklich die beste Lösung zu sein.
 

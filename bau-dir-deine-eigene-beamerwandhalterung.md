@@ -12,7 +12,7 @@ Zu der Beamerleinwand gehört natürlich auch noch eine Beamerhalterung. Der Auf
 
 ### Konstruktionszeichnung:
 
-[<img loading="lazy" src="/assets/2009/06/Beamerhalterung_Sktup_606.png" alt="Beamerhalterung Konstruktionszeichnung - Unterseite oben" title="Beamerhalterung Konstruktionszeichnung" width="606" height="409" class="alignleft size-full wp-image-834" srcset="/assets/2009/06/Beamerhalterung_Sktup_606.png 606w, /assets/2009/06/Beamerhalterung_Sktup_606-300x202.png 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2009/06/Beamerhalterung_Sktup.png)
+[<img loading="lazy" src="/assets/2009/06/Beamerhalterung_Sktup_606.png" alt="Beamerhalterung Konstruktionszeichnung - Unterseite oben" title="Beamerhalterung Konstruktionszeichnung"    srcset="/assets/2009/06/Beamerhalterung_Sktup_606.png 606w, /assets/2009/06/Beamerhalterung_Sktup_606-300x202.png 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2009/06/Beamerhalterung_Sktup.png)
 
 ### Einkaufsliste:
 
@@ -42,8 +42,8 @@ Allerdings ergibt sich beim Beamer ein Schwerpunktproblem. Dieser wirkt auf die 
 
 Tipp zu den Schrauben: Da der Winkel an den vier Bohrlöchern unterschiedlich dick ist, benötigt man hier auch unterschiedlich lange Schrauben. Das sollte man gleich beachten, wenn man beim Obi-Biber ist.
 
-<img loading="lazy" src="/assets/2009/06/beamer_halterung1.jpg" alt="Beamerhalterung" title="Beamerhalterung" width="606" height="361" class="alignnone size-full wp-image-705" srcset="/assets/2009/06/beamer_halterung1.jpg 606w, /assets/2009/06/beamer_halterung1-300x178.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/06/beamer_halterung1.jpg" alt="Beamerhalterung" title="Beamerhalterung"    srcset="/assets/2009/06/beamer_halterung1.jpg 606w, /assets/2009/06/beamer_halterung1-300x178.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
-<img loading="lazy" src="/assets/2009/06/beamer_halterung2.jpg" alt="Beamerhalterung, an der Wand montiert" title="Beamerhalterung, an der Wand montiert" width="606" height="455" class="alignnone size-full wp-image-706" srcset="/assets/2009/06/beamer_halterung2.jpg 606w, /assets/2009/06/beamer_halterung2-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/06/beamer_halterung2.jpg" alt="Beamerhalterung, an der Wand montiert" title="Beamerhalterung, an der Wand montiert"    srcset="/assets/2009/06/beamer_halterung2.jpg 606w, /assets/2009/06/beamer_halterung2-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
-<img loading="lazy" src="/assets/2009/06/beamer_halterung3.jpg" alt="Beamerhalterung, an der Wand montiert mit Beamer" title="Beamerhalterung, an der Wand montiert mit Beamer" width="606" height="455" class="alignnone size-full wp-image-707" srcset="/assets/2009/06/beamer_halterung3.jpg 606w, /assets/2009/06/beamer_halterung3-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/06/beamer_halterung3.jpg" alt="Beamerhalterung, an der Wand montiert mit Beamer" title="Beamerhalterung, an der Wand montiert mit Beamer"    srcset="/assets/2009/06/beamer_halterung3.jpg 606w, /assets/2009/06/beamer_halterung3-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />

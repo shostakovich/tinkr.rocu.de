@@ -27,12 +27,12 @@ In der neuen Version 2.5Beta, wird nun endlich anstelle von Squid 2, Squid 3.0 v
 
 Natürlich habe ich es mir nicht nehmen lassen,  die neuen Beta zu installieren. Ausserdem habe ich mir eine ganz nette Idee überlegt, wie ich sicher und schnell surfen kann ohne viel Geld für ein teures VPN auszugeben. Ich habe dazu einfach Squid 3 auf meinem Vserver installiert und mir per SSH den Squid-Port lokal weitergeleitet.
 
-<img loading="lazy" class="alignnone size-full wp-image-680" title="Shimo Einstellungen" src="/assets/2009/06/shimo.jpg" alt="Shimo Einstellungen" width="550" height="350" srcset="/assets/2009/06/shimo.jpg 550w, /assets/2009/06/shimo-300x190.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" />
+<img loading="lazy"  title="Shimo Einstellungen" src="/assets/2009/06/shimo.jpg" alt="Shimo Einstellungen"   srcset="/assets/2009/06/shimo.jpg 550w, /assets/2009/06/shimo-300x190.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" />
 
 Weil die Übertragung über SSH immer etwas langsam geht benutze ich lokal SquidMan um lokal ebenfalls eine Kopie, der statischen Inhalte häufig benutzen Webseiten vorzuhalten. Dazu stelle ich als Parent-Proxy einfach bei SquidMan ein und in meinen Netzwerkeinstellungen den Port von SquidMan als HTTP-Proxy.
 
 <div>
-  <img loading="lazy" class="alignnone size-full wp-image-683" title="squidMan" src="/assets/2009/06/squidMan.jpg" alt="squidMan" width="578" height="366" srcset="/assets/2009/06/squidMan.jpg 578w, /assets/2009/06/squidMan-300x189.jpg 300w" sizes="(max-width: 578px) 100vw, 578px" />
+  <img loading="lazy"  title="squidMan" src="/assets/2009/06/squidMan.jpg" alt="squidMan"   srcset="/assets/2009/06/squidMan.jpg 578w, /assets/2009/06/squidMan-300x189.jpg 300w" sizes="(max-width: 578px) 100vw, 578px" />
 </div>
 
 <div>

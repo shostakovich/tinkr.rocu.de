@@ -22,6 +22,6 @@ tags:
 ---
 My 3D printer Printrbot is finally completted and ready to print some plastic parts.
 
-<img loading="lazy" src="/assets/2012/08/printrbot.jpg" alt="" title="Printrbot" width="606" height="539" class="alignnone size-full wp-image-2952" />
+<img loading="lazy" src="/assets/2012/08/printrbot.jpg" alt="" title="Printrbot"    />
 
 Today I printed some repairing material for my IKEA couch. I will post some more details about it later.

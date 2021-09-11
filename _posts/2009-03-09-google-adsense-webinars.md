@@ -17,7 +17,7 @@ tags:
   - Google
   - kostenlos
 ---
-<img loading="lazy" alt="" src="http://web2.0du.de/pictures/google_sm.gif" class="alignleft" width="143" height="59" />Am letzten Donnerstag bin ich in den Genuß eines kostenlosen Google AdSense Webinars gekommen - vielen Dank noch einmal an Google.
+<img loading="lazy" alt="" src="http://web2.0du.de/pictures/google_sm.gif"    />Am letzten Donnerstag bin ich in den Genuß eines kostenlosen Google AdSense Webinars gekommen - vielen Dank noch einmal an Google.
 
 In diesem kurzen Blogpost möchte ich meine Erfahrungen damit teilen:
 

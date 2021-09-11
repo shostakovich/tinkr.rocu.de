@@ -23,7 +23,7 @@ On friday the 26.10.12 I had the opportunity to test the new OS from Microsoft, 
 
 Gizmodo Germany invited 20 guests to it&#8217;s Munich based location.
 
-<img loading="lazy" src="/assets/2012/10/gizmodo_win8_606.jpg" alt="" title="gizmodo_win8_606" width="606" height="455" class="alignnone size-full wp-image-3068" />
+<img loading="lazy" src="/assets/2012/10/gizmodo_win8_606.jpg" alt="" title="gizmodo_win8_606"    />
 
 Our hosts brought a line-up of Windows8 devices, including the Sony Vaio Tap 20 and different Ultrabooks from Acer and Asus.
 

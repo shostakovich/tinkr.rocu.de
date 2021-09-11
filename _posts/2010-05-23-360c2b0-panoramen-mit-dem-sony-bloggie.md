@@ -25,8 +25,8 @@ Also habe ich nur die Standard-Camcorder-Funktionen benutzt. Leider waren sowohl
 Die Lösung ist ein tolles Peli-Case mit Schaumstoff-Auskleidung. Hier kann selbst ein Laster drüber fahren, ohne das der Kamera was passieren sollte.
 
 Heute waren wir dann in Dachau unterwegs und haben ein paar Aufnahmen gemacht:
-<img loading="lazy" src="/assets/2010/05/360_dachau_1.jpg" alt="" title="360° Panorama - Dachau Altstadt" width="606" height="455" class="alignnone size-full wp-image-1670" srcset="/assets/2010/05/360_dachau_1.jpg 606w, /assets/2010/05/360_dachau_1-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
-[<img loading="lazy" src="/assets/2010/05/360_dachau_2.jpg" alt="" title="360° Panorama - Dachau Altstadt entzerrt" width="606" height="87" class="alignnone size-full wp-image-1672" srcset="/assets/2010/05/360_dachau_2.jpg 606w, /assets/2010/05/360_dachau_2-300x43.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2010/05/360_dachau_2_gross.jpg)
+<img loading="lazy" src="/assets/2010/05/360_dachau_1.jpg" alt="" title="360° Panorama - Dachau Altstadt"    srcset="/assets/2010/05/360_dachau_1.jpg 606w, /assets/2010/05/360_dachau_1-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+[<img loading="lazy" src="/assets/2010/05/360_dachau_2.jpg" alt="" title="360° Panorama - Dachau Altstadt entzerrt"    srcset="/assets/2010/05/360_dachau_2.jpg 606w, /assets/2010/05/360_dachau_2-300x43.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2010/05/360_dachau_2_gross.jpg)
 
 Roh-360°-Video
 

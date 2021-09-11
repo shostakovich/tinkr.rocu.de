@@ -40,9 +40,9 @@ Das Kapital einer solchen Anwendung sind natürlich die RSS-Feeds, die abgeklapp
 
 Seit etwa einer Woche benutze ich YaCy und mein MacBook grast sich langsam aber sicher durchs Internet. Nach dem Starten des Java-Crawlers kann man auf einer Webseite das geschehen beobachten.Das ganze sieht dann so aus:
 
-<img loading="lazy" class="alignnone" title="Meine YaCy-Statistik (Live)" src="http://tinkr.de:8080/Banner.png?textcolor=ffffff&bgcolor=000000&bordercolor=aaaaaa" alt="" width="468" height="60" />
+<img loading="lazy"  title="Meine YaCy-Statistik (Live)" src="http://tinkr.de:8080/Banner.png?textcolor=ffffff&bgcolor=000000&bordercolor=aaaaaa" alt=""   />
 
-<img loading="lazy" class="alignnone" title="Aktueller Status des YaCy-Netzwerks" src="http://tinkr.de:8080/NetworkPicture.png?width=606&height=320&bgcolor=000000" alt="" width="606" height="320" />
+<img loading="lazy"  title="Aktueller Status des YaCy-Netzwerks" src="http://tinkr.de:8080/NetworkPicture.png?width=606&height=320&bgcolor=000000" alt=""   />
 
 Das lustige und tolle daran, diese Grafiken werden Live von YaCy erstellt und man kann sie überall einbinden.
 

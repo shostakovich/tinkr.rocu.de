@@ -19,7 +19,7 @@ tags:
 ---
 Nicht schlecht gestaunt habe ich über folgende Entdeckung: Gesichtet an einem Zaun, in einer Nebenstraße in Dachau.
 
-<img loading="lazy" src="/assets/2010/05/kein_streetview.jpg" alt="" title="kein_streetview" width="606" height="455" class="alignnone size-full wp-image-1603" srcset="/assets/2010/05/kein_streetview.jpg 606w, /assets/2010/05/kein_streetview-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/kein_streetview.jpg" alt="" title="kein_streetview"    srcset="/assets/2010/05/kein_streetview.jpg 606w, /assets/2010/05/kein_streetview-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Sind wir schon so weit im Sommerloch? Bevor Google Streetview nach Dachau kommt, sind diese Schilder wohl schon längst verrottet. Ob die Inhaber des Häuschens wohl denken, dass dieses Schild einen Effekt hätte? So war das mit dem Widerspruch dann wohl doch eher nicht gemein.
 

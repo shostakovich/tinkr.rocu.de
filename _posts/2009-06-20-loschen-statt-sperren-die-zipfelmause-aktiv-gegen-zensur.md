@@ -23,7 +23,7 @@ Uns steht in Deutschland das Wasser bis zum Hals. Das gesamte Zipfelmaus-Team is
 
 Auch mit Blick auf die Menschen im Iran, die dort für das Erreichen der Dinge kämpfen, die bei wir hier so leichtfertig wegschmeißen, fand sich die Zipfelmaus-Truppe ein, um sich an der &#8222;Löschen statt Sperren&#8220;-Demo in München zu beteiligen.
 
-<img loading="lazy" src="/assets/2009/06/demo_1.jpg" alt="Beginn der Demo" title="demo_1" width="606" height="286" />
+<img loading="lazy" src="/assets/2009/06/demo_1.jpg" alt="Beginn der Demo" title="demo_1"   />
 
 Gut 300 Leute fanden sich zu der Protestveranstaltung ein. Viele leidenschaftliche Reden wurden gehalten, von den Piraten, den Grünen, den Liberalen. Ehe es dann eigentlich los gehen sollte, mit der Demo, meinte es Petrus schlecht mit uns und öffnete die Regenschleusen. So verkrümmelten sich doch einige Leute. Doch schließlich setzte sich der Protestzug dann doch in Bewegung.
 

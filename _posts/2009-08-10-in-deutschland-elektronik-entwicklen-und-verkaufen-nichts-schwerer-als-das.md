@@ -16,7 +16,7 @@ tags:
   - Elektronikschrottverordnung
   - Petition
 ---
-<img loading="lazy" src="/assets/2009/08/elektronik.jpg" alt="Elektronik" title="Elektronik" width="606" height="494" class="alignnone size-full wp-image-1057" srcset="/assets/2009/08/elektronik.jpg 606w, /assets/2009/08/elektronik-300x244.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/08/elektronik.jpg" alt="Elektronik" title="Elektronik"    srcset="/assets/2009/08/elektronik.jpg 606w, /assets/2009/08/elektronik-300x244.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 Wer als Bastler denkt sich nicht des öfteren, Mensch diese Schaltung ist doch toll, die könnte ich doch für ein paar Tacken an den Mann oder die Frau bringen. Doch wer denkt, in Deutschland sei das ein Klacks, der liegt leider ziemlich daneben.
 So wurde vor ein paar Jahren die Elektronikschrottverordnung erlassen, die EU-Recht in Bundesrecht umsetzen sollte. Was unsere Nachbarländer einfach und fair hinbekommen haben, ist hierzuland typisch-Deutsch ein richtiges böses Monsterwerk geworden. Dieses Monster berücksichtigt zwar fast jeden Unternehmer, nur den Kleinunternehmer, den man als kleinen Bastler nun einmal darstellt, der wird mehr oder minder einem großen Konzern wie Siemens gleichgestellt, mit allen Konsequenzen. D.h. viel Papierkram, hohe Gebühren und vor allen Dingen eine Abfall-Lotterie die es in sich hat. Da kann man einen Container voller Elektronikschrott gewinnen, den man auf eigene Kosten entsorgen darf, auch wenn nur ein paar Gramm Elektronik in die Bundesrepublik emitiert hat.
 Darum ist es Zeit nicht nur zu sagen Internet-Zensur ist doof, die Elektronikschrottverordnung ist es nämlich auch. Unterzeichne jetzt die Online-Petition:

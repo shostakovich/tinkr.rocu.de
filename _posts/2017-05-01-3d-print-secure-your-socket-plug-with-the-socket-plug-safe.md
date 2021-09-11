@@ -28,20 +28,20 @@ tags:
 ---
 At our home we share a laundry room with our neighbors. In the recent time I have found some evidence that my washing machine has been used by someone else. So I decided to make it a little harder to use my stuff without asking for it. I designed an 3d printed safe for the machine&#8217;s socket plug.
 
-<div id="attachment_3843" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3843" loading="lazy" src="/assets/2017/05/plug-safe.jpg" alt="plug safe - tool: designspark mechanical" width="606" height="406" class="size-full wp-image-3843" srcset="/assets/2017/05/plug-safe.jpg 606w, /assets/2017/05/plug-safe-300x201.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3843" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3843" loading="lazy" src="/assets/2017/05/plug-safe.jpg" alt="plug safe - tool: designspark mechanical"    srcset="/assets/2017/05/plug-safe.jpg 606w, /assets/2017/05/plug-safe-300x201.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3843" class="wp-caption-text">
+  <p id="caption-attachment-3843" >
     plug safe - tool: designspark mechanical
   </p>
 </div>
 
 This safe fits around the angled Schuko plug, that is commonly used in central Europe. There are two versions of the main part, since there might be different heights of this plug.
 
-<div id="attachment_3844" style="width: 778px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3844" loading="lazy" src="/assets/2017/05/plug-safe-COLLAGE-768x1024.jpg" alt="final plug safe 3d print" width="768" height="1024" class="size-large wp-image-3844" srcset="/assets/2017/05/plug-safe-COLLAGE-768x1024.jpg 768w, /assets/2017/05/plug-safe-COLLAGE-225x300.jpg 225w, /assets/2017/05/plug-safe-COLLAGE.jpg 1535w" sizes="(max-width: 768px) 100vw, 768px" />
+<div id="attachment_3844" style="width: 778px" >
+  <img aria-describedby="caption-attachment-3844" loading="lazy" src="/assets/2017/05/plug-safe-COLLAGE-768x1024.jpg" alt="final plug safe 3d print"    srcset="/assets/2017/05/plug-safe-COLLAGE-768x1024.jpg 768w, /assets/2017/05/plug-safe-COLLAGE-225x300.jpg 225w, /assets/2017/05/plug-safe-COLLAGE.jpg 1535w" sizes="(max-width: 768px) 100vw, 768px" />
 
-  <p id="caption-attachment-3844" class="wp-caption-text">
+  <p id="caption-attachment-3844" >
     final plug safe 3d print
   </p>
 </div>

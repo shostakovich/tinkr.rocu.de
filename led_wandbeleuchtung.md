@@ -56,39 +56,19 @@ Als Diffusor kommt eine milchige Plexiglasverkleidung zum Einsatz, die mit Schra
 <div id='gallery-6' class='gallery galleryid-3 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/led_wandbeleuchtung/rgb_module/'><img width="150" height="150" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/RGB_Module-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/led_wandbeleuchtung/rgb_module/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/RGB_Module-150x150.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/led_wandbeleuchtung/rgb_module_1/'><img width="150" height="150" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/RGB_Module_1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/led_wandbeleuchtung/rgb_module_1/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/RGB_Module_1-150x150.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/led_wandbeleuchtung/rgb_module_2/'><img width="150" height="150" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/RGB_Module_2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <br style="clear: both" />
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/led_wandbeleuchtung/wandbeleuchtung_ohne_verkleidung/'><img width="150" height="150" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/Wandbeleuchtung_ohne_Verkleidung-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/led_wandbeleuchtung/wandbeleuchtung_ohne_verkleidung_1/'><img width="150" height="150" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/Wandbeleuchtung_ohne_Verkleidung_1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/led_wandbeleuchtung/wandbeleuchtung_ohne_verkleidung_2/'><img width="150" height="150" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/Wandbeleuchtung_ohne_Verkleidung_2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/led_wandbeleuchtung/rgb_module_2/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/RGB_Module_2-150x150.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
@@ -96,13 +76,33 @@ Als Diffusor kommt eine milchige Plexiglasverkleidung zum Einsatz, die mit Schra
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/led_wandbeleuchtung/wandbeleuchtung_ohne_verkleidung_3/'><img width="150" height="150" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/Wandbeleuchtung_ohne_Verkleidung_3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/led_wandbeleuchtung/wandbeleuchtung_ohne_verkleidung/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/Wandbeleuchtung_ohne_Verkleidung-150x150.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/led_wandbeleuchtung/wandbeleuchtung_ohne_verkleidung_4/'><img width="150" height="150" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/Wandbeleuchtung_ohne_Verkleidung_4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/led_wandbeleuchtung/wandbeleuchtung_ohne_verkleidung_1/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/Wandbeleuchtung_ohne_Verkleidung_1-150x150.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://tinkr.de/led_wandbeleuchtung/wandbeleuchtung_ohne_verkleidung_2/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/Wandbeleuchtung_ohne_Verkleidung_2-150x150.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <br style="clear: both" />
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://tinkr.de/led_wandbeleuchtung/wandbeleuchtung_ohne_verkleidung_3/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/Wandbeleuchtung_ohne_Verkleidung_3-150x150.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://tinkr.de/led_wandbeleuchtung/wandbeleuchtung_ohne_verkleidung_4/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2008/03/Wandbeleuchtung_ohne_Verkleidung_4-150x150.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 

@@ -18,13 +18,13 @@ Für einen Sinus braucht es nur eine handvoll Code und den passenden DAC. Hier h
 </br>
 
 Das Staroffice-Calc-Tool zeigt den Sinus so an:
-[<img loading="lazy" src="/assets/2008/09/sinus_sml-300x197.png" alt="" title="Sinus, berechnet" width="300" height="197" class="alignnone size-medium wp-image-143" />](/assets/2008/09/sinus_sml.png)
+[<img loading="lazy" src="/assets/2008/09/sinus_sml-300x197.png" alt="" title="Sinus, berechnet"    />](/assets/2008/09/sinus_sml.png)
 
 </br>
 </br>
 
 Das Scope zeigt dann am Ausgang des DACs folgendes an:
-[<img loading="lazy" src="/assets/2008/09/sinus_scope-300x158.png" alt="" title="Sinus mit Scope aufgezeichnet" width="300" height="158" class="alignnone size-medium wp-image-144" />](/assets/2008/09/sinus_scope.png)
+[<img loading="lazy" src="/assets/2008/09/sinus_scope-300x158.png" alt="" title="Sinus mit Scope aufgezeichnet"    />](/assets/2008/09/sinus_scope.png)
 Nicht ganz so schön in 3D wie das Calc-Tool, aber immerhin 😉
 
 </br>

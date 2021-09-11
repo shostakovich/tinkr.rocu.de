@@ -33,7 +33,7 @@ und dann den ganzen Kram über Funk (XBee-Modul) zu mir in die Butze schicken.
 
 Hier gibts schon einmal den Grobentwurf der Platine:
 
-[<img loading="lazy" src="/assets/2008/08/weatherstation_overview-300x212.png" alt="" title="Wetterstation Übersicht" width="300" height="212" class="alignnone size-medium wp-image-101" />](/assets/2008/08/weatherstation_overview.png)
+[<img loading="lazy" src="/assets/2008/08/weatherstation_overview-300x212.png" alt="" title="Wetterstation Übersicht"    />](/assets/2008/08/weatherstation_overview.png)
 
 Neben dem Mikrocontroller, einem ATmega32L, kommt noch ein Xilinx CPLD zum Einsatz. Es wird die Signale vom DCF-Empfänger und Windmesser (Anemometer) aufbereiten. Entweder nur durch reines Entprellen oder wenn mein VHDL-Geschick groß genug, die Daten fix und fertig aufbereitet über I2C zum AVR schicken.
 

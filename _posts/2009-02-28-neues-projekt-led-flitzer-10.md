@@ -22,12 +22,12 @@ tags:
 Es ist vollbracht: der erste Prototyp des LED-Flitzers funktioniert. Was ist das, was kann das? Viele kennen bestimmt die kleinen LED-Gadgets, die dem Anschein nur Blinken, aber wenn sie bewegt werden, Texte anzeigen. Das Stichwort ist hier POV, aber keine Ahnung, was das hier heißt, ich kenne nur die Abk. für Point of View.
 
 Dann schauen wir uns doch gleich mal an, was mein kleiner LED-Flitzer so schreiben kann:
-[<img loading="lazy" src="/assets/2009/02/led_flitzer_2-300x191.jpg" alt="Led-Flitzer POV" title="Led-Flitzer POV" width="300" height="191" class="alignnone size-medium wp-image-268" />](/assets/2009/02/led_flitzer_2.jpg)
+[<img loading="lazy" src="/assets/2009/02/led_flitzer_2-300x191.jpg" alt="Led-Flitzer POV" title="Led-Flitzer POV"    />](/assets/2009/02/led_flitzer_2.jpg)
 
 Bewegt man die Platine etwas langsamer, schaut das Ganze dann so aus:
-[<img loading="lazy" src="/assets/2009/02/led_flitzer_1-300x209.jpg" alt="Led-Flitzer POV, Platine" title="Led-Flitzer POV, Platine" width="300" height="209" class="alignnone size-medium wp-image-269" />](/assets/2009/02/led_flitzer_1.jpg)
+[<img loading="lazy" src="/assets/2009/02/led_flitzer_1-300x209.jpg" alt="Led-Flitzer POV, Platine" title="Led-Flitzer POV, Platine"    />](/assets/2009/02/led_flitzer_1.jpg)
 
 Nun die Platine im Detail:
-[<img loading="lazy" src="/assets/2009/02/led_flitzer_0-300x199.jpg" alt="Led-Flitzer POV Platine" title="Led-Flitzer POV Platine" width="300" height="199" class="alignnone size-medium wp-image-270" />](/assets/2009/02/led_flitzer_0.jpg)
+[<img loading="lazy" src="/assets/2009/02/led_flitzer_0-300x199.jpg" alt="Led-Flitzer POV Platine" title="Led-Flitzer POV Platine"    />](/assets/2009/02/led_flitzer_0.jpg)
 
 Die Steuerung übernimmt ein ATmega8, der 8 LEDs ansteuert. Neben dem Mikrocontroller ist noch Platz für einen Beschleunigungssensor, der registrieren soll, ob der Flitzer bewegt wird oder nicht und bei Bewegung dann die Ausgabe aktiviert. Auf der Unterseite ist noch eine USB-Anbindung vorgesehen, mit dieser könnten später komfortabel neue Texte aufgespielt werden.

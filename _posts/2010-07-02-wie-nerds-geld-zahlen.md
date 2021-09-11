@@ -18,17 +18,17 @@ tags:
 Heute hatten wir ein Seminar zum Thema Bildverarbeitung. Im Labor hatten wir Gelegenheit verschiedene kleine Übungen zur Bildverarbeitung durchzuführen. Ich habe mich an ein Thema aus dem Skript angelehnt und ein paar Münzen versucht, über Bildverarbeitung von einander zu unterscheiden:
 
 Auf einem Durchlichtmodul wurden sechs unterschiedliche Münzen platziert (1, 2, 5, 10, 20 Cent und 1 Euro). Mit einer GigE-Kamera wurde die Münzen in Durchlichtbeleuchtung aufgenommen.
-<img loading="lazy" src="/assets/2010/07/bild0_aufnahme.png" alt="" title="Kamera-Aufnahme Münzen" width="606" height="456" class="alignnone size-full wp-image-1721" srcset="/assets/2010/07/bild0_aufnahme.png 606w, /assets/2010/07/bild0_aufnahme-300x225.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/07/bild0_aufnahme.png" alt="" title="Kamera-Aufnahme Münzen"    srcset="/assets/2010/07/bild0_aufnahme.png 606w, /assets/2010/07/bild0_aufnahme-300x225.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Das Histogramm sieht folgendermaßen aus:
-<img loading="lazy" src="/assets/2010/07/bild2_histogramm.png" alt="" title="Histogramm Münzen" width="512" height="256" class="alignnone size-full wp-image-1718" srcset="/assets/2010/07/bild2_histogramm.png 512w, /assets/2010/07/bild2_histogramm-300x150.png 300w" sizes="(max-width: 512px) 100vw, 512px" />
+<img loading="lazy" src="/assets/2010/07/bild2_histogramm.png" alt="" title="Histogramm Münzen"    srcset="/assets/2010/07/bild2_histogramm.png 512w, /assets/2010/07/bild2_histogramm-300x150.png 300w" sizes="(max-width: 512px) 100vw, 512px" />
 Hintergrund und Münzen sind bereits sehr gut von einander zu unterscheiden (hoher Grauwertunterschied).
 
 Anschließend wurde das Bild binarisiert:
-<img loading="lazy" src="/assets/2010/07/bild1_binaer.png" alt="" title="Münzen - binarisiert" width="606" height="456" class="alignnone size-full wp-image-1717" srcset="/assets/2010/07/bild1_binaer.png 606w, /assets/2010/07/bild1_binaer-300x225.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/07/bild1_binaer.png" alt="" title="Münzen - binarisiert"    srcset="/assets/2010/07/bild1_binaer.png 606w, /assets/2010/07/bild1_binaer-300x225.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Über einen Label-Algorithmus wurden die einzelnen Münzen gelabelt und der Umkreis mit einer ein-Pixel-breiten Linie dargestellt:
-<img loading="lazy" src="/assets/2010/07/bild4_zaehlen.png" alt="" title="Münzen zählen/labeln" width="606" height="452" class="alignnone size-full wp-image-1720" srcset="/assets/2010/07/bild4_zaehlen.png 606w, /assets/2010/07/bild4_zaehlen-300x223.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/07/bild4_zaehlen.png" alt="" title="Münzen zählen/labeln"    srcset="/assets/2010/07/bild4_zaehlen.png 606w, /assets/2010/07/bild4_zaehlen-300x223.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 Bei Label 5 und 7 kann man die typischen Ränder der 10 und 20 Cent Münzen erkennen.
 
 Ebenso kann eine Tabelle mit den Flächen der einzelnen Münzen ausgegeben werden:

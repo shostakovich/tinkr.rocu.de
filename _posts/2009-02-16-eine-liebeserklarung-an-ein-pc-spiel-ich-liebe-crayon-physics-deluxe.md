@@ -17,4 +17,4 @@ tags:
 ---
 Das hat es schon lange nicht mehr gegeben, dass mir ein Spiel so gut gefallen hat. In die Lieblingsspiel-Ahnenreihe reiht sich dieses Spiel nun nach Outcast, GTA Vice City und GTA IV ein.
 
-[<img loading="lazy" src="/assets/2009/02/crayon-300x222.jpg" alt="Crayon Physics Deluxe" title="Crayon Physics Deluxe" width="300" height="222" class="alignnone size-medium wp-image-249" />](/assets/2009/02/crayon.jpg)
+[<img loading="lazy" src="/assets/2009/02/crayon-300x222.jpg" alt="Crayon Physics Deluxe" title="Crayon Physics Deluxe"    />](/assets/2009/02/crayon.jpg)

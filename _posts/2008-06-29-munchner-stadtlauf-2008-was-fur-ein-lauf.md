@@ -24,4 +24,4 @@ Bei strahlendem Sonnenschein bahnten sich um kurz nach 11:00 gut 6.000 Läufer i
 So schön das Wetter dann auch war, irgendwann fordete die Hitze auch ihren Tribut ein. Nach etwas mehr als der Hälfte war Schluss mit lustig. Die kleine Kamera kramte ich auch schon gar nimmer raus, so mürbe war ich dann schon geworden. Nach 7km sah die Zeit noch ziemlich dufte aus, doch dann kann der Hammerschlag bei km 8 und fast nichts ging mehr. Mit 01:03:46 (meiner Uhr) und 01:03:43 Timing-Chip kam ich dann ins Ziel. Nicht schlecht für mich, aber auch nicht wirklich protzig. Platz 2655 von 5159 gewerteten Läufern. Hmm, schade. Dann wieder ein Versuch im nächsten Jahr.
 </br>
 
-[<img loading="lazy" src="/assets/2008/06/stadtlauf_2008-300x179.png" alt="" title="Streckenverlauf Münchner Stadtlauf 2008 -10km" width="300" height="179" class="alignnone size-medium wp-image-62" />](/assets/2008/06/stadtlauf_2008.png)
+[<img loading="lazy" src="/assets/2008/06/stadtlauf_2008-300x179.png" alt="" title="Streckenverlauf Münchner Stadtlauf 2008 -10km"    />](/assets/2008/06/stadtlauf_2008.png)

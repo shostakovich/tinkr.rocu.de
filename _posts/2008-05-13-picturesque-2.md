@@ -21,7 +21,7 @@ Heute habe ich eine E-Mail bekommen und zwar von [Acqualia](http://www.acqualia.
 
 und hat keinen anderen Sinn als Bilder auf mannigfaltige Art und Weise auf das harte Leben im Blog vorzubereiten. So kann man sein mittelmäßiges Können als Hobbiephotograph leicht überspielen.
 
-<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/sonstiges/kuess_mich.jpg" alt="Küss mich ich bin ein Frosch.. Web 2.0 Dude macht einen Kussmund." width="434" height="521" /> 
+<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/sonstiges/kuess_mich.jpg" alt="Küss mich ich bin ein Frosch.. Web 2.0 Dude macht einen Kussmund."   />
 
 In der Mail Stand, dass die kostenpflichtige Version 2.0 des kleinen Programms erschienen sei. Natürlich musste ich zuschlagen, den neben coolen 3D-Effekten haben die Jungs endlich auch die heißersehnte Batch-Bearbeitung mit in ihr Programm integriert, so dass man auch leicht ganze Fotosammlungen optisch aufwerten kann.
 

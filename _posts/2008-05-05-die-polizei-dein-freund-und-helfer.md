@@ -20,4 +20,4 @@ tags:
 ---
 Schön, dass die Münchener Ordnungshüter so produktiv zur öffentlichen Sicherheit beitragen.. Strafzettel für offen gelassene Fenster sind wirklich eine große Hilfe!
 
-<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/sonstiges/strafzettel.jpg" alt="Strafzettel über 15 Euro für offen stehen lassen des rechten Fensters" width="434" height="283" />
+<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/sonstiges/strafzettel.jpg" alt="Strafzettel über 15 Euro für offen stehen lassen des rechten Fensters"   />

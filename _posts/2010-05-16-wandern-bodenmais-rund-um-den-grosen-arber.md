@@ -20,7 +20,7 @@ tags:
   - Kleiner Arber
   - Wandern
 ---
-<img loading="lazy" src="/assets/2010/05/bodenmais_gps_grosser_arber.png" alt="" title="GPS-Track: Bodenmais - Großer Arber, Kleiner Arber über Risslochfälle" width="606" height="410" class="alignnone size-full wp-image-1652" srcset="/assets/2010/05/bodenmais_gps_grosser_arber.png 606w, /assets/2010/05/bodenmais_gps_grosser_arber-300x202.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/bodenmais_gps_grosser_arber.png" alt="" title="GPS-Track: Bodenmais - Großer Arber, Kleiner Arber über Risslochfälle"    srcset="/assets/2010/05/bodenmais_gps_grosser_arber.png 606w, /assets/2010/05/bodenmais_gps_grosser_arber-300x202.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Eine recht anspruchsvolle Wanderroute 17,2km erstreckt sich von Bodenmais aus, über die Rißlochfälle zum Großen Arber hin zum Kleinen Arber und dann zurück nach Bodenmais.
 Für die langen, steinigen und wurzeligen Anstiege zum Großen Arber hinauf, wird wärmstens festes Schuhwerk empfohlen. Stöckelschuh-TrägerInnen, die wir auch am Gipfel gesehen haben, nehmen besser die Seilbahn.

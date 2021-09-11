@@ -19,7 +19,7 @@ tags:
 ---
 Heute hat Apple das [Update 2.2 für die Firmware des IPhones](http://www.blogtopf.de/allgemein/iphone-22-software-update-bei-itunes/) veröffentlicht in der wieder Funktionen wie das telefonieren stabiler werden sollen. Nebenher wurden zahlreiche Programme geflickt und die von mir lang ersehnte Funktion Podcasts direkt ohne Umweg auf das IPhone laden zu können eingefürt.
 
-[<img loading="lazy" class="alignnone" title="IPhone Hacked von bwana (Flickr)" src="http://farm2.static.flickr.com/1262/1186846236_55c8eb1c46.jpg" alt="" width="500" height="333" />](http://farm2.static.flickr.com/1262/1186846236_55c8eb1c46.jpg)
+[<img loading="lazy"  title="IPhone Hacked von bwana (Flickr)" src="http://farm2.static.flickr.com/1262/1186846236_55c8eb1c46.jpg" alt=""   />](http://farm2.static.flickr.com/1262/1186846236_55c8eb1c46.jpg)
 
 Meine ganz persönliche und ehrliche Meinung dazu ist folgende: Ich besitze selber ein IPhone und finde das Ding im großen und ganzen toll. Von der großspurigen Behauptung auf dem Device würde ein echtes Mac OS X laufen, lasse ich mich aber inziwschen nicht mehr blenden.
 

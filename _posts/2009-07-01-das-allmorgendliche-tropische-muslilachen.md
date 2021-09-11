@@ -22,7 +22,7 @@ Auch auf die Gefahr hin, das einige der Zipfelmaus-Leser [mymuesli](http://www.m
 
 Mymuesli mixt seinen Kunden für recht stattliches Geld Biomüslis nach dem eigenen Geschmack. Die Müslis kann man sich in einem ansprechenden Webinterface detailliert aus den vielen verschiedenen Zutaten zusammenstellen und dann nach Hause ordern. Sehr Web2.0lig.. Das Müsli wird dann innerhalb weniger Tage geliefert.
 
-<img loading="lazy" src="/assets/2009/07/mymuesli.jpg" alt="mymuesli" title="mymuesli" width="606" height="454" />
+<img loading="lazy" src="/assets/2009/07/mymuesli.jpg" alt="mymuesli" title="mymuesli"   />
 
 Ich selbst habe bisher etwa 13 Rollen von Mymuesli verspeist und nähere mich meinem Idealmüsli immer weiter. Meine neuste Kration ist: [Tropical Smile.](http://www.mymuesli.com/muesli-mix.php?mix=1186581).
 Das ganze besteht aus:

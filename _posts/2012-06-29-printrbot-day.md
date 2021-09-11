@@ -24,6 +24,6 @@ During my last post from monday and today I got an answer from the guys from Pri
 
 Today I received the hex nuts from ebay. So I can continuing the assembly of the printer. (The mail from Printrbot probably will take a few weeks.) I nearly finished the bridge module, as you can see in the image.
 
-<img loading="lazy" src="/assets/2012/06/printrbot_bridge_001.jpg" alt="" title="Printrbot Bridge" width="606" height="455" class="alignnone size-full wp-image-2907" />
+<img loading="lazy" src="/assets/2012/06/printrbot_bridge_001.jpg" alt="" title="Printrbot Bridge"    />
 
 During the assembly today I got a certain feeling that I might miss a few screws to finish the assembly.

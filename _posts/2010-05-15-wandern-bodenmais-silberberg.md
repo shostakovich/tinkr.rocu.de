@@ -20,7 +20,7 @@ tags:
   - Silberberg
   - Wandern
 ---
-<img loading="lazy" src="/assets/2010/05/bodenmais_gps_silberberg.png" alt="" title="GPS-Track Bodenmais Silberberg" width="606" height="410" class="alignnone size-full wp-image-1639" srcset="/assets/2010/05/bodenmais_gps_silberberg.png 606w, /assets/2010/05/bodenmais_gps_silberberg-300x202.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/bodenmais_gps_silberberg.png" alt="" title="GPS-Track Bodenmais Silberberg"    srcset="/assets/2010/05/bodenmais_gps_silberberg.png 606w, /assets/2010/05/bodenmais_gps_silberberg-300x202.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Unser gut 8km langer Track führt uns hinauf auf den Silberberg. Dabei machen wir kurz Rast an der Gaststätte und folgen weiter dem Weg zum Gipfel. Wir kommen auch an einer kleinen Höhle vorbei, für die es sich empfiehlt eine Taschenlampe mitzunehmen.
 
@@ -30,4 +30,4 @@ Kurz nach der Höhle befindet sich dieses eindrucksvolle Panorama:
 Nach einem weiteren Aufstieg über schmale Pfade sind wir nach ca. 10 min auf dem Gipfel und können uns an dem schönen Ausblick über Bodenmais erfreuen.
 
 Ganz fleissige Wandersleut können sich auch die Silberberg-Wander-Medaille erlaufen.
-<img loading="lazy" src="/assets/2010/05/bodenmais_medaille.jpg" alt="" title="Silberberg Medaille" width="606" height="476" class="alignnone size-full wp-image-1643" srcset="/assets/2010/05/bodenmais_medaille.jpg 606w, /assets/2010/05/bodenmais_medaille-300x235.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/bodenmais_medaille.jpg" alt="" title="Silberberg Medaille"    srcset="/assets/2010/05/bodenmais_medaille.jpg 606w, /assets/2010/05/bodenmais_medaille-300x235.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />

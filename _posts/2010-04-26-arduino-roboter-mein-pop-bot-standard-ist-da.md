@@ -20,11 +20,11 @@ tags:
 ---
 Ich bin ziemlich aus dem Häuschen. Heute habe ich zum ersten mal meinen Pop-Bot zum laufen gebracht. Bevor mir jetzt wieder vorgeworfen wird, dass ich immer nur vollnerdiges Zeug absondere hier ein Bild.
 
-<img loading="lazy" class="alignnone size-full wp-image-1595" title="pop-bot" src="/assets/2010/04/pop-bot.jpg" alt="" width="606" height="455" srcset="/assets/2010/04/pop-bot.jpg 606w, /assets/2010/04/pop-bot-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy"  title="pop-bot" src="/assets/2010/04/pop-bot.jpg" alt=""   srcset="/assets/2010/04/pop-bot.jpg 606w, /assets/2010/04/pop-bot-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Der Zusammenbau des kleinen Roboters war trotz 2 linker Händer, nebst 10 Daumen überaschend einfach. Zwar braucht es teilweise etwas Fingerspitzengefühl aber dank der 2 mitgelieferten magnetischen Schraubenzieher habe sogar ich es geschafft. - Achso noch ein Hinweis: Nicht verzweifeln wenn ihr nicht wisst welche Schraube genau gemeint ist - es bleiben am Ende dutzende über und auch sonst findet sich noch eine ganze Menge nützliches Montagematerial für später in den Kisten.
 
-<img loading="lazy" src="/assets/2010/04/IMG_0340.jpg" alt="" title="IMG_0340" width="606" height="455" class="alignnone size-full wp-image-1596" srcset="/assets/2010/04/IMG_0340.jpg 606w, /assets/2010/04/IMG_0340-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/04/IMG_0340.jpg" alt="" title="IMG_0340"    srcset="/assets/2010/04/IMG_0340.jpg 606w, /assets/2010/04/IMG_0340-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Insgessamt habe ich für den Aufbau 2 Stunden gebraucht. Der Roboter ist zwar Arduino-Kompatibel, aber den mitgelieferten USB auf Seriell Adapter habe ich unter Mac OS X nicht zum laufen gebracht. Glücklicherweise kam Windows 7 in Parallels zur Rettung 😉
 

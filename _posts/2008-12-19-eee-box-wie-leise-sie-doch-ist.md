@@ -19,7 +19,7 @@ tags:
   - leise
   - Post
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-167" title="Die Weihnachts-EEE Box" src="/assets/2008/12/dsc00016_eeebox-300x187.jpg" alt="Die Weihnachts-EEE Box" width="300" height="187" />
+<img loading="lazy"  title="Die Weihnachts-EEE Box" src="/assets/2008/12/dsc00016_eeebox-300x187.jpg" alt="Die Weihnachts-EEE Box"   />
 
 Ach das hat ja lange gedauert mit dem Paket.
 Ganz böse hat die Post das Paket einfach nicht daheim abgegeben und dann konnte ich mich gestern noch gute 20min in die riesige Schlange im hiesigen Postamt einreihen. Solche Schlagen gabs früher in der DDR nur, wenn Bananen im Angebot waren. Und blos gut, dass das Postamt nur 2km weitweg is, da werden die Arme beim Schleppen auch nicht so lang bis daheim.

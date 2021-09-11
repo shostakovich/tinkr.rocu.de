@@ -26,7 +26,7 @@ I&#8217;ve been working quite a while on my weather station project. Since the f
 
 ### Overview:
 
-<img loading="lazy" src="/assets/2011/08/weather_shield_1.jpg" alt="" title="Weather Shield - Overview" width="606" height="455" class="alignnone size-full wp-image-2508" srcset="/assets/2011/08/weather_shield_1.jpg 606w, /assets/2011/08/weather_shield_1-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2011/08/weather_shield_1.jpg" alt="" title="Weather Shield - Overview"    srcset="/assets/2011/08/weather_shield_1.jpg 606w, /assets/2011/08/weather_shield_1-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 The shield has several sensors:
 - barometric pressure sensor - BMP085, from Bosch, I2C interface
 - humidity sensor - SHT11, from Sensirion, proprietary serial interface
@@ -34,13 +34,13 @@ The shield has several sensors:
 - DIO, e.g. for a wind meter
 - ADC-Ins for measuring the voltage in the solar system part of the system
 
-<img loading="lazy" src="/assets/2011/08/weather_station_1.jpg" alt="" title="Weather Station - Enclosure" width="606" height="455" class="alignnone size-full wp-image-2510" srcset="/assets/2011/08/weather_station_1.jpg 606w, /assets/2011/08/weather_station_1-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2011/08/weather_station_1.jpg" alt="" title="Weather Station - Enclosure"    srcset="/assets/2011/08/weather_station_1.jpg 606w, /assets/2011/08/weather_station_1-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Apart from the weather shield I also attached a Xbee shield in order to transmit data wirelessly to a server PC, because I want to display the data on a website.
 
-<img loading="lazy" src="/assets/2011/08/weather_station_2.jpg" alt="" title="Weather-Station" width="606" height="455" class="alignnone size-full wp-image-2511" srcset="/assets/2011/08/weather_station_2.jpg 606w, /assets/2011/08/weather_station_2-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2011/08/weather_station_2.jpg" alt="" title="Weather-Station"    srcset="/assets/2011/08/weather_station_2.jpg 606w, /assets/2011/08/weather_station_2-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
-<img loading="lazy" src="/assets/2011/08/weather_station_sample_data.png" alt="" title="weather station - sample data" width="606" height="661" class="alignnone size-full wp-image-2514" />
+<img loading="lazy" src="/assets/2011/08/weather_station_sample_data.png" alt="" title="weather station - sample data"    />
 Before 10:00 a.m. there was no data available. Live sensor data was captured after 10:00 a.m.
 
 ### Downloads:

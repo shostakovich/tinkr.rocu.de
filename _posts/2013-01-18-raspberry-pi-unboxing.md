@@ -19,8 +19,8 @@ tags:
 ---
 Today I got the first batch of Raspberry Pis. So here is a first llok, what is inside the box:
 
-<img loading="lazy" src="/assets/2013/01/raspberry_pi_unboxing_01.jpg" alt="Raspberry Pi - box" width="606" height="440" class="alignnone size-full wp-image-3165" />
+<img loading="lazy" src="/assets/2013/01/raspberry_pi_unboxing_01.jpg" alt="Raspberry Pi - box"    />
 
-<img loading="lazy" src="/assets/2013/01/raspberry_pi_unboxing_02.jpg" alt="Raspberry Pi - contents" width="606" height="455" class="alignnone size-full wp-image-3166" srcset="/assets/2013/01/raspberry_pi_unboxing_02.jpg 606w, /assets/2013/01/raspberry_pi_unboxing_02-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2013/01/raspberry_pi_unboxing_02.jpg" alt="Raspberry Pi - contents"    srcset="/assets/2013/01/raspberry_pi_unboxing_02.jpg 606w, /assets/2013/01/raspberry_pi_unboxing_02-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
-<img loading="lazy" src="/assets/2013/01/raspberry_pi_unboxing_03.jpg" alt="Raspberry Pi - cabled" width="606" height="456" class="alignnone size-full wp-image-3167" srcset="/assets/2013/01/raspberry_pi_unboxing_03.jpg 606w, /assets/2013/01/raspberry_pi_unboxing_03-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2013/01/raspberry_pi_unboxing_03.jpg" alt="Raspberry Pi - cabled"    srcset="/assets/2013/01/raspberry_pi_unboxing_03.jpg 606w, /assets/2013/01/raspberry_pi_unboxing_03-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />

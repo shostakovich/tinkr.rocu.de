@@ -21,6 +21,6 @@ tags:
   - Twitterific
   - Web 2.0
 ---
-<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/apps/twitterific.gif" alt="Twittern mit Twitterific" width="432" height="269" />
+<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/apps/twitterific.gif" alt="Twittern mit Twitterific"   />
 
 Ich kann mir nicht helfen - aber irgendwie macht mir Twitter doch Spaß. Ich habe  [Oliver](http://www.aptgetupdate.de/ "Aptgetupdate") ja nicht so recht glauben wollen, dass Tools wie Twitterific einen erst den Sinn des ganzen Verstehen lassen - aber ich habe mich wohl geirrt. Twitter ist entschleunigtes Instant Messaging für exhibitionistisch veranlagte Nerds. Also genau das richtige für mich..

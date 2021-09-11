@@ -27,7 +27,7 @@ Mein heutiger Ohrwurm ist ****[**Track 6 - Grounded**.](http://web2.0du.de/musik
 
 Auch der gesammte Rest des Albums ist wirklich tolle Musik im Winter und perfekte Hintergrundmusik zum Programmieren. (Ok das ist natürlich subjektiv)
 
-<img loading="lazy" class="alignnone" title="Ruth Theodore - Albumcover" src="http://cdn.cloudfiles.mosso.com/c4881/0812013_ruth_theodore.jpg" alt="" width="600" height="600" />
+<img loading="lazy"  title="Ruth Theodore - Albumcover" src="http://cdn.cloudfiles.mosso.com/c4881/0812013_ruth_theodore.jpg" alt=""   />
 
 Das ganze Album gibts zum kostenlosen Download bei Jamendo.
 

@@ -26,4 +26,4 @@ Ganz interessant ist, dass der Vogel nicht die ganze Zeit kontinuierlich mit dem
 Auf Wikipedia wird die genaue Funktionsweise ganz anschaulich erläutert: [Link](http://de.wikipedia.org/wiki/Trinkvogel)
 
 Mittlerweile hab ich in einem Simpsons-Wiki ein paar Screenshots zu dem Vogel gefunden:
-[<img loading="lazy" src="/assets/2009/09/trinkvogel_simpsons.png" alt="Trinkvogel - Simpsons" title="Trinkvogel - Simpsons" width="606" height="464" class="alignnone size-full wp-image-1205" srcset="/assets/2009/09/trinkvogel_simpsons.png 606w, /assets/2009/09/trinkvogel_simpsons-300x229.png 300w" sizes="(max-width: 606px) 100vw, 606px" />](http://simpsonspedia.net/index.php?title=Schluckspecht) Quelle: <http://simpsonspedia.net/index.php?title=Schluckspecht>
+[<img loading="lazy" src="/assets/2009/09/trinkvogel_simpsons.png" alt="Trinkvogel - Simpsons" title="Trinkvogel - Simpsons"    srcset="/assets/2009/09/trinkvogel_simpsons.png 606w, /assets/2009/09/trinkvogel_simpsons-300x229.png 300w" sizes="(max-width: 606px) 100vw, 606px" />](http://simpsonspedia.net/index.php?title=Schluckspecht) Quelle: <http://simpsonspedia.net/index.php?title=Schluckspecht>

@@ -28,6 +28,6 @@ The Printrbot is printing this part from Tinkercad.com:
 
 
 The printed part was used to fix a broken spring from an Ikeak couch:
-<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_3.jpg" alt="" title="repaired couch" width="606" height="455" />
+<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_3.jpg" alt="" title="repaired couch"   />
 
-<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_4.jpg" alt="" title="like new" width="606" height="455" />
+<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_4.jpg" alt="" title="like new"   />

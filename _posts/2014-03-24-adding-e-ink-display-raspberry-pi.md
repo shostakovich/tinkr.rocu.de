@@ -34,10 +34,10 @@ More information can be found here: <http://repaper.org/reference.html>
 I bought the 2.7&#8243; version. Here is what is included in the kit:
 
 
-<div id="attachment_3556" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3556" loading="lazy" src="/assets/2014/03/repaper_epaper_01.jpg" alt="Repaper 2.7&quot; kit" width="606" height="455" class="size-full wp-image-3556" srcset="/assets/2014/03/repaper_epaper_01.jpg 606w, /assets/2014/03/repaper_epaper_01-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3556" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3556" loading="lazy" src="/assets/2014/03/repaper_epaper_01.jpg" alt="Repaper 2.7&quot; kit"    srcset="/assets/2014/03/repaper_epaper_01.jpg 606w, /assets/2014/03/repaper_epaper_01-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3556" class="wp-caption-text">
+  <p id="caption-attachment-3556" >
     Repaper 2.7&#8243; kit
   </p>
 </div>
@@ -59,10 +59,10 @@ wiring info and drivers can be found here:
 
 So if you have everything wired correctly and loaded and installed all the drivers, you can run some demos:
 
-<div id="attachment_3559" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3559" loading="lazy" src="/assets/2014/03/repaper_epaper_03.jpg" alt="E-paper kit wired to Raspberry Pi" width="606" height="362" class="size-full wp-image-3559" />
+<div id="attachment_3559" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3559" loading="lazy" src="/assets/2014/03/repaper_epaper_03.jpg" alt="E-paper kit wired to Raspberry Pi"    />
 
-  <p id="caption-attachment-3559" class="wp-caption-text">
+  <p id="caption-attachment-3559" >
     E-paper kit wired to Raspberry Pi
   </p>
 </div>
@@ -70,10 +70,10 @@ So if you have everything wired correctly and loaded and installed all the drive
 And you also can try, what will happen to the display, when you remove the power supply - the display information will be retained 🙂
 
 
-<div id="attachment_3557" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3557" loading="lazy" src="/assets/2014/03/repaper_epaper_02.jpg" alt="E-paper display holds image without power supply" width="606" height="455" class="size-full wp-image-3557" srcset="/assets/2014/03/repaper_epaper_02.jpg 606w, /assets/2014/03/repaper_epaper_02-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3557" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3557" loading="lazy" src="/assets/2014/03/repaper_epaper_02.jpg" alt="E-paper display holds image without power supply"    srcset="/assets/2014/03/repaper_epaper_02.jpg 606w, /assets/2014/03/repaper_epaper_02-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3557" class="wp-caption-text">
+  <p id="caption-attachment-3557" >
     E-paper display holds image without power supply
   </p>
 </div>

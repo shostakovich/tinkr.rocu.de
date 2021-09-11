@@ -20,7 +20,7 @@ tags:
   - Replicator 2
   - Up Plus
 ---
-<img loading="lazy" src="/assets/2012/12/vs_printers.jpg" alt="3D printers" width="606" height="358" class="alignnone size-full wp-image-3154" />
+<img loading="lazy" src="/assets/2012/12/vs_printers.jpg" alt="3D printers"    />
 
 Recently I bought my 3D printer. (I know this is crazy.) I was unhappy with the Printrbot LC and the Makerbot Replicator 2, which I thought would be an awesome printer and would overcome everything, that the Printrbot failed to deliver. But it has it&#8217;s downsides as well.
 
@@ -30,7 +30,7 @@ Here are the pro and cons of each printer.
 
 ### Printrbot LC
 
-<img loading="lazy" src="/assets/2012/08/printrbot.jpg" alt="Printrbot" width="606" height="539" class="alignnone size-full wp-image-2952" />
+<img loading="lazy" src="/assets/2012/08/printrbot.jpg" alt="Printrbot"    />
 
 #### pro:
 
@@ -45,7 +45,7 @@ Here are the pro and cons of each printer.
 
 ### Makerbot Replicator 2
 
-<img loading="lazy" src="/assets/2012/12/makerbot_replicator_2.jpg" alt="Makerbot Replicator 2" width="606" height="485" class="alignnone size-full wp-image-3149" />
+<img loading="lazy" src="/assets/2012/12/makerbot_replicator_2.jpg" alt="Makerbot Replicator 2"    />
 
 #### pro:
 
@@ -63,7 +63,7 @@ Here are the pro and cons of each printer.
 
 ### UP! Plus
 
-<img loading="lazy" src="/assets/2012/12/up_plus.jpg" alt="UP! Plus 3D printer" width="606" height="808" class="alignnone size-full wp-image-3147" />
+<img loading="lazy" src="/assets/2012/12/up_plus.jpg" alt="UP! Plus 3D printer"    />
 -medium cost: 1500$ plus delivery and customs
 
 #### pro:

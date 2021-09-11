@@ -25,10 +25,10 @@ tags:
   - Munich
   - TensorFlow
 ---
-<div id="attachment_3878" style="width: 1034px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3878" loading="lazy" src="/assets/2018/11/IMG_20181124_174310-1024x865.jpg" alt="Intel AI Devcamp" width="1024" height="865" class="size-large wp-image-3878" srcset="/assets/2018/11/IMG_20181124_174310-1024x865.jpg 1024w, /assets/2018/11/IMG_20181124_174310-300x254.jpg 300w, /assets/2018/11/IMG_20181124_174310-768x649.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<div id="attachment_3878" style="width: 1034px" >
+  <img aria-describedby="caption-attachment-3878" loading="lazy" src="/assets/2018/11/IMG_20181124_174310-1024x865.jpg" alt="Intel AI Devcamp"    srcset="/assets/2018/11/IMG_20181124_174310-1024x865.jpg 1024w, /assets/2018/11/IMG_20181124_174310-300x254.jpg 300w, /assets/2018/11/IMG_20181124_174310-768x649.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-  <p id="caption-attachment-3878" class="wp-caption-text">
+  <p id="caption-attachment-3878" >
     Intel AI Devcamp
   </p>
 </div>
@@ -39,10 +39,10 @@ The reason I signed up for this event was to find out, what the current workflow
 The devcamp started with the setup of the workshop attendees laptops, followed by some very brief introduction to machine learning and deep learning.
 Before lunch, we did a first hands-on lab on an AWS-based Jupyter-notebook. The lab was named: Breeds Data Wrangling - Collect and Prepare Data and Setup for Training.
 
-<div id="attachment_3876" style="width: 1034px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3876" loading="lazy" src="/assets/2018/11/jupyter_notebook-1024x658.jpg" alt="jupyter notebook" width="1024" height="658" class="size-large wp-image-3876" srcset="/assets/2018/11/jupyter_notebook-1024x658.jpg 1024w, /assets/2018/11/jupyter_notebook-300x193.jpg 300w, /assets/2018/11/jupyter_notebook-768x493.jpg 768w, /assets/2018/11/jupyter_notebook.jpg 1029w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<div id="attachment_3876" style="width: 1034px" >
+  <img aria-describedby="caption-attachment-3876" loading="lazy" src="/assets/2018/11/jupyter_notebook-1024x658.jpg" alt="jupyter notebook"    srcset="/assets/2018/11/jupyter_notebook-1024x658.jpg 1024w, /assets/2018/11/jupyter_notebook-300x193.jpg 300w, /assets/2018/11/jupyter_notebook-768x493.jpg 768w, /assets/2018/11/jupyter_notebook.jpg 1029w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-  <p id="caption-attachment-3876" class="wp-caption-text">
+  <p id="caption-attachment-3876" >
     jupyter notebook
   </p>
 </div>
@@ -53,18 +53,18 @@ Our program was trained to look for a certain kind of animal breed.
 After lunch, we worked in another hands-on lab in a VMware Ubuntu environment. Here we did a training of a CNN (Convolutional Neural Network) of the MNIST-dataset via CPU and the Movidius Neural Compute Stick. The advantage of the Movidius Stick is, that it basically performs nearly as good as a normal Intel CPU, but at a very low power (30W vs. 1W). Here our program was trained to look for the right numerical value of a handwritten number.
 
 
-<div id="attachment_3877" style="width: 960px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3877" loading="lazy" src="/assets/2018/11/vmware_linux_tensorflow.jpg" alt="VMware Linux Tensorflow" width="950" height="721" class="size-full wp-image-3877" srcset="/assets/2018/11/vmware_linux_tensorflow.jpg 950w, /assets/2018/11/vmware_linux_tensorflow-300x228.jpg 300w, /assets/2018/11/vmware_linux_tensorflow-768x583.jpg 768w" sizes="(max-width: 950px) 100vw, 950px" />
+<div id="attachment_3877" style="width: 960px" >
+  <img aria-describedby="caption-attachment-3877" loading="lazy" src="/assets/2018/11/vmware_linux_tensorflow.jpg" alt="VMware Linux Tensorflow"    srcset="/assets/2018/11/vmware_linux_tensorflow.jpg 950w, /assets/2018/11/vmware_linux_tensorflow-300x228.jpg 300w, /assets/2018/11/vmware_linux_tensorflow-768x583.jpg 768w" sizes="(max-width: 950px) 100vw, 950px" />
 
-  <p id="caption-attachment-3877" class="wp-caption-text">
+  <p id="caption-attachment-3877" >
     VMware Linux Tensorflow
   </p>
 </div>
 
-<div id="attachment_3879" style="width: 810px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3879" loading="lazy" src="/assets/2018/11/IMG_20181124_144024.jpg" alt="Movidius Neural Compute Stick" width="800" height="514" class="size-full wp-image-3879" srcset="/assets/2018/11/IMG_20181124_144024.jpg 800w, /assets/2018/11/IMG_20181124_144024-300x193.jpg 300w, /assets/2018/11/IMG_20181124_144024-768x493.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
+<div id="attachment_3879" style="width: 810px" >
+  <img aria-describedby="caption-attachment-3879" loading="lazy" src="/assets/2018/11/IMG_20181124_144024.jpg" alt="Movidius Neural Compute Stick"    srcset="/assets/2018/11/IMG_20181124_144024.jpg 800w, /assets/2018/11/IMG_20181124_144024-300x193.jpg 300w, /assets/2018/11/IMG_20181124_144024-768x493.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />
 
-  <p id="caption-attachment-3879" class="wp-caption-text">
+  <p id="caption-attachment-3879" >
     Movidius Neural Compute Stick
   </p>
 </div>

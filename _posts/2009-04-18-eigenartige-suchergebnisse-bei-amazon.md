@@ -20,7 +20,7 @@ tags:
   - PC vernetzen
   - Prostata
 ---
-[<img loading="lazy" class="alignleft size-full wp-image-542" title="Amazon Suchergebnisse &quot;PC vernetzen&quot;" src="/assets/2009/04/amazon_sml.png" alt="Amazon Suchergebnisse &quot;PC vernetzen&quot;" width="606" height="312" srcset="/assets/2009/04/amazon_sml.png 606w, /assets/2009/04/amazon_sml-300x154.png 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2009/04/amazon.png)
+[<img loading="lazy"  title="Amazon Suchergebnisse &quot;PC vernetzen&quot;" src="/assets/2009/04/amazon_sml.png" alt="Amazon Suchergebnisse &quot;PC vernetzen&quot;"   srcset="/assets/2009/04/amazon_sml.png 606w, /assets/2009/04/amazon_sml-300x154.png 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2009/04/amazon.png)
 Gibt man bei Amazon PC vernetzen in die Suchleiste ein, so werden einem doch recht eigenartige Buchvorschläge präsentiert. Sie lesen sich wie das Who-is-Who der Uhse-Beate-Gedächnis-Bibliothek:
 
 - Onanieren für Profis: Der Ratgeber für Männer, von dem die Welt spricht von Arne Hoffmann (Taschenbuch - April 2005)

@@ -24,10 +24,10 @@ tags:
   - kickstarter
   - lesson
 ---
-<div id="attachment_3855" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3855" loading="lazy" src="/assets/2017/07/IMG_20170810_204934.jpg" alt="Insolvenzbescheid - Panono" width="606" height="437" class="size-full wp-image-3855" srcset="/assets/2017/07/IMG_20170810_204934.jpg 606w, /assets/2017/07/IMG_20170810_204934-300x216.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3855" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3855" loading="lazy" src="/assets/2017/07/IMG_20170810_204934.jpg" alt="Insolvenzbescheid - Panono"    srcset="/assets/2017/07/IMG_20170810_204934.jpg 606w, /assets/2017/07/IMG_20170810_204934-300x216.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3855" class="wp-caption-text">
+  <p id="caption-attachment-3855" >
     Insolvenzbescheid - Panono
   </p>
 </div>

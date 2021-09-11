@@ -19,7 +19,7 @@ tags:
   - fräsen
   - Platinen
 ---
-<img loading="lazy" src="/assets/2010/06/ebook_platine3.png" alt="" title="Ebook &quot;Platinen selbst entwickeln und herstellen&quot;" width="316" height="300" class="alignnone size-full wp-image-1688" srcset="/assets/2010/06/ebook_platine3.png 316w, /assets/2010/06/ebook_platine3-300x284.png 300w" sizes="(max-width: 316px) 100vw, 316px" />
+<img loading="lazy" src="/assets/2010/06/ebook_platine3.png" alt="" title="Ebook &quot;Platinen selbst entwickeln und herstellen&quot;"    srcset="/assets/2010/06/ebook_platine3.png 316w, /assets/2010/06/ebook_platine3-300x284.png 300w" sizes="(max-width: 316px) 100vw, 316px" />
 
 Bis einschließlich zum 14.07.2010 lässt sich auf elo-web,de der Webseite rund um die Elektronik und Elektrotechnik vom Franzis Verlag, das 127 Seiten starke E-Book „Platinen selbst entwickeln und herstellen“ im Warenwert von 11,95 € mit dem Gutscheincode im elo-web_platine2010 kostenlos herunterladen.
 

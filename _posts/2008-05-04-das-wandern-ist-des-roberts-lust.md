@@ -21,6 +21,6 @@ tags:
 ---
 Ich weiß es klingt merkwürdig aber manchmal fühle ich mich meines Computers und der Großstadt überdrüssig und möchte lieber raus in die Natur und wandern. Gestern habe ich es endlich geschafft und bin mit dem liebsten Mann auf der ganzen Welt, auf einer pittoresken Strecke von Tegernsee gen Osten nach Schliersee, durch die Alpen gewandert. Die Strecke hatte meine Krabbe auf [GPSWandern.de](http://www.gpswandern.de/gindlalm/gindlalm.shtml "GPSWandern.de") herausgesucht und da sie natürlich ähnlich technikverrückt ist wie ich, auf ihr GPS geladen.
 
-<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/landscape/alpen.jpg" alt="Foto von Web 2.0 Dude auf einem Berggipfel" width="434" height="326" /> 
+<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/landscape/alpen.jpg" alt="Foto von Web 2.0 Dude auf einem Berggipfel"   />
 
 Der Weg stellte sich allerdings etwas schwieriger dar als wir erwartet hatten. In Ermangelung vernünftiger Wanderschuhe hatte ich besonders auf dem Gipfel des Berges Probleme, auf dem noch ein wenig Schnee lag. Alles in allem ein wirklich toller Samstag, der mich wieder einmal perfekt davon abgehalten hat über Webentwicklung zu bloggen oder auch nur darüber nachzudenken.

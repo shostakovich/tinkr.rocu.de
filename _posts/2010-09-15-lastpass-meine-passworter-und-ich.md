@@ -33,7 +33,7 @@ Vor einigen Wochen habe ich dann bei [Security Now](http://www.grc.com/sn)! von 
 
 Ich habe mich für letztere Möglichkeit und &#8222;schließe&#8220; meinen Computer ab jetzt auf.
 
-<img loading="lazy" class="alignnone size-full wp-image-1869" title="IMG_2930" src="/assets/2010/09/IMG_2930.jpg" alt="" width="606" height="455" />
+<img loading="lazy"  title="IMG_2930" src="/assets/2010/09/IMG_2930.jpg" alt=""   />
 
 Neben dem dramatischen Effekt - ich glaube meine Sicherheit damit auch ein Stückweit verbessert zu haben 🙂 Lastpass überzeugt durch Addons für fast alle Browser unter Mac OS X und Windows und bietet auch eine Browser-App für das iPad an, die zwar gewöhnungsbedürftig ist, es aber immerhin schmerzfrei macht LastPass mobil zu benutzen.
 

@@ -31,7 +31,7 @@ Ich möchte mir nicht anmaßen nach so wenigen Tagen eine Rezension dazu abgeben
 
 Ich bin ziemlich überrascht für wie wenig Geld man sich, ein kleines eigenes Heimkino basteln kann, glatte weiße Wand vorausgesetzt.
 
-<img loading="lazy" class="alignnone" title="Mein Projektorraum" src="http://cdn.cloudfiles.mosso.com/c4101/081130_beamer.png" alt="" width="606" height="477" />
+<img loading="lazy"  title="Mein Projektorraum" src="http://cdn.cloudfiles.mosso.com/c4101/081130_beamer.png" alt=""   />
 
 Da ich nun auch weiter für mein Fernstudium kleine Programme basteln muss, komme ich leider nicht vor morgen wieder dazu etwas zu schreiben und mir Filme anzuschauen.
 

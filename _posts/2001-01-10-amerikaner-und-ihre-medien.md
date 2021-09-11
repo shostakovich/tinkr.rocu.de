@@ -14,5 +14,5 @@ tags:
   - Medien
   - USA
 ---
-<img loading="lazy" src="http://web.archive.org/web/20011103170956/http://autsch.rtl.de/dumm_gelaufen/pixx/cnn.jpg" alt="" width="225" height="155" />  
+<img loading="lazy" src="http://web.archive.org/web/20011103170956/http://autsch.rtl.de/dumm_gelaufen/pixx/cnn.jpg" alt=""   />
 Schön wie Objektiv und präzise die Amerikaner im Moment über die Geschenisse in anderen Teilen der Welt informiert werden&#8230; ;-]

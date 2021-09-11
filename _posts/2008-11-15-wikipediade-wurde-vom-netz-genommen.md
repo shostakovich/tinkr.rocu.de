@@ -21,7 +21,7 @@ tags:
 
 Ob rechtens oder nicht. Aufmerksamkeit hat sich dieser, wie hieß er noch mal, Heilmann mit seinem Erfolg vor Gericht allemal verschafft. Ich wage allerdings stark zu bezweifeln, dass ihm dieser Schritt Sympatiepukte bei irgend jemanden verschaffen wird.
 
-[<img loading="lazy" class="aligncenter" title="I edit Wikipedia" src="http://farm3.static.flickr.com/2030/2453225588_bd12f72712.jpg" alt="" width="427" height="500" />](http://www.flickr.com/photos/mikeeperez/2453225588/sizes/m/)
+[<img loading="lazy"  title="I edit Wikipedia" src="http://farm3.static.flickr.com/2030/2453225588_bd12f72712.jpg" alt=""   />](http://www.flickr.com/photos/mikeeperez/2453225588/sizes/m/)
 
 Wieder einmal zeigt sich, dass das Gros der Politiker das Medium Internet nicht verstehen. Sie verstehen nicht, die Chancen, nicht die Risiken und ganz besonders nicht die Auswirkungen die solche unüberlegten einstweiligen Verfügungen auf ihr eigenes Leben haben könnten.
 

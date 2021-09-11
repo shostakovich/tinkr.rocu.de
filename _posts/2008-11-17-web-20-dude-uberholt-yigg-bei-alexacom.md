@@ -19,7 +19,7 @@ tags:
 ---
 Ich habe gerade etwas mit Alexa rumgespielt und ich muss sagen, dass ich ziemlich überrascht war, dass meine Blog jetzt besser rankt als YiGG. Wer das ausprobieren will hat sicher noch ein paar Stunden Zeit.
 
-<img loading="lazy" alt="" src="http://www.rocket-turtle.de/images/uploads/alexa.jpg" title="Web 2.0 Dude rankt vor YiGG" class="alignnone" width="606" height="442" /> 
+<img loading="lazy" alt="" src="http://www.rocket-turtle.de/images/uploads/alexa.jpg" title="Web 2.0 Dude rankt vor YiGG"    />
 
 Aus zuverlässiger Quelle, weiß ich das YiGG tausendfach mehr Besucher hat als ich.
 

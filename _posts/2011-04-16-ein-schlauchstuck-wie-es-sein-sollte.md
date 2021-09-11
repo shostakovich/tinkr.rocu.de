@@ -24,8 +24,8 @@ Schon oft war das Gardena-Schlauchstück vom Gartenschlauch ein Grund zum Ärger
 Ein Knickschutz und ein breiterer Einpressbereich des Schlauches im Schlauchstück, das wäre doch praktisch. Aber in deutschen Baumärkten und Baumarkt-Webseiten gähnende Leere. Da wird Jahr ein Jahr aus nur der gleiche olle Kram verkauft, nur mal in orange oder in blau.
 Fast häette es mich schon gejuckt, einen 3D-Drucker zu bestellen und selber ein besseres Schlauchstück zu konstruieren, bis ich bei Amazon.co.uk doch noch fündig geworden bin [[Link]](http://www.amazon.co.uk/gp/product/B001OXDE0K/ref=oss_product).
 
-<img loading="lazy" src="/assets/2011/04/Hozelock-Aquastop-Connector_2.jpg" alt="" title="Hozelock Aquastop Connector - einzeln" width="606" height="455" class="alignnone size-full wp-image-2354" srcset="/assets/2011/04/Hozelock-Aquastop-Connector_2.jpg 606w, /assets/2011/04/Hozelock-Aquastop-Connector_2-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2011/04/Hozelock-Aquastop-Connector_2.jpg" alt="" title="Hozelock Aquastop Connector - einzeln"    srcset="/assets/2011/04/Hozelock-Aquastop-Connector_2.jpg 606w, /assets/2011/04/Hozelock-Aquastop-Connector_2-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 Handlich und besser durchdacht als das Gardena-Einerlei.
 
-<img loading="lazy" src="/assets/2011/04/Hozelock-Aquastop-Connector_1.jpg" alt="" title="Hozelock Aquastop Connector - montiert" width="606" height="455" class="alignnone size-full wp-image-2353" srcset="/assets/2011/04/Hozelock-Aquastop-Connector_1.jpg 606w, /assets/2011/04/Hozelock-Aquastop-Connector_1-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2011/04/Hozelock-Aquastop-Connector_1.jpg" alt="" title="Hozelock Aquastop Connector - montiert"    srcset="/assets/2011/04/Hozelock-Aquastop-Connector_1.jpg 606w, /assets/2011/04/Hozelock-Aquastop-Connector_1-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 Man beachte hier den Knickschutz am Schlauch.

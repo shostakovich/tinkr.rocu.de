@@ -21,7 +21,7 @@ tags:
   - Wandern
 ---
 Nun ist es vollbracht, mehr als 50km Wanderwege verteilt auf vier Etapen liegen hinter uns.
-<img loading="lazy" src="/assets/2010/05/bodenmais_gps_wanderrouten.png" alt="" title="Bodenmais GPS Wanderrouten" width="606" height="410" class="alignnone size-full wp-image-1632" srcset="/assets/2010/05/bodenmais_gps_wanderrouten.png 606w, /assets/2010/05/bodenmais_gps_wanderrouten-300x202.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/bodenmais_gps_wanderrouten.png" alt="" title="Bodenmais GPS Wanderrouten"    srcset="/assets/2010/05/bodenmais_gps_wanderrouten.png 606w, /assets/2010/05/bodenmais_gps_wanderrouten-300x202.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 In den vier Etapen rund um Bodenmais besuchten wir:
 -den großen und kleinen Arber

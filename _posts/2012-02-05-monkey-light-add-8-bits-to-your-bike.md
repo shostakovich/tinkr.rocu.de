@@ -29,7 +29,7 @@ It is a rugged, practical, high performance bike light that keeps you visible in
 
 
 The shipping to Germany took it&#8217;s time, about four weeks or so. I received the package just this week. I ordered 2 Monkey Lights. Here you can see what is inside the package:
-<img loading="lazy" src="/assets/2012/02/monkeylight_strip.jpg" alt="" title="Monkey Light  - image strip" width="627" height="799" class="alignnone size-full wp-image-2686" />
+<img loading="lazy" src="/assets/2012/02/monkeylight_strip.jpg" alt="" title="Monkey Light  - image strip"    />
 The battery pack holds 3 AA batteries. A rubber seal prevents moisture to get inside the battery pack. The light electronics are enclosed in flexible clear plastic.
 
 And here is a little demo:

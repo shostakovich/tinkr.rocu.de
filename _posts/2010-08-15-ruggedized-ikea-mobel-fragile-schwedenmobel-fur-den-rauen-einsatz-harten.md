@@ -21,18 +21,18 @@ tags:
   - Möbel reparieren
   - reparieren
 ---
-<img loading="lazy" src="/assets/2010/08/ikea_malm_3d.png" alt="" title="Sketchup 3D Ikea MALM - Ansicht" width="606" height="568" class="alignnone size-full wp-image-1806" />
+<img loading="lazy" src="/assets/2010/08/ikea_malm_3d.png" alt="" title="Sketchup 3D Ikea MALM - Ansicht"    />
 
 Unsere MALM-Kommode aus dem Hause Ikea war mit der Zeit so lädiert, dass entweder ein Ersatz oder eine Generalüberholung durchgeführt werden musste. Da das ZM-Team natürlich ein Tim-Taylor-Heimwerker-King-Diplom gemacht hat, haben wir selbst zur Reparaturkiste gegriffen und das gute Möbelstück auf Vordermann gebracht.
 
 Eines der Schwachpunkte der Kommode ist die Fixierung der Bodenplatte. Zu schwer beladen schaut sie ein Stockwerk tiefer wieder raus. Damit das nicht mehr passiert, kann man auf der Unterseite eine zusätzliche Leiste anbringen. Diese sorgt für wesentlich mehr Stabilität.
 
-<img loading="lazy" src="/assets/2010/08/ikea_malm_schublade_1.jpg" alt="" title="MALM Schublade - Anbringen einer Leiste" width="606" height="455" class="alignnone size-full wp-image-1808" />
+<img loading="lazy" src="/assets/2010/08/ikea_malm_schublade_1.jpg" alt="" title="MALM Schublade - Anbringen einer Leiste"    />
 
 Zusätzlich sind an einer der beiden Scharniere Löcher hin zur Bodenplatte angebracht, die im Normalfall nicht verwendet werden. Hier kann man zwei Schrauben zur weiteren Fixierung anbringen.
-<img loading="lazy" src="/assets/2010/08/ikea_malm_schublade_2.jpg" alt="" title="MALM Schublade - Fixierung der Bodenplatte mit zusätzlichen Schrauben" width="606" height="455" class="alignnone size-full wp-image-1809" />
+<img loading="lazy" src="/assets/2010/08/ikea_malm_schublade_2.jpg" alt="" title="MALM Schublade - Fixierung der Bodenplatte mit zusätzlichen Schrauben"    />
 
 Ein ausgerissenes Scharnier hatten wir außerdem, hier mussten wir ein neues Loch in das Scharnier bohren und es mit einer neuen Schraube an der Spannplatte befestigen.
-<img loading="lazy" src="/assets/2010/08/ikea_malm_schublade_3.jpg" alt="" title="MALM Schublade - Ersatzschraube" width="606" height="455" class="alignnone size-full wp-image-1810" />
+<img loading="lazy" src="/assets/2010/08/ikea_malm_schublade_3.jpg" alt="" title="MALM Schublade - Ersatzschraube"    />
 
 Nach ein paar Stunden Arbeit und 5 Euro beim Obi Biber für die Leisten war die Kommode auch schon wieder fast wie neu.

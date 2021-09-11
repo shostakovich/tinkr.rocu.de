@@ -24,13 +24,13 @@ Woopra funktioniert zwar ganz ausgezeichnet und ist von der Darstellung und der 
 
 Mit Erflogsmessung hat das nichts mehr zu tun und spaßig fände ich selber als Besucher ein solches &#8222;persönliches&#8220; Tracking auch nicht unbedingt.
 
-<img loading="lazy" alt="" src="http://farm4.static.flickr.com/3184/2887381279_161324625e.jpg" title="Woopra spioniert die einzelnen Benutzer etwas zu sehr aus" class="alignnone" width="500" height="392" /> 
+<img loading="lazy" alt="" src="http://farm4.static.flickr.com/3184/2887381279_161324625e.jpg" title="Woopra spioniert die einzelnen Benutzer etwas zu sehr aus"    />
 
 Hätte ich von der fehlenden Möglichkeit die IP&#8217;s zu anonymisieren absehen können, finde ich das doch zu krass und halte es für einen absoluten Vertrauensbruch gegenüber den Kommentatoren hier, Woopra installiert zu lassen.
 
 Ihr werdet daher von nun an mit Etracker durchgeleuchtet und das ganz sauber und dem deutschen Datenschutzrecht entsprechend, garantiert Nacktscannerfrei.
 
-<img loading="lazy" alt="" src="http://webdude.cachefly.net/images/uploads/apps/etracker_2.png" title="Etracker Admin Panel" class="alignnone" width="606" height="417" /> 
+<img loading="lazy" alt="" src="http://webdude.cachefly.net/images/uploads/apps/etracker_2.png" title="Etracker Admin Panel"    />
 
 Zudem blockiere ich bei mir zu Hause für mich persönlich neben Google Analytics also auch noch Woopra und entziehe mich so blinder Datensammelwut.
 

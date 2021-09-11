@@ -28,7 +28,7 @@ Nachdem ich nun einiges ausprobiert habe und sowohl Emacs als auch Lispworks wir
 
 Dazu habe ich mir [Steel Bank Common Lisp](http://www.sbcl.org/) instaliert, mir [dieses Bundle hier](http://zoetrope.speakermouth.com/2008/4/9/lisp-bundle-for-textmate)r heruntergeladen und es dann um einen kleinen Befehl zum ausführen meiner (noch) stümperhaften Programme erweitert.
 
-<img loading="lazy" alt="" src="http://hwcdn.net/m4i2m3j4/cds/zipfelmaus/photos/lisp_bundle.jpg" title="Lisp-Bundle" class="alignnone" width="606" height="480" />
+<img loading="lazy" alt="" src="http://hwcdn.net/m4i2m3j4/cds/zipfelmaus/photos/lisp_bundle.jpg" title="Lisp-Bundle"    />
 
 `<br />
 #!/bin/bash</p>

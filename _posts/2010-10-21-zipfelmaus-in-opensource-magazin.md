@@ -17,6 +17,6 @@ tags:
   - OpenSource
   - PC-Praxis
 ---
-<img loading="lazy" src="/assets/2010/10/open_source.jpg" alt="" title="OpenSource Ausgabe 03/10" width="606" height="301" class="aligncenter size-full wp-image-1961" />
+<img loading="lazy" src="/assets/2010/10/open_source.jpg" alt="" title="OpenSource Ausgabe 03/10"    />
 
 Die frisch an den Kiosken erhältliche OpenSource-Ausgabe 03/10, aus dem Data-Becker-Verlag, enthält auch einen kleinen Beitrag von Zipfelmaus zum Thema OpenSource-Hardware. Zu finden ist dieser auf Seite 17.

@@ -23,7 +23,7 @@ tags:
 ---
 Around one year ago Texas Instruments launched a new ultra low cost MCU platform for it&#8217;s MSP430 series, the LaunchPad. You can get it for just 4,30$ in the [TI eStore](https://estore.ti.com/).
 
-<img loading="lazy" src="/assets/2012/03/TI_launchpad.png" alt="" title="TI LaunchPad" width="606" height="451" class="alignnone size-full wp-image-2803" srcset="/assets/2012/03/TI_launchpad.png 606w, /assets/2012/03/TI_launchpad-240x180.png 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2012/03/TI_launchpad.png" alt="" title="TI LaunchPad"    srcset="/assets/2012/03/TI_launchpad.png 606w, /assets/2012/03/TI_launchpad-240x180.png 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
 When I first tried to get started with the LaunchPad, I had some difficulties with the Code Composer Studio, the software IDE for the microcontroller. I got compilation errors and whatever. But I think that is quite a common issue with Eclipse based IDEs. I also had my problems with ALTERAs [NIOS II Studio](http://tinkr.de/blog/darum-finde-ich-eclipse-zum-erbrechen/).
 
@@ -51,20 +51,20 @@ Then you select the populated MCU in your LaunchPad (just read the ICs marking) 
 
 Then select in &#8222;Project templates and examples&#8220; -> Grace Examples -> Blink LED from the CPU.
 
-<img loading="lazy" src="/assets/2012/03/TI_launchpad_code_composer_studio_new_project.png" alt="" title="Code Composer Studio - new project" width="445" height="569" class="alignnone size-full wp-image-2797" />
+<img loading="lazy" src="/assets/2012/03/TI_launchpad_code_composer_studio_new_project.png" alt="" title="Code Composer Studio - new project"    />
 
 ### Step3
 
 Then open the led.cfg file (for the Grace GUI) (1.). Select Device Overview, then left click on the Port P1 (2.)
 
-<img loading="lazy" src="/assets/2012/03/TI_launchpad_code_composer_studio_grace1.png" alt="" title="Code Composer Studio Grace - Device Overview" width="606" height="430" class="alignnone size-full wp-image-2799" />
+<img loading="lazy" src="/assets/2012/03/TI_launchpad_code_composer_studio_grace1.png" alt="" title="Code Composer Studio Grace - Device Overview"    />
 
 ### Step4
 
 Then you click on &#8222;Pinout TSSOP/PDIP&#8220;.
 P1.0 and P1.6 must be configured as outputs. The other pins of Port P1 are inputs.
 
-<img loading="lazy" src="/assets/2012/03/TI_launchpad_code_composer_studio_grace2.png" alt="" title="Code Composer Studio Grace - GPIO" width="606" height="430" class="alignnone size-full wp-image-2800" />
+<img loading="lazy" src="/assets/2012/03/TI_launchpad_code_composer_studio_grace2.png" alt="" title="Code Composer Studio Grace - GPIO"    />
 
 Now we finished the register configuration with Grace and can start to write some software code.
 
@@ -72,7 +72,7 @@ Now we finished the register configuration with Grace and can start to write som
 
 Open the led.c file in the project explorer. You can replace your code with this.
 
-[cpp]
+```
 //\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\***\*****
 // Blink LED Example
 //
@@ -130,7 +130,7 @@ P1OUT &= ~(BIT0);
 _\_delay\_cycles(100000); // Wait ~100ms at default DCO of ~1MHz
 }
 }
-[/cpp]
+```
 
 ### Step6
 

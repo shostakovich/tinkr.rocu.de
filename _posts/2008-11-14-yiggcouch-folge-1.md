@@ -22,10 +22,10 @@ tags:
 ---
 [Baynado](http://www.baynado.de/blog/) und ich haben schon seit einigen Monaten den verrückten Gedanken einen User-Generated-YiGG-Podcast zu basteln, er soll YiGG-Couch heißen und von den YiGGern und hörern aktiv mitgestaltet werden. Anfangen soll das bei den Inhalten, Gäste laden sich im Chaosprinzip selber ein und dann wird einfach munter drauf los geredet. Wir beide hoffen, dass dabei die ein oder andere interessante Gesprächsrunde herauskommt.
 
-<div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.flickr.com/photos/apoptotic/474680177/"><img loading="lazy" title="Get Active couch in empty lot with cushion gun" src="http://farm1.static.flickr.com/232/474680177_bbd8f4e3c3.jpg" alt="Get Active couch in empty lot with cushion gun" width="500" height="333" /></a>
+<div style="width: 510px" >
+  <a href="http://www.flickr.com/photos/apoptotic/474680177/"><img loading="lazy" title="Get Active couch in empty lot with cushion gun" src="http://farm1.static.flickr.com/232/474680177_bbd8f4e3c3.jpg" alt="Get Active couch in empty lot with cushion gun"   /></a>
 
-  <p class="wp-caption-text">
+  <p >
     Get Active couch in empty lot with cushion gun
   </p>
 </div>

@@ -30,7 +30,7 @@ A few weeks ago I have found a link the BitScope website. BitScope is a manufact
 
 So let&#8217;s examine, what scope might be a good choice for you.
 
-<img loading="lazy" src="/assets/2016/04/scopes.jpg" alt="" width="627" height="551" class="alignnone size-full wp-image-3815" srcset="/assets/2016/04/scopes.jpg 627w, /assets/2016/04/scopes-300x264.jpg 300w" sizes="(max-width: 627px) 100vw, 627px" />
+<img loading="lazy" src="/assets/2016/04/scopes.jpg" alt=""    srcset="/assets/2016/04/scopes.jpg 627w, /assets/2016/04/scopes-300x264.jpg 300w" sizes="(max-width: 627px) 100vw, 627px" />
 
 ### Comparison Table
 
@@ -49,10 +49,10 @@ So from the numbers we see the Bitscope has a higher Bandwidth and a higher Reso
 -Bitscope: The guys from Bitscope follow the slogan, we fill your desktop till it&#8217;s full (every tool also puts its readme file on your more or less tidy desktop).
 
 
-<div id="attachment_3808" style="width: 203px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3808" loading="lazy" src="/assets/2016/04/2016-04-28_22h40_56.jpg" alt="fill your desktop with icons" width="193" height="432" class="size-full wp-image-3808" srcset="/assets/2016/04/2016-04-28_22h40_56.jpg 193w, /assets/2016/04/2016-04-28_22h40_56-134x300.jpg 134w" sizes="(max-width: 193px) 100vw, 193px" />
+<div id="attachment_3808" style="width: 203px" >
+  <img aria-describedby="caption-attachment-3808" loading="lazy" src="/assets/2016/04/2016-04-28_22h40_56.jpg" alt="fill your desktop with icons"    srcset="/assets/2016/04/2016-04-28_22h40_56.jpg 193w, /assets/2016/04/2016-04-28_22h40_56-134x300.jpg 134w" sizes="(max-width: 193px) 100vw, 193px" />
 
-  <p id="caption-attachment-3808" class="wp-caption-text">
+  <p id="caption-attachment-3808" >
     fill your desktop with icons
   </p>
 </div>
@@ -63,10 +63,10 @@ So they give you a little tool for every functionality.
 -PicoScope: here you have only one installation and one icon
 
 
-<div id="attachment_3809" style="width: 145px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3809" loading="lazy" src="/assets/2016/04/2016-04-28_22h44_24.jpg" alt="single icon" width="135" height="155" class="size-full wp-image-3809" />
+<div id="attachment_3809" style="width: 145px" >
+  <img aria-describedby="caption-attachment-3809" loading="lazy" src="/assets/2016/04/2016-04-28_22h44_24.jpg" alt="single icon"    />
 
-  <p id="caption-attachment-3809" class="wp-caption-text">
+  <p id="caption-attachment-3809" >
     single icon
   </p>
 </div>
@@ -86,10 +86,10 @@ The nice way to test the scopes capabilities is to turn its signal generator on 
 As you can see here the wave form generator function is a little limited, I was unable to change the pulse duty cycle and the voltage levels. There is also no sweep functionality.
 
 
-<div id="attachment_3812" style="width: 702px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3812" loading="lazy" src="/assets/2016/04/2016-04-30-10h32_55.gif" alt="BitScope - wave form generator" width="692" height="500" class="size-full wp-image-3812" />
+<div id="attachment_3812" style="width: 702px" >
+  <img aria-describedby="caption-attachment-3812" loading="lazy" src="/assets/2016/04/2016-04-30-10h32_55.gif" alt="BitScope - wave form generator"    />
 
-  <p id="caption-attachment-3812" class="wp-caption-text">
+  <p id="caption-attachment-3812" >
     BitScope - wave form generator
   </p>
 </div>
@@ -98,10 +98,10 @@ As you can see here the wave form generator function is a little limited, I was 
 PicoScopes wave form generator function is quite nice. There are the normal sinus, ramp and square waveforms. You can also change the frequencies, voltage levels and offsets. In the sweep mode you can state the start, stop and the increment frequencies.
 
 
-<div id="attachment_3804" style="width: 930px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3804" loading="lazy" src="/assets/2016/04/2016-04-27-20h12_08.gif" alt="PicoScope - Software" width="920" height="558" class="size-full wp-image-3804" />
+<div id="attachment_3804" style="width: 930px" >
+  <img aria-describedby="caption-attachment-3804" loading="lazy" src="/assets/2016/04/2016-04-27-20h12_08.gif" alt="PicoScope - Software"    />
 
-  <p id="caption-attachment-3804" class="wp-caption-text">
+  <p id="caption-attachment-3804" >
     PicoScope - Software
   </p>
 </div>
@@ -110,10 +110,10 @@ PicoScopes wave form generator function is quite nice. There are the normal sinu
 PicoScopes signal generator also has a AWG function (Arbitrary Waveform Generator). Quite a nice tool. Here you can create the wave form you exactly need in your design.
 
 
-<div id="attachment_3813" style="width: 733px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3813" loading="lazy" src="/assets/2016/04/awg_picoscope.jpg" alt="AWG PicoScope" width="723" height="470" class="size-full wp-image-3813" srcset="/assets/2016/04/awg_picoscope.jpg 723w, /assets/2016/04/awg_picoscope-300x195.jpg 300w" sizes="(max-width: 723px) 100vw, 723px" />
+<div id="attachment_3813" style="width: 733px" >
+  <img aria-describedby="caption-attachment-3813" loading="lazy" src="/assets/2016/04/awg_picoscope.jpg" alt="AWG PicoScope"    srcset="/assets/2016/04/awg_picoscope.jpg 723w, /assets/2016/04/awg_picoscope-300x195.jpg 300w" sizes="(max-width: 723px) 100vw, 723px" />
 
-  <p id="caption-attachment-3813" class="wp-caption-text">
+  <p id="caption-attachment-3813" >
     AWG PicoScope
   </p>
 </div>

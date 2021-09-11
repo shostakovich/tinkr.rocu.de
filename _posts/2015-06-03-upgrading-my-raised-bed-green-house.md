@@ -24,10 +24,10 @@ tags:
 Last year I built a green house for the tomatoes on my raised bed in my garden (original post: <http://tinkr.de/blog/garden-tinker-project-greenhouse-for-a-raised-bed/>.
 It basically consists of a wooden frame and air bubble film. As it turns out, after one year in service, the air bubble film is not UV resistant and it starts to get chapped and falls into little pieces. So it was about time to put a more reliable film on the wooden frame.
 
-<div id="attachment_3741" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3741" loading="lazy" class="size-full wp-image-3741" src="/assets/2015/06/diy_green-house_2015_upgrade_1.jpg" alt="broken green house film" width="606" height="341" />
+<div id="attachment_3741" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3741" loading="lazy"  src="/assets/2015/06/diy_green-house_2015_upgrade_1.jpg" alt="broken green house film"   />
 
-  <p id="caption-attachment-3741" class="wp-caption-text">
+  <p id="caption-attachment-3741" >
     broken green house film
   </p>
 </div>
@@ -36,20 +36,20 @@ At first I removed the old air bubble film. Then I added a new roof construction
 
 Then I cut out the new film material, a fabric reinforced film for greenhouses with added UV resistance. The film was then stapled over the frame. I left the front side open and added a kind of a lid, that can be closed by Velcro.
 
-<div id="attachment_3742" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3742" loading="lazy" class="size-full wp-image-3742" src="/assets/2015/06/diy_green-house_2015_upgrade_2_roof.jpg" alt="new film plus a new roof construction" width="606" height="1036" srcset="/assets/2015/06/diy_green-house_2015_upgrade_2_roof.jpg 606w, /assets/2015/06/diy_green-house_2015_upgrade_2_roof-599x1024.jpg 599w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3742" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3742" loading="lazy"  src="/assets/2015/06/diy_green-house_2015_upgrade_2_roof.jpg" alt="new film plus a new roof construction"   srcset="/assets/2015/06/diy_green-house_2015_upgrade_2_roof.jpg 606w, /assets/2015/06/diy_green-house_2015_upgrade_2_roof-599x1024.jpg 599w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3742" class="wp-caption-text">
+  <p id="caption-attachment-3742" >
     new film plus a new roof construction
   </p>
 </div>
 
 After a couple of hours the green house was like new.
 
-<div id="attachment_3743" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3743" loading="lazy" class="size-full wp-image-3743" src="/assets/2015/06/diy_green-house_2015_upgrade_3_final.jpg" alt="the completed rebuild" width="606" height="726" />
+<div id="attachment_3743" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3743" loading="lazy"  src="/assets/2015/06/diy_green-house_2015_upgrade_3_final.jpg" alt="the completed rebuild"   />
 
-  <p id="caption-attachment-3743" class="wp-caption-text">
+  <p id="caption-attachment-3743" >
     the completed rebuild
   </p>
 </div>

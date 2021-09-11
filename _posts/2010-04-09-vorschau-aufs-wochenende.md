@@ -17,4 +17,4 @@ tags:
   - Basteln
 ---
 Die Woche kamen dicke Bastel-Pakete aus allen Himmelsrichtungen. Ich habe bereits begonnen, die ersten Sachen aufzubauen. Mehr Infos kommen dann am Wochenende.
-<img loading="lazy" src="/assets/2010/04/moretocome.jpg" alt="" title="Was kann das sein?" width="606" height="404" class="alignnone size-full wp-image-1543" srcset="/assets/2010/04/moretocome.jpg 606w, /assets/2010/04/moretocome-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/04/moretocome.jpg" alt="" title="Was kann das sein?"    srcset="/assets/2010/04/moretocome.jpg 606w, /assets/2010/04/moretocome-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />

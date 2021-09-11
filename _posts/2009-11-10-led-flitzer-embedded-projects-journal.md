@@ -18,6 +18,6 @@ tags:
 ---
 Mit einer aufgefrischten Seite und einem Artikel in der online-OpenElectronics-Zeitung _Embedded Projects Journal_ meldet sich der LED-Flitzer zurück.
 
-<img loading="lazy" src="/assets/2009/11/ep_artikel_606.png" alt="Artikel" title="Artikel" width="606" height="427" class="alignnone size-full wp-image-1294" srcset="/assets/2009/11/ep_artikel_606.png 606w, /assets/2009/11/ep_artikel_606-300x211.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/11/ep_artikel_606.png" alt="Artikel" title="Artikel"    srcset="/assets/2009/11/ep_artikel_606.png 606w, /assets/2009/11/ep_artikel_606-300x211.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Das aktuelle online Magazin, dass unter dem nachfolgenden Link aufgerufen werden kann: [http://www.ixbat.de//files/admin/projekte/epjournal/EPJ\_04\_download.pdf](http://www.ixbat.de//files/admin/projekte/epjournal/EPJ_04_download.pdf) stellt das Zipfelmaus-Projekt kurz und übersichtlich vor. Der entsprechende Online-Artikel von Zipfelmaus ist hier verfügbar: <http://tinkr.de/led-flitzer/>. Auf dieser Seite sind auch aktuellen Sourcen verlinkt.

@@ -28,6 +28,6 @@ Hauptkriterium für einen benutzbaren Virenscanner ist meiner Meinung nach, dass
 
 Vor kurzen habe ich dann iAntiVirus entdeckt, dass völlig kostenlos unter [iantivirus.com](http://www.iantivirus.com/) heruntergeladen werden kann.
 
-<img loading="lazy" src="/assets/2009/03/iantivirus.png" alt="iantivirus.png" border="0" width="606" height="449" />
+<img loading="lazy" src="/assets/2009/03/iantivirus.png" alt="iantivirus.png" border="0"   />
 
 Das Programm nistet sich dezent in der Menüleiste ein und stört mich nicht beim arbeiten und auch wenn ich nichts zu der Erkennungsrate von iAntiVirus sagen kann, fühle ich mich zumindest subjektiv ein wenig sicherer..

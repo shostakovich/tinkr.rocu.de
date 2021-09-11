@@ -24,18 +24,18 @@ tags:
 ---
 Just today I also finished this exciting project, a camera rail for the GoPro action camera.
 
-<div id="attachment_3319" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3319" loading="lazy" src="/assets/2013/04/igus_rail_03.jpg" alt="GoPro Camera Rail" width="606" height="455" class="size-full wp-image-3319" srcset="/assets/2013/04/igus_rail_03.jpg 606w, /assets/2013/04/igus_rail_03-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3319" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3319" loading="lazy" src="/assets/2013/04/igus_rail_03.jpg" alt="GoPro Camera Rail"    srcset="/assets/2013/04/igus_rail_03.jpg 606w, /assets/2013/04/igus_rail_03-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3319" class="wp-caption-text">
+  <p id="caption-attachment-3319" >
     GoPro Camera Rail
   </p>
 </div>
 
-<div id="attachment_3318" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3318" loading="lazy" src="/assets/2013/04/igus_rail_02.jpg" alt="GoPro Camera Rail" width="606" height="455" class="size-full wp-image-3318" srcset="/assets/2013/04/igus_rail_02.jpg 606w, /assets/2013/04/igus_rail_02-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3318" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3318" loading="lazy" src="/assets/2013/04/igus_rail_02.jpg" alt="GoPro Camera Rail"    srcset="/assets/2013/04/igus_rail_02.jpg 606w, /assets/2013/04/igus_rail_02-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3318" class="wp-caption-text">
+  <p id="caption-attachment-3318" >
     GoPro Camera Rail
   </p>
 </div>
@@ -44,10 +44,10 @@ It is based on the rails from the german company Igus (link: [](http://www.igus.
 
 You can download the STL-file here: <http://www.thingiverse.com/thing:77377>
 
-<div id="attachment_3317" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3317" loading="lazy" src="/assets/2013/04/igus_rail_01.jpg" alt="clamps" width="606" height="410" class="size-full wp-image-3317" />
+<div id="attachment_3317" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3317" loading="lazy" src="/assets/2013/04/igus_rail_01.jpg" alt="clamps"    />
 
-  <p id="caption-attachment-3317" class="wp-caption-text">
+  <p id="caption-attachment-3317" >
     clamps
   </p>
 </div>

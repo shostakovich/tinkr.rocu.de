@@ -26,10 +26,10 @@ One way to avoid confusion when picking your case from the rack when leaving the
 
 I went one step further and put an URL sticker on the front of the case.
 
-<div id="attachment_3541" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3541" loading="lazy" src="/assets/2014/03/suitcase_url_sticker.jpg" alt="Suitcase with URL sticker" width="606" height="705" class="size-full wp-image-3541" />
+<div id="attachment_3541" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3541" loading="lazy" src="/assets/2014/03/suitcase_url_sticker.jpg" alt="Suitcase with URL sticker"    />
 
-  <p id="caption-attachment-3541" class="wp-caption-text">
+  <p id="caption-attachment-3541" >
     Suitcase with URL sticker
   </p>
 </div>

@@ -19,6 +19,6 @@ tags:
 Mit [geekcruise.de](http://www.geekcruise.de) ist ein neues Schwestern-Blog von tinkr.de gestartet. Hier wollen wir über unsere Abenteuer auf der hohen See fortan berichten.
 
 [
-<img loading="lazy" src="/assets/2011/03/geekcruise.jpg" alt="" title="geekcruise.de" width="606" height="504" class="alignnone size-full wp-image-2294" />](http://www.geekcruise.de)
+<img loading="lazy" src="/assets/2011/03/geekcruise.jpg" alt="" title="geekcruise.de"    />](http://www.geekcruise.de)
 
 Link: [geekcruise.de](http://www.geekcruise.de)

@@ -27,11 +27,11 @@ Postbox bietet einige wirklich interessante Features und auch wenn man die Softw
 
 Besonders gefällt mir die Möglichkeit den Mails Themen zuzuordnen, ohne sie aus den IMAP-Ordnern rauszuschmeißen. Das ganze erinnert mich etwas an GMail und ich hatte diese Labels schmerzlich vermisst, nachdem ich mich aus schlechtem Gewissen meiner eigenen Privatsphäre gegenüber dazu entschlossen hatte, wieder auf meinen eigenen Mail-Server umzusteigen.
 
-<img loading="lazy" class="alignnone" title="Postbox Hauptansicht" src="http://web2.0du.de/wp-content/uploads/sites/7/2009/02/postbox_main.png" alt="" width="586" height="454" />
+<img loading="lazy"  title="Postbox Hauptansicht" src="http://web2.0du.de/wp-content/uploads/sites/7/2009/02/postbox_main.png" alt=""   />
 
 Darüber hinaus wirklich gut gelungen finde ich die Suche von Postbox. Jeder, der schon einmal E-Mail-Postfächer mit mehrern tausend E-Mails durchsuchen musste, weiß wie nervig es manchmal sein kann eine bestimmte Nachricht zu finden. In dem Suchformular von Postbox kann man mehrere Filter kombinieren und so die Suche soweit eingrenzen, dass wenn man es geschickt anstellt nur noch eine Hand von Mails übrigbleiben.
 
-<img loading="lazy" class="alignnone" title="Die Suche bei Postbox" src="http://web2.0du.de/wp-content/uploads/sites/7/2009/02/postbox_search_panel.png" alt="" width="586" height="454" />
+<img loading="lazy"  title="Die Suche bei Postbox" src="http://web2.0du.de/wp-content/uploads/sites/7/2009/02/postbox_search_panel.png" alt=""   />
 
 Nett für jeden geplagte Mail.app Benutzer ist die Möglichkeit ohne Addons die Liste seiner E-Mails links neben die Detailansicht zu bewegen. Herzlich willkommen in der Welt der 16:10 Bildschirme.
 

@@ -29,7 +29,7 @@ tags:
 
 Recently I&#8217;ve found an quite interesting Arduino shield on: <http://www.veear.eu/Products/EasyVRShield.aspx>. Using this shield you can control your Arduino using speech commands.
 
-<img loading="lazy" src="/assets/2012/03/easyvr_shield_arduino.jpg" alt="" title="Arduino - EasyVR Shield" width="606" height="455" class="alignnone size-full wp-image-2816" srcset="/assets/2012/03/easyvr_shield_arduino.jpg 606w, /assets/2012/03/easyvr_shield_arduino-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2012/03/easyvr_shield_arduino.jpg" alt="" title="Arduino - EasyVR Shield"    srcset="/assets/2012/03/easyvr_shield_arduino.jpg 606w, /assets/2012/03/easyvr_shield_arduino-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
 The shield consists of these components:
 - EasyVR Arduino Shield (includes EasyVR module)
@@ -71,11 +71,11 @@ Connect the Arduino to the PC via USB.
 
 Now run &#8222;EasyVR Commander&#8220; and connect to the serial port of the Arduino USB connection.
 Click in the group list on Index 0 - Trigger. Add a new command, name it e.g. &#8222;ARDUINO&#8220;. Then click on &#8222;Train Command&#8220;. And speak the word &#8222;Arduino&#8220; in the mic. And a second time, when the software tells you so.
-<img loading="lazy" src="/assets/2012/03/easyvr_commander_trigger.jpg" alt="" title="EasyVR Commander: Trigger" width="606" height="462" class="alignnone size-full wp-image-2821" />
+<img loading="lazy" src="/assets/2012/03/easyvr_commander_trigger.jpg" alt="" title="EasyVR Commander: Trigger"    />
 
 Click in the group list on Index 1 - Group. Add a new command, name it e.g. &#8222;LED_ON&#8220;. Then click on &#8222;Train Command&#8220;. And speak the words &#8222;LED on&#8220; in the mic. And a second time, when the software tells you so.
 And add a second command &#8222;LED_OFF&#8220; and train this command as well.
-<img loading="lazy" src="/assets/2012/03/easyvr_commander_group1.jpg" alt="" title="EasyVR Commander: Group1" width="606" height="462" class="alignnone size-full wp-image-2822" />
+<img loading="lazy" src="/assets/2012/03/easyvr_commander_group1.jpg" alt="" title="EasyVR Commander: Group1"    />
 Note: LED\_AN is LED\_ON and LED\_AUS is LED\_OFF.
 
 Now your EasyVR is configured. We finally generate some code for the microcontroller inside of the Arduino. In EasyVR Commander click on File->Generate code.
@@ -88,7 +88,7 @@ Install the EasyVR Arduino libraries (see first link) to the Arduino IDE library
 
 I slightly altered the previously generated code to control a LED. The LED is connected to pin 11:
 
-[cpp]
+```
 #if defined(ARDUINO) &amp;&amp; ARDUINO &gt;= 100
 #include &quot;Arduino.h&quot;
 #include &quot;SoftwareSerial.h&quot;
@@ -246,6 +246,6 @@ break;
 break;
 }
 }
-[/cpp]
+```
 
 Compile and upload this code. Your Arduino should now do something like this:

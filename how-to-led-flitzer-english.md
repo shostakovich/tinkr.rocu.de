@@ -10,7 +10,7 @@ tc-thumb-fld:
 ---
 (Diesen Artikel gibt es auch in [deutsch](http://tinkr.de/led-flitzer/))
 
-[<img loading="lazy" class="alignleft size-medium wp-image-300" title="LED-Flitzer (3)" src="/assets/2009/03/led_flitzer_3-300x110.jpg" alt="LED-Flitzer (3)" width="300" height="110" srcset="/assets/2009/03/led_flitzer_3-300x110.jpg 300w, /assets/2009/03/led_flitzer_3-1023x377.jpg 1023w, /assets/2009/03/led_flitzer_3.jpg 1989w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2009/03/led_flitzer_3.jpg)
+[<img loading="lazy"  title="LED-Flitzer (3)" src="/assets/2009/03/led_flitzer_3-300x110.jpg" alt="LED-Flitzer (3)"   srcset="/assets/2009/03/led_flitzer_3-300x110.jpg 300w, /assets/2009/03/led_flitzer_3-1023x377.jpg 1023w, /assets/2009/03/led_flitzer_3.jpg 1989w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2009/03/led_flitzer_3.jpg)
 The LED-Flitzer is a further development of the Dance Messenger that can be found at [Instructables.com](http://www.Instructables.com).
 The LED-Flitzer is like the Dance Messenger a persistence of view (POV) toy.
 What is it good for? Use it to show your messages to others when you dance, run. Or mount it on the wheels of your bike.
@@ -21,7 +21,7 @@ What is it good for? Use it to show your messages to others when you dance, run.
   How does it work:
 </h3>
 
-[<img loading="lazy" class="alignleft size-medium wp-image-270" title="Led-Flitzer POV PCB" src="/assets/2009/02/led_flitzer_0-300x199.jpg" alt="Led-Flitzer POV PCB" width="300" height="199" />](/assets/2009/02/led_flitzer_0.jpg)
+[<img loading="lazy"  title="Led-Flitzer POV PCB" src="/assets/2009/02/led_flitzer_0-300x199.jpg" alt="Led-Flitzer POV PCB"   />](/assets/2009/02/led_flitzer_0.jpg)
 A string of 8 LEDs is controlled via a AVR microcontroller. By switching them in a certain way, it is possible to create different kind of forms. This firmware is limited to capital letters. But you can add numbers and figures if you want.
 
 <h3 style="clear: both;">
@@ -30,9 +30,9 @@ A string of 8 LEDs is controlled via a AVR microcontroller. By switching them in
 
 There are several improvements in comparison to the design from [Instructables.com](http://www.Instructables.com):
 
-  * [<img loading="lazy" class="alignleft size-thumbnail wp-image-280" title="USB connector" src="/assets/2009/03/usb_stecker-150x150.jpg" alt="USB connector" width="150" height="150" />](/assets/2009/03/usb_stecker.jpg)USB-interface for easy download of new text strings (no ISP programming necessary for changing the LED texts). The text is then stored nonvolatile in the EEPROM.
+  * [<img loading="lazy"  title="USB connector" src="/assets/2009/03/usb_stecker-150x150.jpg" alt="USB connector"   />](/assets/2009/03/usb_stecker.jpg)USB-interface for easy download of new text strings (no ISP programming necessary for changing the LED texts). The text is then stored nonvolatile in the EEPROM.
 <li style="clear:both;">
-  <a href="/assets/2009/03/mma7260q.jpg"><img loading="lazy" class="alignleft size-thumbnail wp-image-279" title="MMA7260Q Accelerometer" src="/assets/2009/03/mma7260q-150x150.jpg" alt="MMA7260Q Accelerometer" width="150" height="150" /></a>a three axis acceleration sensor senses the movement of LED-Flitzer, so the LEDs were only turned on, if a moving was detected
+  <a href="/assets/2009/03/mma7260q.jpg"><img loading="lazy"  title="MMA7260Q Accelerometer" src="/assets/2009/03/mma7260q-150x150.jpg" alt="MMA7260Q Accelerometer"   /></a>a three axis acceleration sensor senses the movement of LED-Flitzer, so the LEDs were only turned on, if a moving was detected
 </li>
 <li style="clear:both;">
   voltage regulator added
@@ -62,7 +62,7 @@ Software-Settings: The code is programmed for an ATmega8 running at 1MHz. The UA
   LED Flitzer Proga - Text download programm:
 </h3>
 
-<a style="float: left;" href="/assets/2009/03/flitzer.png"><img loading="lazy" title="LED-Flitzer Text Download Tool" src="/assets/2009/03/flitzer-150x150.png" alt="LED-Flitzer Text Download Tool" width="150" height="150" /></a>
+<a style="float: left;" href="/assets/2009/03/flitzer.png"><img loading="lazy" title="LED-Flitzer Text Download Tool" src="/assets/2009/03/flitzer-150x150.png" alt="LED-Flitzer Text Download Tool"   /></a>
 I have progammed a small tool for download new text strings into the LED-Flitzer. It&#8217;s written in C#. Since you can also download the sources, you can also port it from windows to other OSs, like Linux or MAC OS.
 This tool uses the virtual serial port, to communicate with the pov device.
 Next to this tool (download link at the bottom of this page) you need the latest .net-runtime and the USB-drivers from FTDI: <http://www.ftdichip.com/Drivers/VCP.htm>

@@ -19,7 +19,7 @@ tags:
   - Links
   - programming
 ---
-<img loading="lazy" src="/assets/2012/03/links_10_2012.jpg" width="606" height="455" alt="" />
+<img loading="lazy" src="/assets/2012/03/links_10_2012.jpg"   alt="" />
 
 ## [How 30 Minutes a Day Can Increase Your Intelligence](http://www.lifehack.org/articles/lifehack/how-half-an-hour-a-day-can-increase-your-intelligence.html)
 

@@ -21,6 +21,6 @@ tags:
 ---
 Ich kann es kaum glauben, gerade fällt Schnee in der bayrischen Landeshaupstadt München, ausserdem ist es wirklich ziemlich kalt draussen und ich denke schon darüber nach, das erste mal in diesem Jahr meine Heizung anzuschalten. Trotz Computerabwärme wird es ungemütlich kühl hier drinnen.
 
-<img loading="lazy" title="Schnee auf der Forstenrieder Allee in München" src="http://webdude.cachefly.net/images/uploads/landscape/221108_schnee.png" alt="Schnee auf der Forstenrieder Allee in München" width="606" height="477" /> 
+<img loading="lazy" title="Schnee auf der Forstenrieder Allee in München" src="http://webdude.cachefly.net/images/uploads/landscape/221108_schnee.png" alt="Schnee auf der Forstenrieder Allee in München"   />
 
 Wie sieht es bei euch aus? Ich habe den Verdacht, das hier wegen des [Föhns](http://de.wikipedia.org/wiki/F%C3%B6hn) nicht so viel fällt wie anderswo.

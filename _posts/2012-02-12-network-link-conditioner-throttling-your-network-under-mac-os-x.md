@@ -20,7 +20,7 @@ tags:
 ---
 At home, we have a pretty slow internet connection. So whenever I perform my online backup, I hear cries of dismay since Hulu stops playing. So after trying to find a nice and simple solution for throttling my network throughput I found a system preference called &#8222;Network Link Conditioner&#8220;.
 
-<img loading="lazy" title="Network Link Conditioner" src="/assets/2012/02/network_link_conditioner.jpg" alt="" width="606" height="325" />
+<img loading="lazy" title="Network Link Conditioner" src="/assets/2012/02/network_link_conditioner.jpg" alt=""   />
 
 It comes bundled with XCode. You can find it under:
 

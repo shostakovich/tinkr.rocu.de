@@ -29,6 +29,6 @@ Ob es einen künstlerischen Wert hat? Das weiß ich nicht und das liegt sicher i
 
 [**Alleine by Robert Curth - Klicken zum anhören**](http://cdn.cloudfiles.mosso.com/c4101/Alleine.mp3)
 
-<img loading="lazy" class="alignnone" title="Alleine - Robert Curth" src="http://cdn.cloudfiles.mosso.com/c4101/081130_alleine.png" alt="" width="606" height="546" />
+<img loading="lazy"  title="Alleine - Robert Curth" src="http://cdn.cloudfiles.mosso.com/c4101/081130_alleine.png" alt=""   />
 
 Nur so viel sei dazu gesagt, auch die schlimmsten Gefühle gehen irgendwann vorbei. Ganz sicher 😉

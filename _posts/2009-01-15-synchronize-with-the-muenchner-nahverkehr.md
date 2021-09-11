@@ -24,7 +24,7 @@ Mittlerweile tummeln sich im Internet ein paar interessante Webseiten, die das L
 
 Die MVG, die U-Bahn, Bus und Tram betriebt, hat hierzu die Webseite <http://www.mvg-live.de/> ins Leben gerufen. Sie zeigt die aktuellen Abfahrtszeiten ihrer Fahrzeugflotte sehr übersichtlich an.
 
-[<img loading="lazy" class="alignnone size-medium wp-image-210" title="MVG-Live Homepage" src="/assets/2009/01/mvg_live-300x205.png" alt="MVG-Live Homepage" width="300" height="205" />](/assets/2009/01/mvg_live.png)
+[<img loading="lazy"  title="MVG-Live Homepage" src="/assets/2009/01/mvg_live-300x205.png" alt="MVG-Live Homepage"   />](/assets/2009/01/mvg_live.png)
 
 Für Menschen mit den sogenannten &#8222;Mobilitätseinschränkungen&#8220; ist auch folgende Seite sehr interessant <http://www.mvg-zoom.de/>. Dort wird live die Funktionstüchtigkeit der Aufzüge und Rolltreppe von vielen Ubahnstationen angezeigt.
 
@@ -35,6 +35,6 @@ Für die S-Bahn gibt es eine eigene Seite, die von der Interessengemeinschaft de
 <http://igsbahn-muenchen.de/ris/>
 Nach der Auswahl des Abfahrtsbahnhofes gelangt man zu der Abfahrtsübersicht der nächsten 60 Minuten von diesem Bahnhof. Will man es jedoch genauer als die Ausage &#8222;pünktlich&#8220; oder &#8222;xx-Minuten Verspätung&#8220;, so hilft ein Klick auf die Linie des jeweiligen Zuges. Hier wird dann der aktuelle Haltepunkt des Zuges ganz nüchtern tabellarisch angezeigt.
 
-[<img loading="lazy" class="alignnone size-medium wp-image-211" title="S-Bahn Übersicht" src="/assets/2009/01/sbahn_1-300x241.png" alt="S-Bahn Übersicht" width="300" height="241" />](/assets/2009/01/sbahn_1.png)
+[<img loading="lazy"  title="S-Bahn Übersicht" src="/assets/2009/01/sbahn_1-300x241.png" alt="S-Bahn Übersicht"   />](/assets/2009/01/sbahn_1.png)
 
-[<img loading="lazy" class="alignnone size-medium wp-image-212" title="S-Bahn aktueller Zuglauf" src="/assets/2009/01/sbahn_2-300x241.png" alt="S-Bahn aktueller Zuglauf" width="300" height="241" />](/assets/2009/01/sbahn_2.png)
+[<img loading="lazy"  title="S-Bahn aktueller Zuglauf" src="/assets/2009/01/sbahn_2-300x241.png" alt="S-Bahn aktueller Zuglauf"   />](/assets/2009/01/sbahn_2.png)

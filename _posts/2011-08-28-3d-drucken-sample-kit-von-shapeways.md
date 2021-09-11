@@ -28,14 +28,14 @@ Zu den ultimativsten Bastler-Gadgets gehört wohl sicherlich ein 3D-Drucker. Als
 Eine andere Möglichkeit besteht darin, sich erst gar keinen Drucker selbst anzuschaffen, sondern auf einen Dienstleister zurückzugreifen, der diese industriellen Drucker verwendet. In einer der letzten c&#8217;ts wurden die größten europäischen Anbieter vorgestellt. Einer Anbieter war [Shapeways.com](http://www.Shapeways.com) aus Holland.
 
 Um mir erst einmal einen Eindruck von den Möglichkeiten (Auflösung, Materialien, Haptik, &#8230;) des 3D-Drucks zu verschaffen, habe ich mir ein Sample-Kit bestellt (ca. 30€ mit Versand).
-<img loading="lazy" src="/assets/2011/08/shapeways_0.jpg" alt="" title="Shapeways - Sample Kit" width="606" height="455" class="alignnone size-full wp-image-2540" srcset="/assets/2011/08/shapeways_0.jpg 606w, /assets/2011/08/shapeways_0-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2011/08/shapeways_0.jpg" alt="" title="Shapeways - Sample Kit"    srcset="/assets/2011/08/shapeways_0.jpg 606w, /assets/2011/08/shapeways_0-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Hierin enthalten sind:
 - ein 25$ Gutschein für eine zukünftige Bestellung
 - ein Booklet über die angebotenen Materialien und Preis
 - das Sample-Kit selbst, hier sind verschiedene Kunststoffe und Metalle (Alu und Edelstahl) zusammengebaut
 
-[<img loading="lazy" src="/assets/2011/08/shapeways_1.jpg" alt="" title="Shapeways - Sample Kit, Detail" width="606" height="455" class="alignnone size-full wp-image-2541" srcset="/assets/2011/08/shapeways_1.jpg 606w, /assets/2011/08/shapeways_1-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2011/08/shapeways_zoom_003.jpg)
+[<img loading="lazy" src="/assets/2011/08/shapeways_1.jpg" alt="" title="Shapeways - Sample Kit, Detail"    srcset="/assets/2011/08/shapeways_1.jpg 606w, /assets/2011/08/shapeways_1-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2011/08/shapeways_zoom_003.jpg)
 [[Klicken für Zoom]](/assets/2011/08/shapeways_zoom_003.jpg)
 
 Materialien von links nach rechts (ab dem dunklen S-förmigen Gebilde):

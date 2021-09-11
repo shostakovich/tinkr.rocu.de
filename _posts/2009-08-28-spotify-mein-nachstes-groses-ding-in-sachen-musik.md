@@ -32,7 +32,7 @@ Toll daran ist auch, dass Spotify die Rechte der Künstler respektiert und brav 
 
 Die Grundversion von Spotify ist kostenlos aber dafür nur im Vereinigten Königreich zugänglich.
 
-[<img loading="lazy" class="alignnone size-full wp-image-1067" title="spotify" src="/assets/2009/08/spotify.png" alt="spotify" width="606" height="414" />](/assets/2009/08/spotify.png)
+[<img loading="lazy"  title="spotify" src="/assets/2009/08/spotify.png" alt="spotify"   />](/assets/2009/08/spotify.png)
 
 ### Die Software
 

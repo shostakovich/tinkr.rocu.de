@@ -21,7 +21,7 @@ tags:
   - Raketenbike
   - Raketenfahrrad
 ---
-<embed src="http://blip.tv/play/gZIv5pJ25wQ" type="application/x-shockwave-flash" width="600" height="338" allowscriptaccess="always" allowfullscreen="true">
+<embed src="http://blip.tv/play/gZIv5pJ25wQ" type="application/x-shockwave-flash"   allowscriptaccess="always" allowfullscreen="true">
 </embed>
 
 

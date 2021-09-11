@@ -21,7 +21,7 @@ tags:
 ---
 Gestern haben wir eine Grayscale Heightmap aus unserem 3D-Scanner erhalten. Ich fragte mich nun, wie ich daraus möglichst einfach eine 3D-Visualisierung erhalten kann. Ich hatte alles mögliche abgeklappert, Blender, Povray, OpenGL, aber alles war eher kompliziert als einfach, gerade, wenn man die Tools nur alle paar Jahre verwendet.
 
-[<img src="/assets/2010/04/5_bidir_high_haus_spiegel.bmp" alt="" title="heigthmap gespiegelt" class="alignnone size-full wp-image-1587" />](/assets/2010/04/5_bidir_high_haus_spiegel.bmp)
+[<img src="/assets/2010/04/5_bidir_high_haus_spiegel.bmp" alt="" title="heigthmap gespiegelt"  />](/assets/2010/04/5_bidir_high_haus_spiegel.bmp)
 
 Heute kam ich dann auf die Idee es mal mit Matlab zu versuchen und mit einem kleinen Stolperstein hat es dann auch wunderbar geklappt.
 Wer es selber probieren möchte, kopiert die 3D-Scan-Heightmap in sein Matlab-Verzeichnis und verwendet diesen Code:
@@ -32,6 +32,6 @@ P=double(P);<br />
 mesh(P)<br />
 `
 
-<img loading="lazy" src="/assets/2010/04/3dscan_matlab2.png" alt="" title="3D Visualisierung der Heightmap - 1" width="606" height="520" class="alignnone size-full wp-image-1585" srcset="/assets/2010/04/3dscan_matlab2.png 606w, /assets/2010/04/3dscan_matlab2-300x257.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/04/3dscan_matlab2.png" alt="" title="3D Visualisierung der Heightmap - 1"    srcset="/assets/2010/04/3dscan_matlab2.png 606w, /assets/2010/04/3dscan_matlab2-300x257.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
-<img loading="lazy" src="/assets/2010/04/3dscan_matlab.png" alt="" title="3D Visualisierung der Heightmap - 2" width="606" height="520" class="alignnone size-full wp-image-1586" srcset="/assets/2010/04/3dscan_matlab.png 606w, /assets/2010/04/3dscan_matlab-300x257.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/04/3dscan_matlab.png" alt="" title="3D Visualisierung der Heightmap - 2"    srcset="/assets/2010/04/3dscan_matlab.png 606w, /assets/2010/04/3dscan_matlab-300x257.png 300w" sizes="(max-width: 606px) 100vw, 606px" />

@@ -19,14 +19,14 @@ tags:
   - Strato
   - Strato HiDrive
 ---
-<img loading="lazy" src="/assets/2011/03/strato_hidrive_1.png" alt="" title="Strato HiDrive Angebot" width="606" height="499" class="alignnone size-full wp-image-2307" />
+<img loading="lazy" src="/assets/2011/03/strato_hidrive_1.png" alt="" title="Strato HiDrive Angebot"    />
 [Quelle: Strato.de]
 100GByte Onlinespeicher für ein Jahr für einen Euro? Das klingt doch interessant. Aber das so ein Lockangebot so seine Tücken hat, das stellt sich natürlich erst immer im Nachhinein raus.
 Mit der Kombination aus Win7 und Fritzbox ist das Ganze schon eine mittlere Foltertortur, bis es schließlich läuft. Zwar gibt es jede Menge Online-Hilfen und FAQs bei Strato, aber wie soll das denn Oma Hilde hinbekommen? Muss man erst studiert sein, damit es klappt? Anscheinend ja. Wir sehen gleich warum.
 
 ### 1. Schnellstart - oder doch Schneckenstart ?
 
-<img loading="lazy" src="/assets/2011/03/strato_hidrive.png" alt="" title="Strato HiDrive - Schnellstart" width="606" height="442" class="alignnone size-full wp-image-2306" />
+<img loading="lazy" src="/assets/2011/03/strato_hidrive.png" alt="" title="Strato HiDrive - Schnellstart"    />
 [Quelle: Strato.de]
 Wer wie ich Win7 und eine Fritzbox einsetzt, bei dem führt der &#8222;Schnellstart&#8220; eher in eine Sackgasse als zum HiDrive. [[Link]](http://www.strato-faq.de/pdf_anleitungen/STRATO_HiDrive_Schnellstart.pdf) Wir bekommen keine Verbindung zu stande. Auf den FAQ-Seiten finden wir den Hinweis, dass Fritzboxen böse sind (was das HiDrive angeht).
 

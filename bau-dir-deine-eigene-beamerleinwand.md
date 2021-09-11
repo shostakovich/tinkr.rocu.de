@@ -10,7 +10,7 @@ tc-thumb-fld:
 ---
 Eine eigene Beamerleinwand zu bauen ist viel preiswerter, als so ein Teil zu kaufen. Auf dieser Seite soll beschrieben werden, wie man eine Leinwand mit Holzrahmen bauen kann. Die Außenmaße betragen 180x110cm, also in ingenieursmäßiger Näherung 16:9 Format.
 
-<img loading="lazy" src="/assets/2009/06/leinwand_leinwand_an_606.jpg" alt="Leinwand" title="Leinwand" width="606" height="455" class="aligncenter size-full wp-image-663" srcset="/assets/2009/06/leinwand_leinwand_an_606.jpg 606w, /assets/2009/06/leinwand_leinwand_an_606-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/06/leinwand_leinwand_an_606.jpg" alt="Leinwand" title="Leinwand"    srcset="/assets/2009/06/leinwand_leinwand_an_606.jpg 606w, /assets/2009/06/leinwand_leinwand_an_606-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 ### Rahmen:
 
@@ -20,7 +20,7 @@ Für das Bespannen der Stoffe brauchen wir noch einen Tacker und Tackerklammern.
 
 ### Konstruktionszeichnung:
 
-[<img loading="lazy" src="/assets/2009/06/beamerleinwand_sktup_606.png" alt="Beamerleinwand Konstruktionszeichnung" title="Beamerleinwand Konstruktionszeichnung" width="606" height="347" class="alignleft size-full wp-image-838" srcset="/assets/2009/06/beamerleinwand_sktup_606.png 606w, /assets/2009/06/beamerleinwand_sktup_606-300x171.png 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2009/06/beamerleinwand_sktup.png)
+[<img loading="lazy" src="/assets/2009/06/beamerleinwand_sktup_606.png" alt="Beamerleinwand Konstruktionszeichnung" title="Beamerleinwand Konstruktionszeichnung"    srcset="/assets/2009/06/beamerleinwand_sktup_606.png 606w, /assets/2009/06/beamerleinwand_sktup_606-300x171.png 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2009/06/beamerleinwand_sktup.png)
 
 ### Obi-Liste:
 
@@ -33,7 +33,7 @@ Für das Bespannen der Stoffe brauchen wir noch einen Tacker und Tackerklammern.
 Kosten ohne Tacker/+Klammern/Schrauben: ~5€
 Kosten mit Tacker/+Klammern/Schrauben: ~30€
 
-[<img loading="lazy" src="/assets/2009/06/leinwand_rahmen-300x225.jpg" alt="Rahmen" title="Rahmen" width="300" height="225" class="aligncenter size-medium wp-image-664" srcset="/assets/2009/06/leinwand_rahmen-300x225.jpg 300w, /assets/2009/06/leinwand_rahmen.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2009/06/leinwand_rahmen.jpg)[<img loading="lazy" src="/assets/2009/06/leinwand_winkel-300x225.jpg" alt="Winkel" title="Winkel" width="300" height="225" class="aligncenter size-medium wp-image-665" srcset="/assets/2009/06/leinwand_winkel-300x225.jpg 300w, /assets/2009/06/leinwand_winkel.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2009/06/leinwand_winkel.jpg)
+[<img loading="lazy" src="/assets/2009/06/leinwand_rahmen-300x225.jpg" alt="Rahmen" title="Rahmen"    srcset="/assets/2009/06/leinwand_rahmen-300x225.jpg 300w, /assets/2009/06/leinwand_rahmen.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2009/06/leinwand_rahmen.jpg)[<img loading="lazy" src="/assets/2009/06/leinwand_winkel-300x225.jpg" alt="Winkel" title="Winkel"    srcset="/assets/2009/06/leinwand_winkel-300x225.jpg 300w, /assets/2009/06/leinwand_winkel.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2009/06/leinwand_winkel.jpg)
 
 Der Rahmen ist schnell aufgebaut, so der Obi-Biber alles richtig zugeschnitten hat.
 
@@ -65,7 +65,7 @@ Kosten:
 
   * ~4h
 
-[<img loading="lazy" src="/assets/2009/06/leinwand_bespannen-300x225.jpg" alt="Leinwand bespannen" title="Leinwand bespannen" width="300" height="225" class="aligncenter size-medium wp-image-666" srcset="/assets/2009/06/leinwand_bespannen-300x225.jpg 300w, /assets/2009/06/leinwand_bespannen.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2009/06/leinwand_bespannen.jpg)[<img loading="lazy" src="/assets/2009/06/leinwand_leinwand-300x225.jpg" alt="fertige Leinwand" title="fertige Leinwand" width="300" height="225" class="aligncenter size-medium wp-image-667" srcset="/assets/2009/06/leinwand_leinwand-300x225.jpg 300w, /assets/2009/06/leinwand_leinwand.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2009/06/leinwand_leinwand.jpg)
+[<img loading="lazy" src="/assets/2009/06/leinwand_bespannen-300x225.jpg" alt="Leinwand bespannen" title="Leinwand bespannen"    srcset="/assets/2009/06/leinwand_bespannen-300x225.jpg 300w, /assets/2009/06/leinwand_bespannen.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2009/06/leinwand_bespannen.jpg)[<img loading="lazy" src="/assets/2009/06/leinwand_leinwand-300x225.jpg" alt="fertige Leinwand" title="fertige Leinwand"    srcset="/assets/2009/06/leinwand_leinwand-300x225.jpg 300w, /assets/2009/06/leinwand_leinwand.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2009/06/leinwand_leinwand.jpg)
 
 ### Wandbefestigung:
 

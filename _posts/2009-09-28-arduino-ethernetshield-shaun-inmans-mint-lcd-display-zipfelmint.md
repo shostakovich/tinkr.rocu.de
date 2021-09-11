@@ -76,7 +76,7 @@ I might also decide to add a little nice WebInterface for the device.
 
 Like always I put the source code at the end. I hope that it explains itself. If not - please don&#8217;t hesitate to ask! You are free to use it and modify it under the terms and conditions of the Creative Commons License. And last but not least - please tell me if you have build something similar or derive something from my work!
 
-[cpp]
+```
 /*
 ZipfelMint - A little device that shows Vistor Statistics for the website
 
@@ -292,4 +292,4 @@ lcd.setCursor(0,1);
 lcd.print("tinkr.de");
 delay(2000);
 }
-[/cpp]
+```

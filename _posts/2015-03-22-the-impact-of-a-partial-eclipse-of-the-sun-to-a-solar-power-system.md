@@ -26,10 +26,10 @@ There were some headlines in online magazines saying, that there might be some i
 
 After the eclipse, I asked a friend if he could send me some data from his parents solar power system.
 
-<div id="attachment_3669" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3669" loading="lazy" class="size-full wp-image-3669" src="/assets/2015/03/solar_eclipse_power_time_150320.jpg" alt="power over time, during partial solar eclipse" width="606" height="467" />
+<div id="attachment_3669" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3669" loading="lazy"  src="/assets/2015/03/solar_eclipse_power_time_150320.jpg" alt="power over time, during partial solar eclipse"   />
 
-  <p id="caption-attachment-3669" class="wp-caption-text">
+  <p id="caption-attachment-3669" >
     power over time, during partial solar eclipse
   </p>
 </div>

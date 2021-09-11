@@ -20,7 +20,7 @@ tags:
 ---
 Heute gabs einiges zum Schmunzeln.
 Zum einen fand ich in dem Buch &#8222;Panoramic Vision, Springer, 2001&#8220; folgenden Eintrag:
-<img loading="lazy" src="/assets/2010/05/ebook_panoramic_vision.png" alt="" title="aus dem Buch Panoramic Vision, Springer, 2001" width="606" height="472" class="alignnone size-full wp-image-1659" srcset="/assets/2010/05/ebook_panoramic_vision.png 606w, /assets/2010/05/ebook_panoramic_vision-300x233.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/ebook_panoramic_vision.png" alt="" title="aus dem Buch Panoramic Vision, Springer, 2001"    srcset="/assets/2010/05/ebook_panoramic_vision.png 606w, /assets/2010/05/ebook_panoramic_vision-300x233.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 Quelle: Google Books und Springer Verlag
 
 und zum anderen konnte ich nach vier Minuten Winnebago Man einfach nicht mehr:

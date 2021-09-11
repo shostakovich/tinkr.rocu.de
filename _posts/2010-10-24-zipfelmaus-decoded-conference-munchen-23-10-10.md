@@ -32,39 +32,19 @@ Es war spannend in etwas ganz neues einzutauchen und mit neuen Ideen geradezu bo
 <div id='gallery-3' class='gallery galleryid-1965 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/009/'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/009.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/009/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/009.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/012/'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/012.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/012/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/012.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/013/'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/013.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <br style="clear: both" />
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/023/'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/023.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/028/'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/028.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/029/'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/029.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/013/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/013.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
@@ -72,19 +52,19 @@ Es war spannend in etwas ganz neues einzutauchen und mit neuen Ideen geradezu bo
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/031/'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/031.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/023/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/023.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/033/'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/033.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/028/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/028.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/035/'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/035.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/029/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/029.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
@@ -92,19 +72,39 @@ Es war spannend in etwas ganz neues einzutauchen und mit neuen Ideen geradezu bo
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/036/'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/036.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/031/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/031.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/038/'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/038.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/033/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/033.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/041_sml/'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/041_sml.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/035/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/035.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <br style="clear: both" />
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/036/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/036.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/attachment/038/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/038.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://tinkr.de/blog/zipfelmaus-decoded-conference-munchen-23-10-10/041_sml/'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2010/10/041_sml.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 

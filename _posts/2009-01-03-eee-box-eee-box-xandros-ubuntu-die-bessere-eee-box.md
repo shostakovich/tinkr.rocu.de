@@ -18,7 +18,7 @@ tags:
   - Ubuntu
   - Xandros
 ---
-<img loading="lazy" class="alignnone size-thumbnail wp-image-172" title="Ubuntu Logo" src="/assets/2009/01/19586-150x150.png" alt="Ubuntu Logo" width="150" height="150" />
+<img loading="lazy"  title="Ubuntu Logo" src="/assets/2009/01/19586-150x150.png" alt="Ubuntu Logo"   />
 
 Das von Asus vorinstallierte Betriebssytem Xandrox hatte so seine lieben Macken. Beim Updaten war es extrem resistent gegenüber meinen Anpassungswünschen. Der von Asus voreingestellte Update-Server war nicht zu erreichen. Alle weiteren Versuche das System an die Neuzeit anzupassen schlugen auch fehl.
 

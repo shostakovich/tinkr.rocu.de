@@ -22,7 +22,7 @@ Seit einigen Wochen habe ich sehnsüchtig auf Parallells Desktop 6 gewartet und 
 
 Der sympathische Hypervisor für virtuelle Maschinen ist jetzt komplett in 64 Bit und ist wieder ein ganzes Stück schneller geworden. Ich habe im Gegensatz zu Version 5, das erste mal nicht nach wenigen Minuten Windows 7 den Eindruck meinen Laptop aus dem Fenster schmeißen zu wollen.
 
-<img loading="lazy" src="/assets/2010/09/parallels_1.jpg" alt="" title="Coherence Modus" width="606" height="384" class="alignnone size-full wp-image-1847" />
+<img loading="lazy" src="/assets/2010/09/parallels_1.jpg" alt="" title="Coherence Modus"    />
 
 Der Coherence-Modus funktioniert das erste mal richtig &#8222;fluffig&#8220; und man kann die Fenster ohne ruckeln hin und her ziehen 🙂
 
@@ -30,6 +30,6 @@ Direkt nach dem Update hat Parallels sich aber beim starten von Windows 7 in ein
 
 Ausserdem gefreut hatte ich mich über das beworbene Kaspersky Anti-Virus für Mac und PC - davon sollte man sich aber nicht täuschen lasssen: Anstelle von Einjahresversionen laufen die Lizenzen jeweils nach 90 Tagen ab. Mau, wenn ihr mich fragt. Unter Windows würde ich daher gleich Microsoft Security Essentials statt Kaspersky installieren.
 
-<img loading="lazy" src="/assets/2010/09/parallels_utorrent.jpg" alt="" title="Utorrent in Parallells" width="606" height="437" class="alignnone size-full wp-image-1848" />
+<img loading="lazy" src="/assets/2010/09/parallels_utorrent.jpg" alt="" title="Utorrent in Parallells"    />
 
 Kann ich Parallells Desktop 6 unterm Strich weiterempfehlen? Ich denke ja. Trotz all der Kindermaken ist mein Traum das beste aus der Windows und der Mac-Welt Nutzen zu können endlich Wirklichkeit geworden.

@@ -20,22 +20,22 @@ tags:
 ---
 Den Arm-Roboter AL5D von Lynxmotion haben wir schon in der vergangenen Woche vorgestellt. Mit einem kleinen Upgrade durch einen Sharp-Entfernungsensor GP2D12, verwandeln wir den Roboter in einen 3D-Scanner. Viel programmieren müssen wir auch nicht, da die RIOS-Software des Arm-Roboters schon alles mitbringt.
 
-<img loading="lazy" src="/assets/2010/04/screeshot_rios_3dscan.png" alt="" title="Screeshot RIOS 3D-Scan Tool" width="606" height="481" class="alignnone size-full wp-image-1575" srcset="/assets/2010/04/screeshot_rios_3dscan.png 606w, /assets/2010/04/screeshot_rios_3dscan-300x238.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/04/screeshot_rios_3dscan.png" alt="" title="Screeshot RIOS 3D-Scan Tool"    srcset="/assets/2010/04/screeshot_rios_3dscan.png 606w, /assets/2010/04/screeshot_rios_3dscan-300x238.png 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Der Entfernungssensor wird an der Hand des Roboters fixiert, die drei Kabel (Vcc, GND und V_out) werden zum SSC32-Servocontroller-Board geführt und an den Stecker J3 angeschlossen (siehe Manual SSC32-Servocontroller).
 
-<img loading="lazy" src="/assets/2010/04/021.jpg" alt="" title="Sharp-Entfernungsensor GP2D12 auf Roboter-Arm-Hand montiert" width="606" height="404" class="alignnone size-full wp-image-1577" srcset="/assets/2010/04/021.jpg 606w, /assets/2010/04/021-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/04/021.jpg" alt="" title="Sharp-Entfernungsensor GP2D12 auf Roboter-Arm-Hand montiert"    srcset="/assets/2010/04/021.jpg 606w, /assets/2010/04/021-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Der Scan-Aufbau sieht so aus:
-[<img loading="lazy" src="/assets/2010/04/015.jpg" alt="" title="abgescanntes Haus-Modell" width="606" height="404" class="alignnone size-full wp-image-1576" srcset="/assets/2010/04/015.jpg 606w, /assets/2010/04/015-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2010/04/015.jpg)
+[<img loading="lazy" src="/assets/2010/04/015.jpg" alt="" title="abgescanntes Haus-Modell"    srcset="/assets/2010/04/015.jpg 606w, /assets/2010/04/015-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2010/04/015.jpg)
 
 Diese Scans zeigen das Haus in unterschiedlichen Auflösungsstufen:
 - low Resolution
-<img loading="lazy" src="/assets/2010/04/4_bidir_low_haus.jpg" alt="" title="3D-Scan, Haus, bidirektional, low Resolution" width="256" height="256" class="alignnone size-full wp-image-1570" srcset="/assets/2010/04/4_bidir_low_haus.jpg 256w, /assets/2010/04/4_bidir_low_haus-150x150.jpg 150w" sizes="(max-width: 256px) 100vw, 256px" />
+<img loading="lazy" src="/assets/2010/04/4_bidir_low_haus.jpg" alt="" title="3D-Scan, Haus, bidirektional, low Resolution"    srcset="/assets/2010/04/4_bidir_low_haus.jpg 256w, /assets/2010/04/4_bidir_low_haus-150x150.jpg 150w" sizes="(max-width: 256px) 100vw, 256px" />
 - medium Resolution
-<img loading="lazy" src="/assets/2010/04/3_bidir_norm_haus.jpg" alt="" title="3D-Scan, Haus, bidirektional, medium Resolution" width="256" height="256" class="alignnone size-full wp-image-1569" srcset="/assets/2010/04/3_bidir_norm_haus.jpg 256w, /assets/2010/04/3_bidir_norm_haus-150x150.jpg 150w" sizes="(max-width: 256px) 100vw, 256px" />
+<img loading="lazy" src="/assets/2010/04/3_bidir_norm_haus.jpg" alt="" title="3D-Scan, Haus, bidirektional, medium Resolution"    srcset="/assets/2010/04/3_bidir_norm_haus.jpg 256w, /assets/2010/04/3_bidir_norm_haus-150x150.jpg 150w" sizes="(max-width: 256px) 100vw, 256px" />
 - high Resolution
-<img loading="lazy" src="/assets/2010/04/5_bidir_high_haus.jpg" alt="" title="3D-Scan, Haus, bidirektional, high Resolution" width="256" height="256" class="alignnone size-full wp-image-1571" srcset="/assets/2010/04/5_bidir_high_haus.jpg 256w, /assets/2010/04/5_bidir_high_haus-150x150.jpg 150w" sizes="(max-width: 256px) 100vw, 256px" />
+<img loading="lazy" src="/assets/2010/04/5_bidir_high_haus.jpg" alt="" title="3D-Scan, Haus, bidirektional, high Resolution"    srcset="/assets/2010/04/5_bidir_high_haus.jpg 256w, /assets/2010/04/5_bidir_high_haus-150x150.jpg 150w" sizes="(max-width: 256px) 100vw, 256px" />
 Hierzu waren drei einzelne Scans notwendig, die Scanzeit ist proportional zur Auflösung, bei der kleinsten Auflösung dauert der Scan ca. 1,5min, bei der höchsten schon fast eine halbe Stunde.
 
 ### Literatur:

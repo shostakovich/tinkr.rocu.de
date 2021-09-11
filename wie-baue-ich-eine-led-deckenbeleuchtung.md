@@ -32,7 +32,7 @@ Insgesamt besteht der Korpus aus fünf Metallteilen:
 
 und einer milchigen Plexiglasplatte.
 
-<img loading="lazy" class="alignnone size-full wp-image-8" title="3D - CAD Simulation" src="/assets/2008/03/cad_3d_sml.png" alt="3D - CAD Simulation" width="600" height="391" />
+<img loading="lazy"  title="3D - CAD Simulation" src="/assets/2008/03/cad_3d_sml.png" alt="3D - CAD Simulation"   />
 
 Auf der Seite mm4u.com kann man mit wenigen Klicks und ohne besondere Vorkenntnisse des technischen Zeichnens einfache Winkelbleche nach den eigenen Bedürfnissen zusammenstellen. Hilfreich ist es hierbei sich vorher eine Skizze zuerstellen, aus der ersichtlich ist, an welcher Stelle Bohrungen und Durchbrüche vorgesehen sind. Nach Abschluss der Parametrierung des Winkelblechs, kann das Werkstück über ein Viewerprogramm in 3D auf eventuelle Fehler überprüft werden. Die bestellten Bleche treffen dann auch nach gut ein bis zwei Wochen beim Besteller ein.
 
@@ -75,5 +75,5 @@ Wer die Lampe von der Decke abhängen möchte, der sollte noch an Drahtseile und
 
   * >20h (mit Bestellungen, Konstruieren, Verdrahten, &#8230;)
 
-<img loading="lazy" class="alignnone size-full wp-image-10" title="LED Deckenlampe" src="/assets/2008/03/img_1506_prot.jpg" alt="LED Deckenlampe" width="600" height="400" />
-[<img loading="lazy" src="/assets/2008/03/LED_Deckenbeleuchtung-300x225.jpg" alt="LED_Deckenbeleuchtung" title="LED-Deckenbeleuchtung" width="300" height="225" class="aligncenter size-medium wp-image-888" srcset="/assets/2008/03/LED_Deckenbeleuchtung-300x225.jpg 300w, /assets/2008/03/LED_Deckenbeleuchtung-1024x768.jpg 1024w, /assets/2008/03/LED_Deckenbeleuchtung.JPG 1240w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2008/03/LED_Deckenbeleuchtung.JPG)[<img loading="lazy" src="/assets/2008/03/LED_Deckenbeleuchtung_hinten-300x225.jpg" alt="LED-Deckenbeleuchtung hinten" title="LED_Deckenbeleuchtung_hinten" width="300" height="225" class="aligncenter size-medium wp-image-889" srcset="/assets/2008/03/LED_Deckenbeleuchtung_hinten-300x225.jpg 300w, /assets/2008/03/LED_Deckenbeleuchtung_hinten-1024x768.jpg 1024w, /assets/2008/03/LED_Deckenbeleuchtung_hinten.JPG 1240w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2008/03/LED_Deckenbeleuchtung_hinten.JPG)
+<img loading="lazy"  title="LED Deckenlampe" src="/assets/2008/03/img_1506_prot.jpg" alt="LED Deckenlampe"   />
+[<img loading="lazy" src="/assets/2008/03/LED_Deckenbeleuchtung-300x225.jpg" alt="LED_Deckenbeleuchtung" title="LED-Deckenbeleuchtung"    srcset="/assets/2008/03/LED_Deckenbeleuchtung-300x225.jpg 300w, /assets/2008/03/LED_Deckenbeleuchtung-1024x768.jpg 1024w, /assets/2008/03/LED_Deckenbeleuchtung.JPG 1240w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2008/03/LED_Deckenbeleuchtung.JPG)[<img loading="lazy" src="/assets/2008/03/LED_Deckenbeleuchtung_hinten-300x225.jpg" alt="LED-Deckenbeleuchtung hinten" title="LED_Deckenbeleuchtung_hinten"    srcset="/assets/2008/03/LED_Deckenbeleuchtung_hinten-300x225.jpg 300w, /assets/2008/03/LED_Deckenbeleuchtung_hinten-1024x768.jpg 1024w, /assets/2008/03/LED_Deckenbeleuchtung_hinten.JPG 1240w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/2008/03/LED_Deckenbeleuchtung_hinten.JPG)

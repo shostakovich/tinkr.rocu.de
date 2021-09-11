@@ -24,20 +24,20 @@ tags:
 Two spring mountings of my couch were broken. So it was time for a repair. Here is what I did:
 
 First I put my couch up side down.
-<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_0.jpg" alt="" title="broken mountings" width="606" height="455" class="alignnone size-full wp-image-2958" />
+<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_0.jpg" alt="" title="broken mountings"    />
 
 I designed a new 3D part at tinkercad.com.
 
 (You can view, modify, download and print the 3d design.)
 
 Next I printed the part on my Printrbot:
-<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_1.jpg" alt="" title="finished 3d print" width="606" height="455" />
+<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_1.jpg" alt="" title="finished 3d print"   />
 
 Here is the comparison of the CAD model and the printed part:
-<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_2.jpg" alt="" title="comparison of the cad model and the printed part" width="606" height="615" />
+<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_2.jpg" alt="" title="comparison of the cad model and the printed part"   />
 
 The new mountings were fixed with a metal band:
-<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_3.jpg" alt="" title="repaired couch" width="606" height="455" />
+<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_3.jpg" alt="" title="repaired couch"   />
 
 Like new:
-<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_4.jpg" alt="" title="like new" width="606" height="455" />
+<img loading="lazy" src="/assets/2012/08/ikea_spring_mount_3d_printed_4.jpg" alt="" title="like new"   />

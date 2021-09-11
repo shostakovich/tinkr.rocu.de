@@ -39,13 +39,13 @@ Was haben wir uns alles angeschaut?:
 In einer Bus-Tagestour haben wir uns einige der berühmtesten Natursehenswürdigkeiten in der nähreren Umgebung der Hauptstadt angesehen - es standen zwei große Wasserfälle, ein Geysirgebiet und ein Graben zwischen den Kontinentalplatten auf dem Programm.
 
 Erste Station - Pingvellir
-[<img loading="lazy" src="/assets/2010/11/stitch_Pingvellir_606.jpg" alt="" title="/assets/2010/11/stitch_Pingvellir_1800.jpg" width="606" height="99" class="aligncenter size-full wp-image-2017" />](/assets/2010/11/stitch_Pingvellir_1800.jpg)
+[<img loading="lazy" src="/assets/2010/11/stitch_Pingvellir_606.jpg" alt="" title="/assets/2010/11/stitch_Pingvellir_1800.jpg"    />](/assets/2010/11/stitch_Pingvellir_1800.jpg)
 
 Zweite Station - Gullfoss
-<img loading="lazy" src="/assets/2010/11/gullfoss_606.jpg" alt="" title="Gullfoss" width="606" height="325" class="aligncenter size-full wp-image-2014" />
+<img loading="lazy" src="/assets/2010/11/gullfoss_606.jpg" alt="" title="Gullfoss"    />
 
 Dritte Station - Geysir-Feld
-<img loading="lazy" src="/assets/2010/11/geysir_strokkur_606.jpg" alt="" title="Geysir Strokkur" width="606" height="455" class="aligncenter size-full wp-image-2021" />
+<img loading="lazy" src="/assets/2010/11/geysir_strokkur_606.jpg" alt="" title="Geysir Strokkur"    />
 
 ### 2. Tag nach Ankunft:
 
@@ -53,9 +53,9 @@ Dritte Station - Geysir-Feld
 
 Begonnen haben wir unseren Streifzug durch die Hauptstadt am Perlan. Hier haben wir die Aussichtsplattform besichtigt.
 Man hat von dort aus einen tollen Überblick über Reykjavik. Dann ging es weiter zur imposanten Hallgrímskirkja Kirche. Wir hatten Gelegenheit einer kleinen Orgelprobe beizuwohnen. An die Kirche schließt sich direkt die Innenstadt an. Die üblichen Verdächtigen wie H&M, Starbucks sind hier nicht zu finden. Leider haben wir trotzdem keinen tollen Nerdstore gefunden und sind ohne die Visa zu zücken Richtung Tjörnin See weiterspaziert, an dem sich die Isländische National Gallerie befindet.
-<img loading="lazy" src="/assets/2010/11/perlan_606.jpg" alt="" title="Kuppel Perlan" width="606" height="257" class="aligncenter size-full wp-image-2016" />
-[<img loading="lazy" src="/assets/2010/11/blick_perlan_606.jpg" alt="" title="Blick vom Perlan auf Innenstadt Reykjavik" width="606" height="133" class="aligncenter size-full wp-image-2010" />](/assets/2010/11/blick_perlan_1800.jpg)
-<img loading="lazy" src="/assets/2010/11/hallgrímskirkja_606.jpg" alt="" title="Hallgrímskirkja - Reykjavik" width="606" height="529" class="aligncenter size-full wp-image-2015" />
+<img loading="lazy" src="/assets/2010/11/perlan_606.jpg" alt="" title="Kuppel Perlan"    />
+[<img loading="lazy" src="/assets/2010/11/blick_perlan_606.jpg" alt="" title="Blick vom Perlan auf Innenstadt Reykjavik"    />](/assets/2010/11/blick_perlan_1800.jpg)
+<img loading="lazy" src="/assets/2010/11/hallgrímskirkja_606.jpg" alt="" title="Hallgrímskirkja - Reykjavik"    />
 
 ### 3. Tag nach Ankunft:
 
@@ -65,7 +65,7 @@ Mit dem Mietwagen haben wir heute eine Tagestour auf der Halbinsel Reykjanes unt
 
 Unterwegs gab es mehrere Stopps, als interessante Punkte seien hier genannt: Brücke zwischen den Kontinenten, das Geothermalkraftwerk und der Leuchtturm. In der Nähe des Leuchtturms soll es weitere heiße Quellen geben, leider haben wir diese mangels ausreichender Ausschilderung nicht gefunden.
 
-[<img loading="lazy" src="/assets/2010/11/bruecke_zw_kontinenten_606.jpg" alt="" title="Brücke zwischen den Kontinenten, Reykjanes" width="606" height="141" class="aligncenter size-full wp-image-2012" />](/assets/2010/11/bruecke_zw_kontinenten_1800.jpg)
+[<img loading="lazy" src="/assets/2010/11/bruecke_zw_kontinenten_606.jpg" alt="" title="Brücke zwischen den Kontinenten, Reykjanes"    />](/assets/2010/11/bruecke_zw_kontinenten_1800.jpg)
 
 ### 4. Tag nach Ankunft:
 
@@ -73,7 +73,7 @@ Unterwegs gab es mehrere Stopps, als interessante Punkte seien hier genannt: Br�
 
 Diesen Tag haben wir wieder in Reykjavik verbracht und haben uns zum Aufwärmen ersteinmal das Smaralind Einkaufszentrum angeschaut. Allerdings wird man hier eher überteuerte Marken finden, die es auch in der Heimat gibt (wie Zara, Benetton und Ecco). Interessant war allerdings, dass das Einkaufszentrum seine eigene Schnellstraßenabfahrt hatte.
 
-<img loading="lazy" src="/assets/2010/11/botanischer_garten_606.jpg" alt="" title="Botanischer Garten - Reykjavik" width="606" height="455" class="aligncenter size-full wp-image-2024" />
+<img loading="lazy" src="/assets/2010/11/botanischer_garten_606.jpg" alt="" title="Botanischer Garten - Reykjavik"    />
 Im Erholungsgebiet Laugardalslaug haben wir uns den Botanischen Garten (Eintritt kostenlos) angeschaut, der allerdings der Winterzeit etwas trostlos wirkt - sicherlich ist das aber während der Sommermonate anders.
 
 Im gleichen Areal befindet sich auch ein Schwimmbad. Hier befinden sich neben einer Außenschwimmbahn auch mehrere Hot-Potts zum Entspannen und eine Rutsche für die Wilden unter uns. Eine Innenbahn gibt es auch. Viel interessanter ist es jedoch, draußen im warmen Wasser seine Bahnen zu ziehen, während einem der eiskalte Wind um die Ohren weht.
@@ -133,7 +133,7 @@ zu Fuss vom Hotel Vik innerhalb weniger Minuten zu erreichen
 ### Eine Auswahl Isländischer Spezialitäten
 
 in einem Reiseführer wurden folgende Spezialitäten aufgeführt, diese haben wir entsprechend getestet:
-<img loading="lazy" src="/assets/2010/11/essen_trinken_606.jpg" alt="" title="Maltextrakt und Plunderteilchen" width="606" height="455" class="aligncenter size-full wp-image-2020" />
+<img loading="lazy" src="/assets/2010/11/essen_trinken_606.jpg" alt="" title="Maltextrakt und Plunderteilchen"    />
 
   * Maltextrakt: sehr lecker, wie Guiness nur ohne Alkohol
   * Hot Dog: immer lecker für zwischen durch, wenn man nicht auf die Linie achten muss
@@ -146,9 +146,9 @@ Die anderen Spezialitäten, wie Schafskopf und -Hoden, haben wir uns fürs näch
 
 ### Hotel Vik
 
-<img loading="lazy" src="/assets/2010/11/hotel_vik_606.jpg" alt="" title="Hotel Vik - Reykjavik" width="606" height="455" class="aligncenter size-full wp-image-2025" />
+<img loading="lazy" src="/assets/2010/11/hotel_vik_606.jpg" alt="" title="Hotel Vik - Reykjavik"    />
 
-<img loading="lazy" src="/assets/2010/11/hotel_vik_zimmer_606.jpg" alt="" title="Hotel Vik Zimmer - Reykjavik" width="606" height="455" class="aligncenter size-full wp-image-2027" />
+<img loading="lazy" src="/assets/2010/11/hotel_vik_zimmer_606.jpg" alt="" title="Hotel Vik Zimmer - Reykjavik"    />
 
 Über hotel.de haben wir ein sehr günstiges Angebot (ca. 220€) für eine Woche DZ inkl. Frühstück für das Hotel Vik erhalten. Es ist in einem kleinen Gewerbegebiet im Osten der Stadt gelegen.
 Die Meinungen im Internet über dieses Hotel gehen weit auseinander. Die einen meinen es wäre total doof gelegen und daher per se schlecht. Die anderen hatten sich vorher gut informiert und fanden es dufte. Diesem Standpunkt möchten wir uns auch anschließen. Die Zimmer sind ansprechend und wertig eingerichtet und es gibt kostenloses WLAN. Das Frühstücksbuffet ist allerdings übersichtlich gestaltet und man muss auf Luxus wie Brötchen oder Croissants verzichten. Dafür gibt es aber Toast mit verschiedenen Marmeladen und dazu einen Kakao, Kaffee oder Saft. Auch sehr zu empfehlen sind die kleinen Fischhäppchen, falls man so etwas morgens runterbekommt.

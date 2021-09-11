@@ -22,7 +22,7 @@ tags:
 ---
 Currently I don&#8217;t find the time to blog regularly. Instead I will publish some links once in a while.
 
-<img loading="lazy" src="/assets/2012/01/6696698049_d1bc4770af_z.jpg" alt="6696698049 d1bc4770af z" title="6696698049_d1bc4770af_z.jpg" border="0" width="606" height="404" />
+<img loading="lazy" src="/assets/2012/01/6696698049_d1bc4770af_z.jpg" alt="6696698049 d1bc4770af z" title="6696698049_d1bc4770af_z.jpg" border="0"   />
 
 Bildnachweis: &#8222;Learning Dream&#8220; von twenty_questions. [(CC BY-NC 2.0)](http://creativecommons.org/licenses/by-nc/2.0/)
 

@@ -19,7 +19,7 @@ tags:
 ---
 Seit heute gibt es eine neue Stern am Himmel der MMORPG-Welt. Phantom hat während der letzten Wochen unermüdlich an der Webseite programmiert und auch wenn noch ein weiter Weg vor <a href="http://www.damagedealer.de/" target="_blank">Damagedealer</a> liegt, war ich trotzdem bereits nach dem ersten Mal, als er mir von dem Konzept erzählte, sicher, dass das ganze klappen könnte.
 
-<img loading="lazy" src="/assets/2009/04/damagedealer01.png" width="716" height="544" alt="damagedealer01.png" />
+<img loading="lazy" src="/assets/2009/04/damagedealer01.png"   alt="damagedealer01.png" />
 
 Worum geht es also bei Damagedealer.com? Einerseits ist die Seite eine Videoplattform, die Videos in einer wirklich exzellenten Qualität anbietet. Zur Zeit befinden sich eine ganze Stange von Eve-Online Videos auf Damagedealer, die von der Vorgängerseite EveTube-Online stammen. Auf der anderern Seite soll Damagedealer aber auch eine Art Facebook für Onlinerollenspieler sein.
 
@@ -27,7 +27,7 @@ Von seiner Grundidee ist das eine Anwendung, von der ich bisher nicht wusste, da
 
 Das Ganze wird natürlich nur funktionieren, wenn Damagedealer eine gewisse kritische Masse an Usern überschritten hat - da wir so gut wie keine Informationen von euch für die Anmeldung verlangen (weil wir sie für unser Konzept ja auch gar nicht benötigen), könnt ihr euch einfach anmelden, eure alten/aktuellen Charaktere eintragen und abwarten was passiert - E-Mail Junk habt ihr nicht zu erwarten.
 
-<img loading="lazy" src="/assets/2009/04/damagedealer02.png" width="716" height="527" alt="damagedealer02.png" />
+<img loading="lazy" src="/assets/2009/04/damagedealer02.png"   alt="damagedealer02.png" />
 
 Neben Videos und den sozialen Funktionen haben wir noch Foren, einen Bilderservice, Spieleportale und einen Twitter-Abklatsch nahmens Smash The Bird eingebaut - wir hoffen es gefällt 🙂
 

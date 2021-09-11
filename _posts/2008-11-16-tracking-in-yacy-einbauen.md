@@ -23,10 +23,10 @@ Vor einigen Tagen hatte ich bereits über YaCy berichtet. Ganz vergessen dabei h
 
 So liefert YaCy einen echten eigenen kleinen Caching-Proxy, der bei richtiger Konfiguration das gesamte kleine Netzwerk zu Hause mit seinen Diensten versorgen kann, ausserdem kann YaCy als kleiner kollektiver Bookmarkmanager verwendet werden, bietet ein Blog und ein kleines Wiki, sowie ein Verzeichnis in das statische Dateien über den YaCy-Webserver verteilt werden können.
 
-<div style="width: 510px" class="wp-caption alignnone">
-  <a href="http://www.flickr.com/photos/supeermario/"><img loading="lazy" title="Suchmaschine" src="http://farm4.static.flickr.com/3289/2737412505_3abbda8f75.jpg" alt="Suchmaschine von Supeermario (Flickr)" width="500" height="313" /></a>
+<div style="width: 510px" >
+  <a href="http://www.flickr.com/photos/supeermario/"><img loading="lazy" title="Suchmaschine" src="http://farm4.static.flickr.com/3289/2737412505_3abbda8f75.jpg" alt="Suchmaschine von Supeermario (Flickr)"   /></a>
 
-  <p class="wp-caption-text">
+  <p >
     Suchmaschine von Supeermario (Flickr)
   </p>
 </div>

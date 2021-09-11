@@ -22,4 +22,4 @@ Eine neue Seite wurde heute auf Zipfelmaus zum Leben erweckt. Auf <http://tinkr.
 
 Ja, dann gings ja noch um den Gepard. Aber nicht um son Schmusekätzchen, sondern den aus hartem deutschen Kruppstahl oder was die da verwenden. Gut meiner ist nur aus Plaste, aber immerhin. Kann ich ja nix für, dass der Herr Tamiya grad keinen Kruppstahl zur Hand hatte. Bei dem herbstlichen Wetter ist man eh lieber daheim, da kann Panzer-Basteln bei molligwarmen Temperaturen im trautem Heim net schaden.
 
-[<img loading="lazy" src="/assets/2008/09/gepard-300x277.jpg" alt="" title="Gepard Flakpanzer" width="300" height="277" class="alignnone size-medium wp-image-146" />](/assets/2008/09/gepard.jpg)
+[<img loading="lazy" src="/assets/2008/09/gepard-300x277.jpg" alt="" title="Gepard Flakpanzer"    />](/assets/2008/09/gepard.jpg)

@@ -27,10 +27,10 @@ The Twizy is a tiny car and is fully electric powered. Instead of refueling it a
 
 ### Here are our impressions
 
-<div id="attachment_3610" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3610" loading="lazy" src="/assets/2014/08/renault_twizy_01.jpg" alt="Renault Twizy @Panorama Hotel Oberhof" width="606" height="455" class="size-full wp-image-3610" srcset="/assets/2014/08/renault_twizy_01.jpg 606w, /assets/2014/08/renault_twizy_01-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3610" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3610" loading="lazy" src="/assets/2014/08/renault_twizy_01.jpg" alt="Renault Twizy @Panorama Hotel Oberhof"    srcset="/assets/2014/08/renault_twizy_01.jpg 606w, /assets/2014/08/renault_twizy_01-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3610" class="wp-caption-text">
+  <p id="caption-attachment-3610" >
     Renault Twizy @Panorama Hotel Oberhof
   </p>
 </div>
@@ -45,10 +45,10 @@ At the Schmücke we hiked to the nearby peak called „Schneekopf“, the sight 
 
 On the way back I tried to find out what the top speed of the Twizy was. The display showed 79km/h.
 
-<div id="attachment_3611" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3611" loading="lazy" src="/assets/2014/08/renault_twizy_02.jpg" alt="Renault Twizy @Schmücke" width="606" height="455" class="size-full wp-image-3611" srcset="/assets/2014/08/renault_twizy_02.jpg 606w, /assets/2014/08/renault_twizy_02-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3611" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3611" loading="lazy" src="/assets/2014/08/renault_twizy_02.jpg" alt="Renault Twizy @Schmücke"    srcset="/assets/2014/08/renault_twizy_02.jpg 606w, /assets/2014/08/renault_twizy_02-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3611" class="wp-caption-text">
+  <p id="caption-attachment-3611" >
     Renault Twizy @Schmücke
   </p>
 </div>

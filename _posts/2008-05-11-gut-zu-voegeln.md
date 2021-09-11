@@ -23,7 +23,7 @@ Die Zipfelmaus macht bei dieser Aktion natürlich auch mit.
 &#8230;
 Heute Morgen (12.05.08) konnte ich einige Piepmätze in meinem Garten ausmachen. Drei Grünfinken, ein Buchfink und eine Amsel waren innerhalb einer Stunde zu Besuch. Leider waren die Tierchen recht scheu und blieben meist in den Büschen und Hecken versteck. In die Sonne zum Fotografiert werden, wollten sie nicht. Darum gibts nur das schnöde Online-Formular des Nabu als Bild für diesen Beitrag.
 
-[<img loading="lazy" src="/assets/2008/05/vogel_2008-300x251.png" alt="Die Stunde der Vögel, Online-Eingabeformular" title="vogel_2008" width="300" height="251" class="alignnone size-medium wp-image-42" />](/assets/2008/05/vogel_2008.png)
+[<img loading="lazy" src="/assets/2008/05/vogel_2008-300x251.png" alt="Die Stunde der Vögel, Online-Eingabeformular" title="vogel_2008"    />](/assets/2008/05/vogel_2008.png)
 
 Copyright NABU.
 

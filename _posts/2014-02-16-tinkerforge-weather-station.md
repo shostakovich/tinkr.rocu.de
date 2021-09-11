@@ -22,18 +22,18 @@ I won the TinkerForge Weather Station at the Infineon 2013 online Christmas give
 
 It took a little while for the Infineon reindeer to deliver it, but here it is 🙂
 
-<div id="attachment_3504" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3504" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_02.jpg" alt="Best wishes from Infineon" width="606" height="455" class="size-full wp-image-3504" srcset="/assets/2014/02/tinkerforge_weatherstation_02.jpg 606w, /assets/2014/02/tinkerforge_weatherstation_02-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3504" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3504" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_02.jpg" alt="Best wishes from Infineon"    srcset="/assets/2014/02/tinkerforge_weatherstation_02.jpg 606w, /assets/2014/02/tinkerforge_weatherstation_02-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3504" class="wp-caption-text">
+  <p id="caption-attachment-3504" >
     Best wishes from Infineon
   </p>
 </div>
 
-<div id="attachment_3503" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3503" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_01.jpg" alt="Tinkerforge Weather Station" width="606" height="455" class="size-full wp-image-3503" srcset="/assets/2014/02/tinkerforge_weatherstation_01.jpg 606w, /assets/2014/02/tinkerforge_weatherstation_01-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3503" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3503" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_01.jpg" alt="Tinkerforge Weather Station"    srcset="/assets/2014/02/tinkerforge_weatherstation_01.jpg 606w, /assets/2014/02/tinkerforge_weatherstation_01-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3503" class="wp-caption-text">
+  <p id="caption-attachment-3503" >
     Tinkerforge Weather Station
   </p>
 </div>
@@ -49,44 +49,44 @@ I find the toolchain not very self-explanatory. There are &#8222;Bricks&#8220; a
 When I started the Brick Viewer, all was empty I rebooted my PC and oh wonder, that helped:
 
 
-<div id="attachment_3505" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3505" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_03.jpg" alt="Brick Viewer - Setup" width="606" height="437" class="size-full wp-image-3505" />
+<div id="attachment_3505" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3505" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_03.jpg" alt="Brick Viewer - Setup"    />
 
-  <p id="caption-attachment-3505" class="wp-caption-text">
+  <p id="caption-attachment-3505" >
     Brick Viewer - Setup
   </p>
 </div>
 
 You can choose between different tabs — one for each Bricklet module:
 
-<div id="attachment_3506" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3506" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_04.jpg" alt="Brick Viewer - Ambient Light Bricklet View" width="606" height="437" class="size-full wp-image-3506" />
+<div id="attachment_3506" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3506" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_04.jpg" alt="Brick Viewer - Ambient Light Bricklet View"    />
 
-  <p id="caption-attachment-3506" class="wp-caption-text">
+  <p id="caption-attachment-3506" >
     Brick Viewer - Ambient Light Bricklet View
   </p>
 </div>
 
-<div id="attachment_3507" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3507" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_05.jpg" alt="Brick Viewer - LCD Bricklet View" width="606" height="437" class="size-full wp-image-3507" />
+<div id="attachment_3507" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3507" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_05.jpg" alt="Brick Viewer - LCD Bricklet View"    />
 
-  <p id="caption-attachment-3507" class="wp-caption-text">
+  <p id="caption-attachment-3507" >
     Brick Viewer - LCD Bricklet View
   </p>
 </div>
 
-<div id="attachment_3508" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3508" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_06.jpg" alt="Brick Viewer - Pressure Bricklet View" width="606" height="437" class="size-full wp-image-3508" />
+<div id="attachment_3508" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3508" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_06.jpg" alt="Brick Viewer - Pressure Bricklet View"    />
 
-  <p id="caption-attachment-3508" class="wp-caption-text">
+  <p id="caption-attachment-3508" >
     Brick Viewer - Pressure Bricklet View
   </p>
 </div>
 
-<div id="attachment_3509" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3509" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_07.jpg" alt="Brick Viewer - Humidity Bricklet View" width="606" height="437" class="size-full wp-image-3509" />
+<div id="attachment_3509" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3509" loading="lazy" src="/assets/2014/02/tinkerforge_weatherstation_07.jpg" alt="Brick Viewer - Humidity Bricklet View"    />
 
-  <p id="caption-attachment-3509" class="wp-caption-text">
+  <p id="caption-attachment-3509" >
     Brick Viewer - Humidity Bricklet View
   </p>
 </div>

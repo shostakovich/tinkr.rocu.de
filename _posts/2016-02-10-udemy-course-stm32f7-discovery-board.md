@@ -18,7 +18,7 @@ categories:
 ---
 This week I attended an Udemy course by ST Micro about the STM32F7 Discovery Board. It was a great, interactive experience since ST also send me the STM32F7 Discovery Board to try all the hands-on labs for myself.
 
-<img loading="lazy" class="size-full wp-image-4153" src="/assets/2016/02/udemy.jpg" alt="Udemy course site" width="606" height="309" />
+<img loading="lazy"  src="/assets/2016/02/udemy.jpg" alt="Udemy course site"   />
 
 Udemy course site
 
@@ -26,7 +26,7 @@ Udemy course site
 
 This MOOC course was the first of its kind and trough the interactive hands-on labs it was able to transport much more information than a one hour webinar.
 
-<img loading="lazy" class="size-full wp-image-4150" src="/assets/2016/02/ewarm.jpg" alt="IAR Embedded Workbench" width="606" height="492" />
+<img loading="lazy"  src="/assets/2016/02/ewarm.jpg" alt="IAR Embedded Workbench"   />
 
 IAR Embedded Workbench
 
@@ -36,10 +36,10 @@ The Udemy course explained many of the STM32F7 capabilities. The DSP functiona
 
 &nbsp;
 
-<div id="attachment_4151" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-4151" loading="lazy" class="size-full wp-image-4151" src="/assets/2016/02/stm32f7discovery.jpg" alt="stm32f7discovery board" width="606" height="341" />
+<div id="attachment_4151" style="width: 616px" >
+  <img aria-describedby="caption-attachment-4151" loading="lazy"  src="/assets/2016/02/stm32f7discovery.jpg" alt="stm32f7discovery board"   />
 
-  <p id="caption-attachment-4151" class="wp-caption-text">
+  <p id="caption-attachment-4151" >
     stm32f7discovery board
   </p>
 </div>

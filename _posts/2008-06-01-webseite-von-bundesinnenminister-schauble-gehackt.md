@@ -20,7 +20,7 @@ tags:
 ---
 Heute wurde die Webseite von Bundesinnenminister Schäuble gehackt und eine gewisse Schadenfreude konnte ich mir nicht verkneifen. Meiner Meinung nach ein weiteres Beispiel dafür, dass es eben nicht ausreicht sich auf die Meinung und Expertise vermeintlicher Experten zu verlassen, wenn man selber technisch dermaßen unversiert ist wie der Herr Innenmister. Vielleicht hätte er lieber den bereits vor Tagen bekannt gewordenen Sicherheitslücken seiner uralten Typo 3 Installation Aufmerksamkeit geschenkt und seinem Webmaster mal gehörig die Ohren langezogen.
 
-<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/sonstiges/schaeuble.png" alt="Screenshot von der gehakten Website des Bundesinnenministers Schäuble" width="434" height="534" />
+<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/sonstiges/schaeuble.png" alt="Screenshot von der gehakten Website des Bundesinnenministers Schäuble"   />
 
 Ich bin gespannt ob und wie Herr Schäuble sich zu diesem Vorfal äußert. Vielleicht wird er einfach anmerken, wie groß die Gefahr durch den internationalen Terrorismus im Internet sei.
 Und Vielleicht - vielleicht glaubt ihm das die Mehrheit der Bevölkerung sogar.

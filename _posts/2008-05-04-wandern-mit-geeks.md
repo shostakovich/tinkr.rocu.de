@@ -23,7 +23,7 @@ Dieses Wochenende war es wieder einmal soweit, die Großstädter Robbe und Zipfe
 Das Garmin-Gerät hat leider nur den ungefähren Weg aufgezeichnet, die anfänglichen Serpentinen des Weges wurden doch nur sehr linearisiert von ihm wahrgenommen. Auch wieß es hin und wieder R2D2-mäßig darauf hin, dass der GPS-Empfang gerade nicht so dufte sei.
 So zeigt sich, dass der Garmin Forerunner 301 wohl eher auf die Laufstecke gehört und sich nicht als Wanderassistent missbrauchen lassen will.
 
-[<img loading="lazy" src="/assets/2008/05/wanderung_080503-300x179.png" alt="Streckenverlauf" title="wanderung_080503" width="300" height="179" class="alignnone size-medium wp-image-39" />](/assets/2008/05/wanderung_080503.png)
+[<img loading="lazy" src="/assets/2008/05/wanderung_080503-300x179.png" alt="Streckenverlauf" title="wanderung_080503"    />](/assets/2008/05/wanderung_080503.png)
 
 Aber zurück zum eigentlichen Ausflug: Die landschaftlich sehr reizvolle Strecke von Tegernsee nach Schliersee, dauert ungefähr 4-6h bei einer Länge von 12km. Die von uns gewählte Route ist aber nichts für Anfänger. Festes Schuhwerk und Ausdauer bei steilen An- und Abstiegen ist ein Muss.
 

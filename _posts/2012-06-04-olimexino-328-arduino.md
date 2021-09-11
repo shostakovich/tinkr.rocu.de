@@ -20,7 +20,7 @@ tags:
   - Olimex
   - OLIMEXINO-328
 ---
-<img loading="lazy" src="/assets/2012/06/OLIMEXINO-328.jpg" alt="" title="OLIMEXINO-328 overview" width="606" height="455" class="alignnone size-full wp-image-2870" />
+<img loading="lazy" src="/assets/2012/06/OLIMEXINO-328.jpg" alt="" title="OLIMEXINO-328 overview"    />
 
 Today I would like to introduce you to a nice Arduino Duemilanove clone, the OLIMEXINO-328 from Olimex. It has been kindly provided by [de.farnell.com](http://de.farnell.com/).
 

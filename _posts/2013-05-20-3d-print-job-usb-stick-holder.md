@@ -25,7 +25,7 @@ Here you can find my current design, a USB stick holder, a simple design that on
 
 
 This is how the print looks like:
-<img loading="lazy" width="606" height="427" src="http://d2lg1iac45z1vf.cloudfront.net/wp-content/uploads/sites/7/2013/05/3d-printed-usb-holder.jpg" class="attachment-medium" alt="3D printed USB holder" />
+<img loading="lazy"   src="http://d2lg1iac45z1vf.cloudfront.net/wp-content/uploads/sites/7/2013/05/3d-printed-usb-holder.jpg"  alt="3D printed USB holder" />
 
 You can download the 3D file here:
 <http://www.thingiverse.com/thing:91512>

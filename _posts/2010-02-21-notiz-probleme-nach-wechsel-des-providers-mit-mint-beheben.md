@@ -20,7 +20,7 @@ tags:
 ---
 Zum zweiten mal hatte ich nun das Problem, dass nach dem Umzug von Zipfelmaus von einem Provider/Server zum nächsten die Statistiken komplett verdreht und offensichtlich falsch waren. Nachdem ich beim ersten mal ziemlich lange für den Grund gesucht hatte, wusste ich diesmal woran es liegt: Die CRC32 Prüfsummen die Mint für die URL&#8217;s errechnet unterscheiden sich zwischen 32 und 64-Bit Systemen.
 
-<img loading="lazy" src="/assets/2010/02/mint1.jpg" alt="" width="606" height="376" />
+<img loading="lazy" src="/assets/2010/02/mint1.jpg" alt=""   />
 
 > This function returns an unsigned integer from a 64-bit Linux platform. It does return the signed integer from other 32-bit platforms even a 64-bit Windows one.
 >

@@ -23,13 +23,13 @@ Bei der aktuellen Bestellung hat es dieses Mal leider besonders lange gedauert, 
 Mal schauen, ob die Schlaubischlümpfe das noch hinbekommen.
 
 Aber ein was feines hat es dann doch noch zu mir geschafft: ein Seilbahnbaussatz. Der war ratzefatz aufgebaut.
-<img loading="lazy" src="/assets/2008/06/dsc03207-300x225.jpg" alt="" title="Bausatzpackung" width="300" height="225" class="alignnone size-medium wp-image-57" />
+<img loading="lazy" src="/assets/2008/06/dsc03207-300x225.jpg" alt="" title="Bausatzpackung"    />
 
-<img loading="lazy" src="/assets/2008/06/dsc03204-300x225.jpg" alt="" title="Beim Aufbau" width="300" height="225" class="alignnone size-medium wp-image-56" />
+<img loading="lazy" src="/assets/2008/06/dsc03204-300x225.jpg" alt="" title="Beim Aufbau"    />
 
-<img loading="lazy" src="/assets/2008/06/dsc03209-300x225.jpg" alt="" title="Fertiger Bausatz ohne Abdeckung" width="300" height="225" class="alignnone size-medium wp-image-58" />
+<img loading="lazy" src="/assets/2008/06/dsc03209-300x225.jpg" alt="" title="Fertiger Bausatz ohne Abdeckung"    />
 
-<img loading="lazy" src="/assets/2008/06/dsc03210-300x225.jpg" alt="" title="Fertig aufgebaute Seilbahn" width="300" height="225" class="alignnone size-medium wp-image-55" />
+<img loading="lazy" src="/assets/2008/06/dsc03210-300x225.jpg" alt="" title="Fertig aufgebaute Seilbahn"    />
 
 Und dann das ganze mal in Aktion, anschnallen bitte:
 

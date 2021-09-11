@@ -20,25 +20,25 @@ Heute war der Z-Außenreporter Sebastian unterwegs auf dem modernsten Rangierbah
 
 ### Beginnen wir am Ablaufhügel:
 
-<img loading="lazy" src="/assets/2010/05/DSC00052.jpg" alt="" title="Abrollhügel" width="606" height="455" class="alignnone size-full wp-image-1609" srcset="/assets/2010/05/DSC00052.jpg 606w, /assets/2010/05/DSC00052-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
-<img loading="lazy" src="/assets/2010/05/DSC00050.jpg" alt="" title="Blick vom Abrollhügel" width="606" height="455" class="alignnone size-full wp-image-1607" srcset="/assets/2010/05/DSC00050.jpg 606w, /assets/2010/05/DSC00050-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/DSC00052.jpg" alt="" title="Abrollhügel"    srcset="/assets/2010/05/DSC00052.jpg 606w, /assets/2010/05/DSC00052-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/DSC00050.jpg" alt="" title="Blick vom Abrollhügel"    srcset="/assets/2010/05/DSC00050.jpg 606w, /assets/2010/05/DSC00050-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 Hier werden die einzelnen Wagons mit einer Diesellok über eine Abrollkante geschoben, von dort aus werden die freirollenden Wagons über Weichensysteme auf die 40 einzelnen Schienen aufgeteilt.
 
 ### Bremssystem:
 
-<img loading="lazy" src="/assets/2010/05/DSC00051.jpg" alt="" title="Bremsensystem" width="606" height="455" class="alignnone size-full wp-image-1608" srcset="/assets/2010/05/DSC00051.jpg 606w, /assets/2010/05/DSC00051-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/DSC00051.jpg" alt="" title="Bremsensystem"    srcset="/assets/2010/05/DSC00051.jpg 606w, /assets/2010/05/DSC00051-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 Damit die Wagons nicht unkontrolliert herumsaußen, sind an mehreren Stellen Bremssysteme am Gleis an- bzw. eingebaut. So werden die Wagons selten schneller als 6,3km/h.
 
 ### Stellwerk:
 
-<img loading="lazy" src="/assets/2010/05/DSC00075.jpg" alt="" title="Stellwerk Rangierbahnhof München-Nord" width="606" height="455" class="alignnone size-full wp-image-1613" srcset="/assets/2010/05/DSC00075.jpg 606w, /assets/2010/05/DSC00075-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/DSC00075.jpg" alt="" title="Stellwerk Rangierbahnhof München-Nord"    srcset="/assets/2010/05/DSC00075.jpg 606w, /assets/2010/05/DSC00075-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 Außenansicht Stellwerk Rangierbahnhof München-Nord
 
-<img loading="lazy" src="/assets/2010/05/DSC00053_stitch.jpg" alt="" title="Übersichtsanzeige Stellwerk" width="606" height="364" class="alignnone size-full wp-image-1610" srcset="/assets/2010/05/DSC00053_stitch.jpg 606w, /assets/2010/05/DSC00053_stitch-300x180.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/DSC00053_stitch.jpg" alt="" title="Übersichtsanzeige Stellwerk"    srcset="/assets/2010/05/DSC00053_stitch.jpg 606w, /assets/2010/05/DSC00053_stitch-300x180.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 Übersichtsanzeige Stellwerk
 
-<img loading="lazy" src="/assets/2010/05/DSC00063_stitch.jpg" alt="" title="Blick aus Stellwerk 1" width="606" height="359" class="alignnone size-full wp-image-1611" srcset="/assets/2010/05/DSC00063_stitch.jpg 606w, /assets/2010/05/DSC00063_stitch-300x177.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/05/DSC00063_stitch.jpg" alt="" title="Blick aus Stellwerk 1"    srcset="/assets/2010/05/DSC00063_stitch.jpg 606w, /assets/2010/05/DSC00063_stitch-300x177.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 Blick aus Stellwerk
 
-[<img loading="lazy" src="/assets/2010/05/DSC00065_stitch.jpg" alt="" title="Blick aus Stellwerk - Panorama" width="606" height="166" class="alignnone size-full wp-image-1612" srcset="/assets/2010/05/DSC00065_stitch.jpg 606w, /assets/2010/05/DSC00065_stitch-300x82.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2010/05/DSC00065_stitch_panorama.jpg)
+[<img loading="lazy" src="/assets/2010/05/DSC00065_stitch.jpg" alt="" title="Blick aus Stellwerk - Panorama"    srcset="/assets/2010/05/DSC00065_stitch.jpg 606w, /assets/2010/05/DSC00065_stitch-300x82.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2010/05/DSC00065_stitch_panorama.jpg)
 Panorama über den gesamtem Gleisbereich.

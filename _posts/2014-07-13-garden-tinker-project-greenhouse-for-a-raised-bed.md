@@ -30,10 +30,10 @@ Tomatoes are not happy with direct rain. So I had to build a shelter for the tom
 
 The greenhouse had to fit over the 500x500x500mm part of the raised bed, so I choose the following dimensions: 1400x700x540mm
 
-<div id="attachment_3592" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3592" loading="lazy" src="/assets/2014/07/diy_green-house_06.jpg" alt="sketch of the green house, dimensions in mm" width="606" height="432" class="size-full wp-image-3592" />
+<div id="attachment_3592" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3592" loading="lazy" src="/assets/2014/07/diy_green-house_06.jpg" alt="sketch of the green house, dimensions in mm"    />
 
-  <p id="caption-attachment-3592" class="wp-caption-text">
+  <p id="caption-attachment-3592" >
     sketch of the green house, dimensions in mm
   </p>
 </div>
@@ -43,10 +43,10 @@ The greenhouse had to fit over the 500x500x500mm part of the raised bed, so I ch
 There are overal 16 brackets inside the wooden frame. They keept my 3D printer busy for a while 😉
 
 
-<div id="attachment_3591" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3591" loading="lazy" src="/assets/2014/07/diy_green-house_05.jpg" alt="bracket" width="606" height="465" class="size-full wp-image-3591" />
+<div id="attachment_3591" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3591" loading="lazy" src="/assets/2014/07/diy_green-house_05.jpg" alt="bracket"    />
 
-  <p id="caption-attachment-3591" class="wp-caption-text">
+  <p id="caption-attachment-3591" >
     bracket
   </p>
 </div>
@@ -58,10 +58,10 @@ You can download the stl-file for the brackets here: <http://www.thingiverse.com
 3. step: assemble the frame
 
 
-<div id="attachment_3588" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3588" loading="lazy" src="/assets/2014/07/diy_green-house_02.jpg" alt="green house frame" width="606" height="808" class="size-full wp-image-3588" />
+<div id="attachment_3588" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3588" loading="lazy" src="/assets/2014/07/diy_green-house_02.jpg" alt="green house frame"    />
 
-  <p id="caption-attachment-3588" class="wp-caption-text">
+  <p id="caption-attachment-3588" >
     green house frame
   </p>
 </div>
@@ -71,10 +71,10 @@ You can download the stl-file for the brackets here: <http://www.thingiverse.com
 4. step: staple the air bubble film onto the frame
 
 
-<div id="attachment_3589" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3589" loading="lazy" src="/assets/2014/07/diy_green-house_03.jpg" alt="green house during construction" width="606" height="455" class="size-full wp-image-3589" />
+<div id="attachment_3589" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3589" loading="lazy" src="/assets/2014/07/diy_green-house_03.jpg" alt="green house during construction"    />
 
-  <p id="caption-attachment-3589" class="wp-caption-text">
+  <p id="caption-attachment-3589" >
     green house during construction
   </p>
 </div>
@@ -82,10 +82,10 @@ You can download the stl-file for the brackets here: <http://www.thingiverse.com
 5. step: put the greenhouse in place
 
 
-<div id="attachment_3590" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3590" loading="lazy" src="/assets/2014/07/diy_green-house_04.jpg" alt="raised bed with green house" width="606" height="455" class="size-full wp-image-3590" />
+<div id="attachment_3590" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3590" loading="lazy" src="/assets/2014/07/diy_green-house_04.jpg" alt="raised bed with green house"    />
 
-  <p id="caption-attachment-3590" class="wp-caption-text">
+  <p id="caption-attachment-3590" >
     raised bed with green house
   </p>
 </div>

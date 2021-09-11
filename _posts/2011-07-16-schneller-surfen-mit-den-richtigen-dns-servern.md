@@ -79,19 +79,19 @@ Der zweite Weg ist zu Messen, welche DNS-Server-Kombination bei euch am schnells
 
 ### DNS-Benchmarking unter Mac OS X
 
-<img loading="lazy" src="/assets/2011/07/namebench_main.png" alt="Namebench main" title="namebench_main.png" border="0" width="606" height="397" />
+<img loading="lazy" src="/assets/2011/07/namebench_main.png" alt="Namebench main" title="namebench_main.png" border="0"   />
 
 Das Programm Namebench testet eine recht großen Liste von öffentlichen Nameservern durch und findet die schnellsten Kandidaten für deinen Computer heraus.
 
 Am Ende des Tests macht das Programm Vorschläge, welche DNS-Server du verwenden solltest um optimale Resultate zu erzielen.
 
-<img loading="lazy" src="/assets/2011/07/namebench_results.png" alt="Namebench results" title="namebench_results.png" border="0" width="606" height="454" />
+<img loading="lazy" src="/assets/2011/07/namebench_results.png" alt="Namebench results" title="namebench_results.png" border="0"   />
 
 ### DNS-Benchmarking unter Windows
 
 Für Windows Nutzer empfehle ich ein Programm, auf dass ich etwas neidisch bin. [DNSBench von GRC](http://www.grc.com/dns/benchmark.htm). Dieses sehr schöne Programm macht in etwa das selbe wie Namebench, wirkt aber etwas polierter und auch die Auswertung am Ende gefällt mir wesentlich besser.
 
-<img loading="lazy" src="/assets/2011/07/DNSBench.png" alt="DNSBench" title="DNSBench.png" border="0" width="606" height="687" />
+<img loading="lazy" src="/assets/2011/07/DNSBench.png" alt="DNSBench" title="DNSBench.png" border="0"   />
 
 Durch Steve Gibson, den Programmierer des Programms bin ich selber vor einiger Zeit auch erst auf die Problematik aufmerksam geworden.
 

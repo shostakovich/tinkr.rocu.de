@@ -24,7 +24,7 @@ Ok. Zugegeben. Ja. Ihr habt völlig recht - das ist ungefähr das 10-Millionste 
 
 Für mich ist dies allerdings das erste virtuelle Wurfgeschoss in dieser Richtung. Hier also ein Bild meines privaten Schreibtisches.
 
-<img loading="lazy" alt="" src="http://farm4.static.flickr.com/3143/3037924229_f5e36125f1.jpg" title="Mein Schreibtisch" class="alignnone" width="500" height="375" />
+<img loading="lazy" alt="" src="http://farm4.static.flickr.com/3143/3037924229_f5e36125f1.jpg" title="Mein Schreibtisch"    />
 
 Zu sehen von Links nach Rechts: Phillips Livingcolours, MacBook Pro, 24&#8243; Samsung Monitor, Apple Alu-Keyboard, Trackball (ganz ganz wichtig), Meier Audio Corda Aria Kopfhörerverstärker, AKG K701, IRex Ebook-Reader und ein DECT-Telefon von Fritz.
 

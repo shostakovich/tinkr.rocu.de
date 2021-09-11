@@ -21,7 +21,7 @@ tags:
   - Wellness
 ---
 Den Wellness- und Detox-Firlefans, vor dem uns das Buch &#8222;Die Wissenschaftslüge&#8220; warnt (wie Fussbad, das Entgiftet), ist noch gar nichts, im Vergleich zu dessen, was einem auf dem MSC-Kreuzfahrt-Schiffen im Wellness und Spa-Bereich widerfahren kann.
-<img loading="lazy" src="/assets/2010/10/xray_msc_sml2.jpg" alt="" title="Xray at MSC" width="606" height="408" class="aligncenter size-full wp-image-1927" />
+<img loading="lazy" src="/assets/2010/10/xray_msc_sml2.jpg" alt="" title="Xray at MSC"    />
 Quelle: MSC Kreuzfahrt Katalog 2010/2011, Seite 27
 
 Es ist dort von &#8222;Gesichts- und Körperbehandlung mit Röntgenstrahlung&#8220; die Rede. Und ich dachte, Botox sei der letzte Schrei. Dieser Wellnessbereich entwickelt sich eben rasend schnell weiter. Und wahrscheinlich heißt dann der SPA Doktor Dr. Nick. 😉

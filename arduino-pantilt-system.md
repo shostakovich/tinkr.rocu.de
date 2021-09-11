@@ -13,8 +13,8 @@ An Arduino controlls a Canon Ixus Camera and two servos of the camera pan&tilt s
 
 ### Hardware
 
-<img loading="lazy" src="/assets/2010/10/pan_tilt_arduino_complette.jpg" alt="" title="Arduino Pan&Tilt system" width="606" height="598" class="aligncenter size-full wp-image-1909" />
-<img loading="lazy" src="/assets/2010/10/pan_tilt_arduino_schematic.jpg" alt="" title="Arduino schematic - Pan&Tilt-system made with Fritzing" width="606" height="645" class="aligncenter size-full wp-image-1920" />
+<img loading="lazy" src="/assets/2010/10/pan_tilt_arduino_complette.jpg" alt="" title="Arduino Pan&Tilt system"    />
+<img loading="lazy" src="/assets/2010/10/pan_tilt_arduino_schematic.jpg" alt="" title="Arduino schematic - Pan&Tilt-system made with Fritzing"    />
 - Arduino Duemilanove (at Ebay, around 20€/$)
 - Arduino Prototyping Shield (at Ebay, around 8€/$)
 - 7.2V racing battery pack (NiCd or NiMh) (around 15€/$)
@@ -24,7 +24,7 @@ An Arduino controlls a Canon Ixus Camera and two servos of the camera pan&tilt s
 You can download the plate design in the download section.
 - screws and other assembly material (around 8€/$)
 
-<img loading="lazy" src="/assets/2010/10/frontplatten_designer.png" alt="" title="Frontplatten Designer - aluminium plate" width="606" height="409" class="aligncenter size-full wp-image-1917" />
+<img loading="lazy" src="/assets/2010/10/frontplatten_designer.png" alt="" title="Frontplatten Designer - aluminium plate" />
 
 ### Software
 

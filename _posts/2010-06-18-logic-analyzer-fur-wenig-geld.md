@@ -23,7 +23,7 @@ Diese Woche habe ich auf einer FPGA-Konferenz wieder Mikrowellen-große Logic-An
 
 Dagegen für den Hausgebrauch geeignet ist der kleine handliche und zudem geräuschlose USB-Logic-Analyzer von Saleae.com. Klein und handlich kommt er daher, verpackt in einer kleinen Tasche samt einem Starter-Zubehör-Set bestehend aus 9 kleinen Greifzangen, einem Kabelsatz, einem Mini-USB-Kabel.
 
-<img loading="lazy" src="/assets/2010/06/saleae_logic_analyzer_kit.jpg" alt="" title="Saleae Logic Analyzer Kit" width="606" height="455" class="alignnone size-full wp-image-1695" srcset="/assets/2010/06/saleae_logic_analyzer_kit.jpg 606w, /assets/2010/06/saleae_logic_analyzer_kit-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/06/saleae_logic_analyzer_kit.jpg" alt="" title="Saleae Logic Analyzer Kit"    srcset="/assets/2010/06/saleae_logic_analyzer_kit.jpg 606w, /assets/2010/06/saleae_logic_analyzer_kit-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 ### Specs:
 
@@ -36,7 +36,7 @@ Power
 
 ### Software:
 
-<img loading="lazy" src="/assets/2010/06/logic_analyzer2.png" alt="" title="Saleae Logic Analyzer Software" width="800" height="454" class="alignnone size-full wp-image-1698" srcset="/assets/2010/06/logic_analyzer2.png 800w, /assets/2010/06/logic_analyzer2-300x170.png 300w" sizes="(max-width: 800px) 100vw, 800px" />
+<img loading="lazy" src="/assets/2010/06/logic_analyzer2.png" alt="" title="Saleae Logic Analyzer Software"    srcset="/assets/2010/06/logic_analyzer2.png 800w, /assets/2010/06/logic_analyzer2-300x170.png 300w" sizes="(max-width: 800px) 100vw, 800px" />
 PWM-Signal erzeugt mittels Arduino für eine H-Brücken-Motorsteuerung.
 
 In der sehr übersichtlichen Software werden alle acht Kanäle gleichzeitig angezeigt. Verschiedene Protokolle und Triggerbedingungen können eingestellt werden, wie z.B. I2C und SPI. Die Sample Rate kann von 1M bis 1000M Samples und die Abtastfrequenz mit 0,2 bis 24MHz eingestellt werden.
@@ -46,4 +46,4 @@ Die jeweils aktuelle Software steht gratis zum Download unter: <http://www.salea
 ### Messaufbau:
 
 - Arduino und Logic Analyzer
-<img loading="lazy" src="/assets/2010/06/saleae_messaufbau.jpg" alt="" title="Saleae Logic Analyzer Messaufbau" width="606" height="455" class="alignnone size-full wp-image-1699" srcset="/assets/2010/06/saleae_messaufbau.jpg 606w, /assets/2010/06/saleae_messaufbau-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2010/06/saleae_messaufbau.jpg" alt="" title="Saleae Logic Analyzer Messaufbau"    srcset="/assets/2010/06/saleae_messaufbau.jpg 606w, /assets/2010/06/saleae_messaufbau-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />

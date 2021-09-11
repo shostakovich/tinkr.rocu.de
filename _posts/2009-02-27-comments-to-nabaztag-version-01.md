@@ -22,7 +22,7 @@ Ja, ich konnte es nicht lassen - heute habe ich noch etwas weiter Programmiert u
 
 Damit kann ich meinen liebligen, knuddeligen Internethasen Helmi ganz einfach und bequem die aktuellen Kommentare im Blog vorlesen lassen.
 
-<img loading="lazy" alt="" src="http://web2.0du.de/pictures/nabaz_plugin.png" title="Nabaztag Plugin Screenshot" class="alignnone" width="586" height="448" />
+<img loading="lazy" alt="" src="http://web2.0du.de/pictures/nabaz_plugin.png" title="Nabaztag Plugin Screenshot"    />
 
 Mit drin sind Stimmenauswahl, Englische und Deutsch Übersetzung und ganz viele vorgelessene Kommentare vom Nabaztag.
 

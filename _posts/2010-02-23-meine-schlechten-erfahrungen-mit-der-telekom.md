@@ -19,7 +19,7 @@ tags:
 ---
 Vor einigen Monaten (im Juni!!!) schrieb ich bereits über [das Totalversagen der Telekom](http://tinkr.de/blog/ich-verlange-satisfaktion-kundenerlebnisse-beim-mangenta-riesen/). Was hat sich seither getan? Nichts! Seit über 10 Monaten bekomme ich jetzt falsche Rechnungen. Geschätzte 20 mal habe ich dort angerufen. Mehrere Mahnungen auf bereits reklamierte Rechnungen sind eingetroffen. Teilweise stand die Telekom bei mir über 100 Euro in den Miesen.
 
-[<img loading="lazy" src="/assets/2010/02/telekom.jpg" alt="" title="Photo taken by ninjaguy (Flickr)" width="555" height="370" class="alignnone size-full wp-image-1445" srcset="/assets/2010/02/telekom.jpg 555w, /assets/2010/02/telekom-300x200.jpg 300w" sizes="(max-width: 555px) 100vw, 555px" />](http://www.flickr.com/photos/ninjaguy82)
+[<img loading="lazy" src="/assets/2010/02/telekom.jpg" alt="" title="Photo taken by ninjaguy (Flickr)"    srcset="/assets/2010/02/telekom.jpg 555w, /assets/2010/02/telekom-300x200.jpg 300w" sizes="(max-width: 555px) 100vw, 555px" />](http://www.flickr.com/photos/ninjaguy82)
 
 Photo taken by James P. Wells
 

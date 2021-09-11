@@ -25,7 +25,7 @@ Yesterday I was working on the bridge. Since nothing seems to be right in the BO
 Today I&#8217;ve been working on the wiring. And yes, there was a needless problem nearly at the end of the assembly. The last cable connector to the extruder motor I had to connect to the pcb was too short, so again some rework necessary. I extended the wires about 15cm.
 
 After that I zipped all the wires together. I noticed that there were no mounting holes to hold the zipties.
-<img loading="lazy" src="/assets/2012/07/printrbot_assembled.jpg" alt="" title="my assembled Printrbot" width="606" height="590" class="alignnone size-full wp-image-2913" />
+<img loading="lazy" src="/assets/2012/07/printrbot_assembled.jpg" alt="" title="my assembled Printrbot"    />
 Also annoying is, that they didn&#8217;t send a European outlet plug for the power supply. Instead they send the US version.
 
 So am I ready to print yet?

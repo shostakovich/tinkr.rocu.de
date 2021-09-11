@@ -22,7 +22,7 @@ tags:
 ---
 Das Internet ist ein sehr unsicherer Ort und besonders gefährlich ist es in öffentlichen Netzwerken zu surfen. Es bedarf keiner besonderen technischen Expertise in einem offenen WLAN  Passwörter zu erschnüffeln und wenn man dann nicht nur von Scriptkiddies ausgeht, sondern von einem bösen Buben der sein Handwerk versteht, mag man eigentlich schon gar nicht mehr seinen Laptop im Café um die Ecke aufklappen.
 
-<a title="Bild von clintjcl (Flickr)" href="http://www.flickr.com/photos/clintjcl/" target="_blank"><img loading="lazy" class="alignnone size-full wp-image-1403" title="Besser mit VPN" src="/assets/2010/02/vpn1.jpg" alt="" width="606" height="334" srcset="/assets/2010/02/vpn1.jpg 606w, /assets/2010/02/vpn1-300x165.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" /></a>
+<a title="Bild von clintjcl (Flickr)" href="http://www.flickr.com/photos/clintjcl/" target="_blank"><img loading="lazy"  title="Besser mit VPN" src="/assets/2010/02/vpn1.jpg" alt=""   srcset="/assets/2010/02/vpn1.jpg 606w, /assets/2010/02/vpn1-300x165.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" /></a>
 
 Neben Socks über SSH-Tunnel für den Vollnerd und kostenpflichtigen VPN-Anbietern (hier empfehle ich <a href="http://www.swissvpn.net/" target="_blank">SwissVPN</a>) habe ich inzwischen noch eine recht Schicke Alternativlösung für mich gefunden.
 

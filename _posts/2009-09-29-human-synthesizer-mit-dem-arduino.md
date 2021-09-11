@@ -22,7 +22,7 @@ Genial. Einen Arduino Mega habe ich schonmal - aber wo kriegt man so viele Fraue
 
 Die Theorie dahinter ist ganz simpel - der Arduino checkt einfach ob die Schaltung aus Typ und Bikinibabe oder Bikinebabe und Bikinibabe geschlossen ist. Damit die Körper leiten, wurden sie teilweise mit [Bare](http://www.bareconductive.com/home.html), einer leitenden Tinte eingerieben.
 
-<embed src="http://www.youtube.com/v/IObPkUFq0hg&#038;hl=de&#038;fs=1&#038;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="606" height="404">
+<embed src="http://www.youtube.com/v/IObPkUFq0hg&#038;hl=de&#038;fs=1&#038;hd=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true"  >
 </embed>
 
 Das ganze wurde von Sony als Promo für [Calvin Harris](http://www.calvinharris.co.uk/) gebastelt. Wundert mich, dass Sony vor lauter [abmahnen](http://blog.rebellen.info/2009/09/24/sony-mahnt-ab-wegen-link-zu-splash-mixtape/) überhaupt Zeit dafür hat.

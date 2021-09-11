@@ -21,6 +21,6 @@ Wie soll man nur zwei Pizzen auf ein Blech bekommen, ohne das die eine auf der a
 
 Hier der Vorschlag aus den Zipfel-Laboratories:
 
-<img loading="lazy" src="/assets/2009/05/pizza.jpg" alt="Pizza" title="Pizza" width="606" height="455" class="aligncenter size-full wp-image-609" srcset="/assets/2009/05/pizza.jpg 606w, /assets/2009/05/pizza-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/05/pizza.jpg" alt="Pizza" title="Pizza"    srcset="/assets/2009/05/pizza.jpg 606w, /assets/2009/05/pizza-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Jede Pizza wird schon geforen mit einem geeigneten Schneidwerkzeug (z.B. Pizzaschneider) halbiert. Die Hälften werden anschließend auf dem Ofenblech entsprechend der Form auf dem Bild angeordnet.

@@ -16,7 +16,7 @@ tags:
   - Molekulare Küche
   - Neue Messe
 ---
-<img loading="lazy" src="/assets/2008/11/messemuenchen-300x200.jpg" alt="" title="Neue Messe München" width="300" height="200" class="alignnone size-medium wp-image-157" />
+<img loading="lazy" src="/assets/2008/11/messemuenchen-300x200.jpg" alt="" title="Neue Messe München"    />
 
 Wie nennt man den Ort an dem Frauen hauptsächlich als Standhostessen und Putzfrauen zu finden sind? Genau Electronica.
 

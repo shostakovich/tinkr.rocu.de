@@ -11,7 +11,7 @@ tc-thumb-fld:
 categories:
   - Allgemeines
 ---
-[<img loading="lazy" src="/assets/2008/10/systems-300x221.jpg" alt="" title="Systems" width="300" height="221" class="alignleft size-medium wp-image-151" />](/assets/2008/10/systems.jpg)
+[<img loading="lazy" src="/assets/2008/10/systems-300x221.jpg" alt="" title="Systems"    />](/assets/2008/10/systems.jpg)
 Wer hätte das gedacht, dass der kleine Nachmittagsausflug diese Woche doch ein kleines historisches Ereignis war. Es war die letzte Systems. Die schrumpfende Hallenfläche in den vergangenen Jahren hatte es wohl mehr oder weniger angekündigt. Aber trotz der gelangweilten Messefritzen war es ein dufter Ausflug, warum? Tja gab doch auch interessantes zu sehen:
 
 Nämlich Kunst:

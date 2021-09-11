@@ -52,7 +52,7 @@ tags:
 ---
 Seit einigen Wochen gibt es das Kindle nun in Deutschland. Ich spielte schon länger mit dem Gedanken mir eines zu kaufen und nun die günstige Gelegenheit genutzt und mir ein Kindle bestellt. Da sicherlich einige auch mit dem Gedanken spielen möchte ich ein wenig über meine ersten Erfahrungen schreiben.
 
-<img loading="lazy" src="/assets/2011/04/kindle_normal.jpg" alt="" title="kindle_normal" width="606" height="455" class="alignnone size-full wp-image-2449" srcset="/assets/2011/04/kindle_normal.jpg 606w, /assets/2011/04/kindle_normal-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2011/04/kindle_normal.jpg" alt="" title="kindle_normal"    srcset="/assets/2011/04/kindle_normal.jpg 606w, /assets/2011/04/kindle_normal-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 [Our First Kindles from theunquietlibrary (Flickr)](http://www.flickr.com/photos/theunquietlibrary/5162269764/in/photostream/)
 
 Direkt nach der Bestellung kam das gute Stück bei mir an. Nachdem ich das WLAN konfigurierte war das Kindle direkt eingeloggt und hat mich mit meinem Namen begrüßt. Anscheinend sind die Geräte also vorkonfiguriert.

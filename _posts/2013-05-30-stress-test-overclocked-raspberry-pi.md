@@ -59,43 +59,43 @@ For your reference this are the settings that raspbi-config uses for overclockin
 
 ### None (Idle)
 
-<img loading="lazy" src="/assets/2013/05/IR_0033.jpg" alt="Normal (Idle)" width="600" height="600" />
+<img loading="lazy" src="/assets/2013/05/IR_0033.jpg" alt="Normal (Idle)"   />
 
 ### None (Load)
 
-<img loading="lazy" src="/assets/2013/05/IR_0035.jpg" alt="Normal (Load)" width="600" height="600" />
+<img loading="lazy" src="/assets/2013/05/IR_0035.jpg" alt="Normal (Load)"   />
 
 ### Modest (Idle)
 
-<img loading="lazy" src="/assets/2013/05/IR_0037.jpg" alt="Modest (Idle)" width="600" height="600" />
+<img loading="lazy" src="/assets/2013/05/IR_0037.jpg" alt="Modest (Idle)"   />
 
 ### Modest (Load)
 
-<img loading="lazy" src="/assets/2013/05/IR_0039.jpg" alt="Modest (Load)" width="600" height="600" />
+<img loading="lazy" src="/assets/2013/05/IR_0039.jpg" alt="Modest (Load)"   />
 
 ### Medium (Idle)
 
-<img loading="lazy" src="/assets/2013/05/IR_0041.jpg" alt="Medium (Idle)" width="600" height="600" />
+<img loading="lazy" src="/assets/2013/05/IR_0041.jpg" alt="Medium (Idle)"   />
 
 ### Medium (Load)
 
-<img loading="lazy" src="/assets/2013/05/IR_0043.jpg" alt="Medium (Load)" width="600" height="600" />
+<img loading="lazy" src="/assets/2013/05/IR_0043.jpg" alt="Medium (Load)"   />
 
 ### High (Idle)
 
-<img loading="lazy" src="/assets/2013/05/IR_0045.jpg" alt="High (Idle)" width="600" height="600" />
+<img loading="lazy" src="/assets/2013/05/IR_0045.jpg" alt="High (Idle)"   />
 
 ### High (Load)</p>
 
-###<img loading="lazy" src="/assets/2013/05/IR_0047.jpg" alt="High (Load)" width="600" height="600" />
+###<img loading="lazy" src="/assets/2013/05/IR_0047.jpg" alt="High (Load)"   />
 
 ### Turbo (Idle)</p>
 
-###<img loading="lazy" src="/assets/2013/05/IR_0049.jpg" alt="Turbo (Idle)" width="600" height="600" />
+###<img loading="lazy" src="/assets/2013/05/IR_0049.jpg" alt="Turbo (Idle)"   />
 
 ### Turbo (Load)</p>
 
-###<img loading="lazy" src="/assets/2013/05/IR_0051.jpg" alt="Turbo (Load)" width="600" height="600" />
+###<img loading="lazy" src="/assets/2013/05/IR_0051.jpg" alt="Turbo (Load)"   />
 
 ## Conclusion
 

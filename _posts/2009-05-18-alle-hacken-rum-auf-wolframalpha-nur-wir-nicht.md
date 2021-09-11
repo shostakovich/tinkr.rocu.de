@@ -23,7 +23,7 @@ Zur Zeit liest man recht viel über böse Unkenrufe gegenüber der neuen Suchsei
 
 Vielleicht hat man den Mund für den Anfang etwas zu voll genommen - aber es gibt schon viele tolle Belege dafür, dass da schon einige tolle Sachen im Hintergrund abgelegt worden sind. So haben wir eben diskutiert, wie die Eltern der Frau meines Bruders heißen mögen. SchwippschwappSchwiegereltern? WolframAlpha weiß die Antwort:
 
-[<img loading="lazy" src="/assets/2009/05/wolframalpha.png" alt="Wolframalpha.com" title="Wolframalpha.com" width="606" height="500" class="aligncenter size-full wp-image-598" />](/assets/2009/05/wolframalpha.png)
+[<img loading="lazy" src="/assets/2009/05/wolframalpha.png" alt="Wolframalpha.com" title="Wolframalpha.com"    />](/assets/2009/05/wolframalpha.png)
 
 [Link](http://www86.wolframalpha.com/input/?i=parents+of+my+brothers+wife)
 

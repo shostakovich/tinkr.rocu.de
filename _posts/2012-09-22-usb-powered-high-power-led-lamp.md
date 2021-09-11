@@ -39,7 +39,7 @@ I designed a new nano shield for the Arduino with a touch sensor and a led drive
 
 The yellow ABS case was printed with a printrbot.
 
-<img loading="lazy" src="/assets/2012/09/led_usb_parts.jpg" alt="" title="led lamps parts" width="606" height="463" class="alignnone size-full wp-image-3032" />
+<img loading="lazy" src="/assets/2012/09/led_usb_parts.jpg" alt="" title="led lamps parts"    />
 
 ### Demonstration
 
@@ -66,7 +66,7 @@ LED on (fading stop)
 
 ### Block diagramm
 
-<img loading="lazy" src="/assets/2012/09/led_usb_blockschaltbild.png" alt="" title="block diagramm" width="606" height="365" class="alignnone size-full wp-image-3026" />
+<img loading="lazy" src="/assets/2012/09/led_usb_blockschaltbild.png" alt="" title="block diagramm"    />
 
 ### 3D CAD model
 
@@ -81,24 +81,24 @@ This is the current version:
 
 
 
-<img loading="lazy" src="/assets/2012/09/usb_lamp_new_case.jpg" alt="" title="USB LED lamp" width="606" height="428" class="alignnone size-full wp-image-3052" />
-<img loading="lazy" src="/assets/2012/09/usb_lamp_new_case_2.jpg" alt="" title="USB LED lamp" width="606" height="428" />
+<img loading="lazy" src="/assets/2012/09/usb_lamp_new_case.jpg" alt="" title="USB LED lamp"    />
+<img loading="lazy" src="/assets/2012/09/usb_lamp_new_case_2.jpg" alt="" title="USB LED lamp"   />
 
 ### Schematic
 
 Here you see the schematic for the Nano Shield. You&#8217;ll find the Eagle-Files (.sch and .brd below in the Download section). The
-<img loading="lazy" src="/assets/2012/09/usb_led_lamp_schematic.png" alt="" title="schematic" width="606" height="417" class="alignnone size-full wp-image-3041" />
+<img loading="lazy" src="/assets/2012/09/usb_led_lamp_schematic.png" alt="" title="schematic"    />
 
 #### Functions:
 
 - the Nano Shield fits exactly on a Arduino Nano
 - dimming the power LED (350mA) via PWM with a NUD4001 LED driver [[Datasheet](http://www.onsemi.com/pub_link/Collateral/NUD4001-D.PDF)]
 - a touch switch on the back of the board to turn the LED on and off (uses CapSense Lib from Arduino.cc, [Link](http://arduino.cc/playground/Main/CapacitiveSensor?from=Main.CapSense))
-<img loading="lazy" src="/assets/2012/08/led_nano_shield_sml.jpg" alt="" title="power led nano-shield" width="606" height="455" class="alignnone size-full wp-image-2944" />
+<img loading="lazy" src="/assets/2012/08/led_nano_shield_sml.jpg" alt="" title="power led nano-shield"    />
 
 ### Arduino Software
 
-[cpp]
+```
 /*
 LED USB Lamp
 
@@ -241,7 +241,7 @@ analogWrite(ledPin, fadeValue);
 actualState=nextState;
 delay(50);
 }
-[/cpp]
+```
 
 ### Download
 

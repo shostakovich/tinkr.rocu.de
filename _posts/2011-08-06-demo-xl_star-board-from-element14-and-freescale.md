@@ -23,7 +23,7 @@ tags:
 ---
 Element14 offers a [summer design competition](http://www.element14.com/community/groups/summerofdesign) with it&#8217;s XL_STAR board in coperation with Freescale Semiconductor.
 
-<img loading="lazy" src="/assets/2011/08/xl_star_board.jpg" alt="" title="XL_STAR board" width="606" height="455" class="alignnone size-full wp-image-2502" srcset="/assets/2011/08/xl_star_board.jpg 606w, /assets/2011/08/xl_star_board-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2011/08/xl_star_board.jpg" alt="" title="XL_STAR board"    srcset="/assets/2011/08/xl_star_board.jpg 606w, /assets/2011/08/xl_star_board-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
 We received this board a few days ago. Here is a quick review video, what&#8217;s included in the box and what the demo firmware does:
 

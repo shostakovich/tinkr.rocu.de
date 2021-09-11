@@ -23,7 +23,7 @@ Jeden Tag einen Laptop mit mehr oder weniger sensiblen Informationen mit sich he
 
 Meistens sind dann nicht nur Familienfotos sondern auch Kundendaten, Sourcecode und allerhand anderer Kram in fremden Händen.
 
-<img loading="lazy" src="/assets/2010/02/enigma_big.jpg" alt="" title="Enigma Maschnine" width="606" height="455" />
+<img loading="lazy" src="/assets/2010/02/enigma_big.jpg" alt="" title="Enigma Maschnine"   />
 
 Auf Macfidelity wurde letzte Woche ein kleines Programm vorgestellt, dass Bösen Buben den Zugriff verwehren soll: [Espionage](http://macfidelity.de/2010/02/25/mac-apps-ordner-und-dateien-verschlusseln-mit-espionage/).
 

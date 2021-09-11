@@ -35,10 +35,10 @@ So I decided to make my own mudguard system .. the &#8222;Bike Shield&#8220;.
 
 ### Hand drawing
 
-<div id="attachment_3475" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3475" loading="lazy" src="/assets/2013/11/bike_shield_hand_drawing.jpg" alt="bike shield - hand drawing" width="606" height="692" class="size-full wp-image-3475" />
+<div id="attachment_3475" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3475" loading="lazy" src="/assets/2013/11/bike_shield_hand_drawing.jpg" alt="bike shield - hand drawing"    />
 
-  <p id="caption-attachment-3475" class="wp-caption-text">
+  <p id="caption-attachment-3475" >
     bike shield - hand drawing
   </p>
 </div>
@@ -50,20 +50,20 @@ Before I set of to design my Bike Shield in a CAD program, I drew a little sketc
 For the mechanical design I used the free tool &#8222;DesignSpark Mechanical&#8220; from RS Components [[Link](http://www.designspark.com/eng/nodes/view/type:page/slug:mechanical)]. It is based on the CAD tool called SpaceClaim Engineer. &#8222;DesignSpark Mechanical&#8220; has just a subset of the functionality, but it is powerful enough for smaller projects.
 I find it really nice, that it can export your design in STL-format, which can be printed by most 3D printers.
 
-<div id="attachment_3478" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3478" loading="lazy" src="/assets/2013/11/bicycle_shield_hoch_v0_2_131116.jpg" alt="bicycle shield - large spacer" width="606" height="363" class="size-full wp-image-3478" />
+<div id="attachment_3478" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3478" loading="lazy" src="/assets/2013/11/bicycle_shield_hoch_v0_2_131116.jpg" alt="bicycle shield - large spacer"    />
 
-  <p id="caption-attachment-3478" class="wp-caption-text">
+  <p id="caption-attachment-3478" >
     bicycle shield with large spacers
   </p>
 </div>
 
 Left and right you can see the connectors to the next Bike Shield. In the middle there are two spaces to attach the &#8222;Bike Shield&#8220; to the bicycle frame.
 
-<div id="attachment_3483" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3483" loading="lazy" src="/assets/2013/11/bicycle_shield_hoch_btm_v0_2_131116.jpg" alt="bicycle shield - large spacer - bottom" width="606" height="424" class="size-full wp-image-3483" />
+<div id="attachment_3483" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3483" loading="lazy" src="/assets/2013/11/bicycle_shield_hoch_btm_v0_2_131116.jpg" alt="bicycle shield - large spacer - bottom"    />
 
-  <p id="caption-attachment-3483" class="wp-caption-text">
+  <p id="caption-attachment-3483" >
     bicycle shield - large spacer - bottom
   </p>
 </div>
@@ -72,10 +72,10 @@ On the bottom side you can see two indentions on the upper and lower side, this 
 
 ### Paper prototype
 
-<div id="attachment_3481" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3481" loading="lazy" src="/assets/2013/11/bike_shield_paper_prototype.jpg" alt="paper prototype" width="606" height="462" class="size-full wp-image-3481" />
+<div id="attachment_3481" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3481" loading="lazy" src="/assets/2013/11/bike_shield_paper_prototype.jpg" alt="paper prototype"    />
 
-  <p id="caption-attachment-3481" class="wp-caption-text">
+  <p id="caption-attachment-3481" >
     paper prototype
   </p>
 </div>
@@ -88,20 +88,20 @@ Before I start my 3D printer, I like to make a kind of a paper prototype. This t
 After hours and hours of printing I finally zip-tied everything together (black zip ties might look better):
 
 
-<div id="attachment_3474" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3474" loading="lazy" src="/assets/2013/11/bike_shield_assembled.jpg" alt="bike shield -assembled" width="606" height="736" class="size-full wp-image-3474" />
+<div id="attachment_3474" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3474" loading="lazy" src="/assets/2013/11/bike_shield_assembled.jpg" alt="bike shield -assembled"    />
 
-  <p id="caption-attachment-3474" class="wp-caption-text">
+  <p id="caption-attachment-3474" >
     bike shield -assembled
   </p>
 </div>
 
 I also attached some foam-rubber on top of the spacers.
 
-<div id="attachment_3480" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3480" loading="lazy" src="/assets/2013/11/bike_shield_mounted2.jpg" alt="bike shield -mounted" width="606" height="606" class="size-full wp-image-3480" />
+<div id="attachment_3480" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3480" loading="lazy" src="/assets/2013/11/bike_shield_mounted2.jpg" alt="bike shield -mounted"    />
 
-  <p id="caption-attachment-3480" class="wp-caption-text">
+  <p id="caption-attachment-3480" >
     bike shield -mounted
   </p>
 </div>

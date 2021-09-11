@@ -24,7 +24,7 @@ Ich kann mich noch gut daran erinnern, wie nervig es früher war ausgiebiger an 
 
 Also habe ich mich vor einigen Monaten auf die Suche nach einem besseren Werkzeug begeben und ein geniales Tool gefunden, um MySQL-Datenbanken zu verwalten.
 
-<img loading="lazy" src="/assets/2010/02/sequel-pro.jpg" alt="" title="sequel-pro" width="606" height="406" />
+<img loading="lazy" src="/assets/2010/02/sequel-pro.jpg" alt="" title="sequel-pro"   />
 [SequelPro](http://www.sequelpro.com/) ist eine schicke Cocoa-basierte Datenbank-Managment App für Mac OS X.
 
 Der gute Eindruck fängt schon beim verbinden mit der Datenbank an: Natürlich möchte ich mich nicht aus dem Café (oder sagen wir einem Chaos Communication Congress) aus unverschlüsselt mit unserem MySQL-Server verbinden. In Sequel Pro habe ich daher [SSH-Port-Forwarding](http://www.ssh.com/support/documentation/online/ssh/adminguide/32/Port_Forwarding.html) konfiguriert um bombensicher mit dem Server zu kommunizieren.

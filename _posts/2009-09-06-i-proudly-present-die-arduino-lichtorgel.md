@@ -24,7 +24,7 @@ Und damit die Werte Leserschaft einen Eindruck davon bekommt, was für ein ausge
 
 
 
-<pre name="code" class="cpp">/**
+<pre name="code" >/**
  * Code für eine Lichtorgel
  *
  * Lichtorgel besteht aus Lautsprecher, Taster und einem Lichtsensor der über einen Spannungsteiler abgenommen wird.

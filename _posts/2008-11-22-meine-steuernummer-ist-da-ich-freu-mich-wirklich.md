@@ -21,7 +21,7 @@ tags:
 ---
 Endlich habe ich Sie. Niemand hat mich gefragt - meine persönliche Bürger-ID, mein erstes eigenes Kennzeichen. Zeit also mir die Nummer auf meinen Unterarm zu tätowieren? Noch besser wäre natürlich ein kleiner RFID-Chip unter der Haut, oder ein kleines Schild am Ohr - in der Landwirtschaft wird das ganze ja schon seit einiger Zeit erfolgreich eingesetzt um Qualität und Ertrag zu steigern.
 
-[<img loading="lazy" class="alignnone" title="A Cow" src="http://farm3.static.flickr.com/2058/1846375599_f0190f706a.jpg" alt="" width="500" height="357" />](http://www.flickr.com/photos/publicenergy/1846375599/sizes/m/)
+[<img loading="lazy"  title="A Cow" src="http://farm3.static.flickr.com/2058/1846375599_f0190f706a.jpg" alt=""   />](http://www.flickr.com/photos/publicenergy/1846375599/sizes/m/)
 
 Mal Klartext: Auch wenn dem ein oder anderem Leser, biometrische Pässe, Steuernummern, Vorratsdatenspeicherung, Total-Überwacherung mit Kameras auf öffentlichen Plätzen, BKA-Gesetzte und die Möglichkeit personenbezogene Daten einfach so vom Einwohnermeldeamt abzufragen wie eine Bagatelle vorkommen - ich finde das bedenklich. Mir ist das ganze unheimlich und ich habe Angst davor.
 
@@ -29,7 +29,7 @@ Ich bin traurig, ich bin wütend, ich bin hilflos über das was in meinem Vaterl
 
 Ich mache mir Sorgen um Deutschland und inzwischen hat das ganze nichts mehr mit meiner persönlichen Paranoia zu tun. Der Überwachungsstaat wird in rasendem Tempo Realität, vor dem Hintergrund einer nicht existenten Gefahr durch den internationalen Terrorismus (vorsicht Buzzword). Mit kleinen Schritten werden unsere Verfassung ausgehölt und unsere Bürgerrechte mit Füßen getreten.
 
-<img loading="lazy" class="alignnone" title="STASI 2.0 Aktion in Berlin" src="http://farm1.static.flickr.com/208/484874958_60f0f3b2c4_o.jpg" alt="" width="500" height="315" />
+<img loading="lazy"  title="STASI 2.0 Aktion in Berlin" src="http://farm1.static.flickr.com/208/484874958_60f0f3b2c4_o.jpg" alt=""   />
 
 Für einen mehr als fragwürdigen Gewinn an Sicherheit, verliert das Volk seine Privatsphäre und lässt alles über sich ergehen, wie ein unmündiges Kind. Über die Folgen macht sich niemand Gedanken und über die Möglichkeiten, die eine lückelose Überwachung den falschen Leuten erschließen könnte.
 

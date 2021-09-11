@@ -23,7 +23,7 @@ tags:
 ---
 As I already mentioned: Recently I find no time to blog. I learn, read, code and tinker in my spare time.. So - why not share some of the best stuff i stumble upon? I proudly present the first weekly link catapult!
 
-<img loading="lazy" src="/assets/2012/02/catapult.jpeg" alt="" title="Catapult" width="606" height="494" />
+<img loading="lazy" src="/assets/2012/02/catapult.jpeg" alt="" title="Catapult"   />
 
 To come by these links I use [Fever&deg;](http://feedafever.com/), [Zite](http://zite.com/), [Twitter](https://twitter.com/), [Read It Later](http://readitlaterlist.com/) +  [Favs App Beta](http://www.aptgetupdate.de/2012/02/02/favs-app-alles-wichtige-an-einem-ort/)
 

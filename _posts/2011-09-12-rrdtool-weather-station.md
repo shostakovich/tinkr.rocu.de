@@ -103,7 +103,7 @@ But after a little while I managed to draw some basic graphs.
 
 ### The result
 
-<img loading="lazy" src="/assets/2011/09/zweather.jpg" alt="Graphs using RRDTool" title="zweather.jpg" border="0" width="600" height="400" />
+<img loading="lazy" src="/assets/2011/09/zweather.jpg" alt="Graphs using RRDTool" title="zweather.jpg" border="0"   />
 
 You can view the project on [GitHub](https://github.com/shostakovich/ZWeather). After I discovered rrdtool I dropped Rails and replaced it with Sinatra and Rake.
 

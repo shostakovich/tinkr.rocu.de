@@ -8,7 +8,7 @@ guid: http://tinkr.de/?page_id=63
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";i:70;s:11:"_thumb_type";s:10:"attachment";}'
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-70" title="zipfelmaus @ nokia 6100 lcd" src="/assets/2008/07/tricorder_platine_lcd_cut-300x233.jpg" alt="" width="300" height="233" />
+<img loading="lazy"  title="zipfelmaus @ nokia 6100 lcd" src="/assets/2008/07/tricorder_platine_lcd_cut-300x233.jpg" alt=""   />
 
 Upgrading your AVR-microcontroller with a graphical color lcd is much easier then you think. So here is what you&#8217;ll need:
 - the lcd: go to ebay and look for the Nokia 6100 LCD, note that there are two different version, one with a green pcb, the other with a brown one
@@ -23,7 +23,7 @@ It generates an .h-file from a bitmap, which you can easily include in your proj
 **Downloads:**
 [Bitmap to RGB8 Converter](/assets/2008/04/rgb2bmp.exe "Bitmap to RGB8 Converter")
 [bmp.h file](/assets/2008/07/bmp.h)
-[<img class="alignnone size-thumbnail wp-image-72" title="zm-test bitmap 132x132" src="/assets/2008/07/zm.bmp" alt="" />](/assets/2008/07/zm.bmp)
+[<img  title="zm-test bitmap 132x132" src="/assets/2008/07/zm.bmp" alt="" />](/assets/2008/07/zm.bmp)
 
 (please note: to run the converter program, you need the latest .net-runtime, also note the licence-file)
 

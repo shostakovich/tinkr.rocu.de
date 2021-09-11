@@ -35,7 +35,7 @@ tags:
   - Smooth Jazz
   - Stacey Kent
 ---
-<img loading="lazy" src="/assets/2009/06/breakfast_03.jpg" alt="breakfast_03" title="breakfast_03" width="240" height="240" class="alignleft size-full wp-image-817" srcset="/assets/2009/06/breakfast_03.jpg 240w, /assets/2009/06/breakfast_03-150x150.jpg 150w" sizes="(max-width: 240px) 100vw, 240px" />
+<img loading="lazy" src="/assets/2009/06/breakfast_03.jpg" alt="breakfast_03" title="breakfast_03"    srcset="/assets/2009/06/breakfast_03.jpg 240w, /assets/2009/06/breakfast_03-150x150.jpg 150w" sizes="(max-width: 240px) 100vw, 240px" />
 Normalerweise nutze ich die Nachmittage am Wochenende um mir Hörbücher anzuhören, allerdings erfordert das hören doch ein Gewisses maß an Aufmerksamkeit und hält mich von jeglicher Art geistiger Arbeit ab - deswegen beschloss ich mich auf die Suche nach neuer Lieblingsmusik zu begeben.
 
 Ich habe einen recht breiten Musikgeschmack, von Klassik über Jazz und Rock bis hin zu Electro ist eigentlich alles was sich gut anhört erlaubt. Da ist es natürlich ein ziemliches Problem sich für neue Musik zu entscheiden. Zum Glück gibt es da ja eine nette Hilfe in Itunes.

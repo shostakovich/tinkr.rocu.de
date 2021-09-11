@@ -29,10 +29,10 @@ I wanted to access protected or private methods of Objects from the outside, in 
 
 I took several approaches to the problem and I finally found a nice solution.
 
-<div id="attachment_2614" style="width: 650px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-2614" src="/assets/2011/10/2839948784_20a29a080e_z.jpg" title="Accessing protected stuff" width="606" />
+<div id="attachment_2614" style="width: 650px" >
+  <img aria-describedby="caption-attachment-2614" src="/assets/2011/10/2839948784_20a29a080e_z.jpg" title="Accessing protected stuff"  />
 
-  <p id="caption-attachment-2614" class="wp-caption-text">
+  <p id="caption-attachment-2614" >
     Bild "Canis Lupus" von Joriel "Joz" Jimenez (CC BY-NC-ND 2.0)
   </p>
 </div>

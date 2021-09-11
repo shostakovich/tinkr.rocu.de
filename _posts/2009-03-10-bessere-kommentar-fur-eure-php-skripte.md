@@ -49,7 +49,7 @@ Ein weiterer Vorteil ist das man mit phpDocumentor auch eine komplette und klick
 
 Aber lassen wir kurz mal den Code sprechen, damit ihr am Beispiel einer Datei aus einem beliebigen großen PHP-Projekt mal sehen könnt wie so etwas aussieht.
 
-<pre name="code" class="php">&lt; ?php
+<pre name="code" >&lt; ?php
 /**
  * Piwik - Open source web analytics
  *
@@ -80,7 +80,7 @@ Nützlich können ausserdem IDE's sein, die die phpDocumentor-Tags automatisch e
 
 ## Sonstige Konventionen
 
-Oft benutz und auch von vielen IDEs erkannt werden auch Kommentare wie:  
+Oft benutz und auch von vielen IDEs erkannt werden auch Kommentare wie:
 //@todo Eine bessere Lösung finden
 
 ## Man kann auch zu viel kommentieren!

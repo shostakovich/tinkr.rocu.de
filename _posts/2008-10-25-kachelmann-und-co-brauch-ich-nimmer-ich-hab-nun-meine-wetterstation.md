@@ -17,7 +17,7 @@ tags:
   - Solar
   - Wetterstation
 ---
-[<img loading="lazy" src="/assets/2008/10/wetterstat_jpg-223x300.jpg" alt="" title="Wetterstation" width="223" height="300" class="alignleft size-medium wp-image-153" />](/assets/2008/10/wetterstat_jpg.jpg)
+[<img loading="lazy" src="/assets/2008/10/wetterstat_jpg-223x300.jpg" alt="" title="Wetterstation"    />](/assets/2008/10/wetterstat_jpg.jpg)
 Ein wenig hat es schon gedauert, bis meine Wetterstation endlich komplett war. Schließlich steckt eine Menge deutsche Ingenieurskunst drinne.
 Nun funkt die Station mit ihrer Batterie an Sensoren die aktuellesten Wetterdaten von draußen in das traute Heim: Temperatur, Luftdruck, Helligkeit, Windgeschwindigkeit, Luftfeuchtigkeit und natürlich auch die aktuelle Uhrzeit, die ein DCF-77-Empfänger liefert.
 Und damit alles Bio und Öko ist, wird das Modul mit einer Solarzelle versorgt.

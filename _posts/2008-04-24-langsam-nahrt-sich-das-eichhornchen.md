@@ -26,7 +26,7 @@ tags:
 ---
 Auch wenn es nicht so aussieht, ich habe an den letzten Tagen einiges an Web 2.0 Du.de geschraubt. Vor allen Dingen habe ich mich mit der Optimierung vom Frontend befasst, damit das Blog in Zukunft schnell wie ein Blitz ausgeliefert werden kann.
 
-<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/stats/mint.jpg" width="434" height="280" alt="Foto: Statistikpanel von Mint" title="Mint" /> 
+<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/stats/mint.jpg"   alt="Foto: Statistikpanel von Mint" title="Mint" />
 
 Nebenbei habe ich nach einer geeigneten Möglichkeit gesucht meine Besucher auszuspionieren und mich am Ende doch wieder nur für Mint entschieden. Und das aus folgenden Gründen:
 

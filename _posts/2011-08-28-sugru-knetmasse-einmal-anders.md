@@ -34,7 +34,7 @@ Hierzu unsere kleine Anleitung:
 5. Sugru am gewünschten Objekt/Dingens anbringen
 6. mind. 1 Tag aushärten lassen und sich freuen
 
-<img loading="lazy" src="/assets/2011/08/sugru_strip.png" alt="" title="Sugru Bastelanleitung" width="606" height="772" class="alignnone size-full wp-image-2527" />
+<img loading="lazy" src="/assets/2011/08/sugru_strip.png" alt="" title="Sugru Bastelanleitung"    />
 
 Links:
 Instrunctions: <http://sugru.com/instructions>

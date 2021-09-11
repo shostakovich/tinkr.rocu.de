@@ -24,7 +24,7 @@ An diesem Wochenende war ich ziemlich fleißig:
 
 Einerseits habe ich endlich eine kleine Seite geschrieben, auf der man die aufgezeichneten Daten der Wetterstation betrachten kann.
 
-<img loading="lazy" src="/assets/2011/08/wetter.jpg" alt="" title="wetter" width="606" height="354" />
+<img loading="lazy" src="/assets/2011/08/wetter.jpg" alt="" title="wetter"   />
 
 Auf dieser Seite könnt ihr Temperatur, Luftdruck, Helligkeit, Spannung und Luftfeuchtigkeit der letzten 24 Stunden betrachten.
 
@@ -32,7 +32,7 @@ Was hier noch fehlt sind etwas ausgefeiltere Graphen und variable Zeiträume - a
 
 Die Seite ist übrigens auch [öffentlich zugänglich](http://rocu.dyndns.org:8080/).
 
-<img loading="lazy" src="/assets/2011/08/ethan.jpg" alt="" title="Ethan Entwicklung" width="606" height="477" />
+<img loading="lazy" src="/assets/2011/08/ethan.jpg" alt="" title="Ethan Entwicklung"   />
 
 Das zweite kleine neue Projekt heißt Ethan und ist in Coffeescript + NodeJs + node-xmpp geschrieben und mit Jasmine getestet.
 

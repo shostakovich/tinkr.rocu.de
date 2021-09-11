@@ -15,7 +15,7 @@ categories:
 ---
 Eigentlich ist es eine Frechheit, dass ich jeden Monat GEZ-Gebühren abdrücken muss - die Inhalte aber nur derart eingeschränkt und häufig nur für eine Woche im Internet zu finden sind. Hier schafft das kleine Programm <a href="http://appdrive.net/mediathek/" target="_blank">Mediathek</a> abhilfe.
 
-<img loading="lazy" class="alignnone size-full wp-image-1879" title="mediathek" src="/assets/2010/09/mediathek.jpg" alt="" width="606" height="384" />
+<img loading="lazy"  title="mediathek" src="/assets/2010/09/mediathek.jpg" alt=""   />
 
 Mediathek ist schlanke 693 kb groß und ermöglicht es nach Videos bei ARD, ZDF, 3sat, NDR, SWR, WDR, Arte und SF zu suchen und diese dann bequem zu downloaden. Ich benutze Mediathek seit einen Wochen regelmäßig.
 

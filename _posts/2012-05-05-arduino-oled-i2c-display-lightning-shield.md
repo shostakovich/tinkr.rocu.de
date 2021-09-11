@@ -32,7 +32,7 @@ Currently I&#8217;m working on two Arduino projects, both will upgrade my weathe
 
 ### OLED I2C display
 
-<img loading="lazy" src="/assets/2012/05/oled.jpg" alt="" title="I2C OLED" width="606" height="793" class="alignnone size-full wp-image-2840" />
+<img loading="lazy" src="/assets/2012/05/oled.jpg" alt="" title="I2C OLED"    />
 The OLED is connected to an Arduino Nano via I2C and it measures the current voltage of the solar powered batteries.
 The OLED display is available at [wide.hk](http://www.wide.hk/products.php?product=I2C-0.96%22-OLED-display-module-%28-compatible-Arduino-%29) for 16$.
 

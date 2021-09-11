@@ -19,7 +19,7 @@ tags:
 ---
 Heute ist auf der Fahrt mit einem ÖBB-Eurocity nach Darmstadt irgendwie alles schief gegangen, was schief gehen kann.
 
-<img loading="lazy" src="/assets/2009/09/oebb1.jpg" alt="oebb" title="oebb" width="606" height="455" />
+<img loading="lazy" src="/assets/2009/09/oebb1.jpg" alt="oebb" title="oebb"   />
 
 Der Zug fuhr in München mit 20min Verspätung ein. Die holte er natürlich bis nach Darmstadt nicht mehr auf. Statt dessen gab es noch einen Personenschaden zwischendurch in Heidelberg und vorher einen kleineren Notarzteinsatz in Stuttgart. Passiert halt, okay, muss man sich ja nicht drüber aufregen.
 Was eher schlimm war, das nur noch ein WC im ganzen Zug funktioniert hat, dass es dauernd Probleme mit einer Tür gab, die von alleine aufging und der Zug dauernd anhalten musste. So kenne ich nun auch den Bahnsteig von Amstetten zu genüge.

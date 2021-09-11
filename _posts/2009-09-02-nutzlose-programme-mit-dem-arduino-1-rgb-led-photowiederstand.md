@@ -33,9 +33,9 @@ Zum Ende hin habe ich etwas nutzloses (ok vielleicht auch nicht) gebaut, das ich
 
 Ich stelle vor: die welterste (ok ist sicher gelogen, aber zumindest meine erste) lichtsensitive RGB-LED.
 
-<img loading="lazy" src="/assets/2009/09/arduino_rgb.jpg" alt="arduino_rgb" title="arduino_rgb" width="606" height="455" class="alignnone size-full wp-image-1105" srcset="/assets/2009/09/arduino_rgb.jpg 606w, /assets/2009/09/arduino_rgb-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/09/arduino_rgb.jpg" alt="arduino_rgb" title="arduino_rgb"    srcset="/assets/2009/09/arduino_rgb.jpg 606w, /assets/2009/09/arduino_rgb-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
-[cpp]
+```
 /**
 * Kleines Programm zum steuern der Farbe einer RGB-LED mittels Lichtsensor
 * @see Angelehnt an Arduino / Physical Computing für Bastler, Designer & Geeks
@@ -154,4 +154,4 @@ analogWrite(portLedRot, intensity);
 break;
 }
 }
-[/cpp]
+```

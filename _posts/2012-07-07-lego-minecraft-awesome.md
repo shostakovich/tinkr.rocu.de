@@ -23,39 +23,19 @@ I finished assembling it today. What I like most about it, that it is made out o
 <div id='gallery-5' class='gallery galleryid-2922 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_9.jpg'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_9.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_9.jpg'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_9.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_8.jpg'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_8.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_8.jpg'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_8.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_7.jpg'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_7.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <br style="clear: both" />
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_6.jpg'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_6.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_5.jpg'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_5.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
-    </dt>
-  </dl>
-
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_4.jpg'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_4.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_7.jpg'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_7.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
@@ -63,13 +43,33 @@ I finished assembling it today. What I like most about it, that it is made out o
 
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_3.jpg'><img width="150" height="113" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_3.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_6.jpg'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_6.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_5.jpg'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_5.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_4.jpg'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_4.jpg"  alt="" loading="lazy" /></a>
+    </dt>
+  </dl>
+
+  <br style="clear: both" />
+
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_3.jpg'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_3.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_2.jpg'><img width="113" height="150" src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_2.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+      <a href='http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_2.jpg'><img   src="http://tinkrde.test.mug.im/wp-content/uploads/sites/7/2012/07/lego_minecraft_2.jpg"  alt="" loading="lazy" /></a>
     </dt>
   </dl>
 

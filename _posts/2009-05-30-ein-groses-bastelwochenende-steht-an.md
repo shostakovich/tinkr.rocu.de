@@ -31,9 +31,9 @@ Also hieß es zum Obi-Biber düsen und sich ein paar Holzleisten und MDF-Platten
 
 Vollbeladen vom hiesigen Obi-Supermarché machten nicht wenige Augen als ich den ganzen Kram auf meinem Fahrrad heimfuhr.
 
-<img loading="lazy" src="/assets/2009/05/fahrrad.jpg" alt="nicht mehr ganz vollbeladenes Fahrrad" title="nicht mehr ganz vollbeladenes Fahrrad" width="606" height="455" class="aligncenter size-full wp-image-617" srcset="/assets/2009/05/fahrrad.jpg 606w, /assets/2009/05/fahrrad-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2009/05/fahrrad.jpg" alt="nicht mehr ganz vollbeladenes Fahrrad" title="nicht mehr ganz vollbeladenes Fahrrad"    srcset="/assets/2009/05/fahrrad.jpg 606w, /assets/2009/05/fahrrad-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
-Recht rasch ging dann der Aufbau des Rahmens für die Leinwand und der Wandhalterung für den Beamer von statten.[<img loading="lazy" src="/assets/2009/05/basteln_sml.png" alt="Rahmen und Halterung für Beamer" title="Rahmen und Halterung für Beamer" width="606" height="152" class="aligncenter size-full wp-image-618" srcset="/assets/2009/05/basteln_sml.png 606w, /assets/2009/05/basteln_sml-300x75.png 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2009/05/basteln.png)
+Recht rasch ging dann der Aufbau des Rahmens für die Leinwand und der Wandhalterung für den Beamer von statten.[<img loading="lazy" src="/assets/2009/05/basteln_sml.png" alt="Rahmen und Halterung für Beamer" title="Rahmen und Halterung für Beamer"    srcset="/assets/2009/05/basteln_sml.png 606w, /assets/2009/05/basteln_sml-300x75.png 300w" sizes="(max-width: 606px) 100vw, 606px" />](/assets/2009/05/basteln.png)
 
 Nun warten wir nur noch auf die Lieferung des Stoffs für die Leinwand, dann kann es schon an die Montage gehen.
 

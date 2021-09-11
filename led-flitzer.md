@@ -10,29 +10,29 @@ tc-thumb-fld:
 ---
 (This article is also available in [english](http://tinkr.de/how-to-led-flitzer-english/))
 
-<img loading="lazy" class="alignnone size-full wp-image-1220" title="POV - tinkr.de" src="/assets/2009/09/led_flitzer_3.jpg" alt="POV - tinkr.de" width="606" height="404" srcset="/assets/2009/09/led_flitzer_3.jpg 606w, /assets/2009/09/led_flitzer_3-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy"  title="POV - tinkr.de" src="/assets/2009/09/led_flitzer_3.jpg" alt="POV - tinkr.de"   srcset="/assets/2009/09/led_flitzer_3.jpg 606w, /assets/2009/09/led_flitzer_3-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 ### Einleitung
 
 Beim LED-Flitzer handelt es sich um ein kleines, tragbares, batteriebetriebenes Spielzeug zum Darstellen von Wörtern mittels des „Persistence Of View“-Prinzips (Nachbildwirkung).
 Seine pfiffigen Extras wie USB-Schnittstelle und Beschleunigungssensor machen es zu einem interessanten Bastelprojekt für Zwischendurch.
 
-<img loading="lazy" class="alignnone size-full wp-image-1218" title="LED-Flitzer (Hardware)" src="/assets/2009/09/led_flitzer_1.jpg" alt="LED-Flitzer (Hardware)" width="606" height="404" srcset="/assets/2009/09/led_flitzer_1.jpg 606w, /assets/2009/09/led_flitzer_1-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy"  title="LED-Flitzer (Hardware)" src="/assets/2009/09/led_flitzer_1.jpg" alt="LED-Flitzer (Hardware)"   srcset="/assets/2009/09/led_flitzer_1.jpg 606w, /assets/2009/09/led_flitzer_1-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 ### Begriff POV – Persistence Of View
 
 „Persistence Of View“ zu Deutsch Nachbildwirkung, bezeichnet ein mangelhaftes zeitliches Auflösungsvermögen des menschlichen Auges. Sie wird erzeugt durch das Abklingen des Lichtreizes auf der Netzhaut, der für eine kurze Zeit nach seinem Ende nachwirkt. Bilder, die in genügend schneller Bildfrequenz aufeinanderfolgen, verschmelzen im Gehirn zu einer durchgehenden Bewegung. Dieses Prinzip ist somit die physiologische Grundlage des Films und des Fernsehens. (Quelle: wikipedia.de)
 
-<img loading="lazy" class="alignnone size-full wp-image-1219" title="POV" src="/assets/2009/09/led_flitzer_2.jpg" alt="POV" width="606" height="404" srcset="/assets/2009/09/led_flitzer_2.jpg 606w, /assets/2009/09/led_flitzer_2-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy"  title="POV" src="/assets/2009/09/led_flitzer_2.jpg" alt="POV"   srcset="/assets/2009/09/led_flitzer_2.jpg 606w, /assets/2009/09/led_flitzer_2-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 ### Funktionsprinzip
 
 Die Nachbildwirkung wird mit acht nebeneinander platzierten hellen LEDs erzeugt, die mit einem sehr kurzen, gleichbleibenden Zeittakt (~ 3ms) angesteuert werden. Zusätzlich muss die Platine dabei bewegt werden, damit der gewünschte Eindruck im Auge erzeugt wird (z.B. an den Fuß geschnallt beim Laufen oder Tanzen oder in der Hand beim Winken).
 Für den LED-Flitzer existiert eine Font-lib mit Großbuchstaben. Jeder einzelne Buchstabe benötigt zwischen einem bis fünf LED-Takte. Das Auge kann beim LED-Flitzer etwa Wörter mit bis zu fünf Buchstaben gut erkennen. Längere Wörter können zwar programmiert werden, eignen sich aber nur für Langzeitbelichtungen mit dem Fotoaparat, da der Effekt bei längere Wörtern nicht zustande kommt.
 
-<img loading="lazy" class="alignnone size-full wp-image-1221" title="LED-Flitzer im Außeneinsatz 1" src="/assets/2009/09/led_flitzer_aussen1.jpg" alt="LED-Flitzer im Außeneinsatz 1" width="606" height="404" srcset="/assets/2009/09/led_flitzer_aussen1.jpg 606w, /assets/2009/09/led_flitzer_aussen1-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy"  title="LED-Flitzer im Außeneinsatz 1" src="/assets/2009/09/led_flitzer_aussen1.jpg" alt="LED-Flitzer im Außeneinsatz 1"   srcset="/assets/2009/09/led_flitzer_aussen1.jpg 606w, /assets/2009/09/led_flitzer_aussen1-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
-<img loading="lazy" class="alignnone size-full wp-image-1222" title="LED-Flitzer im Außeneinsatz 1" src="/assets/2009/09/led_flitzer_aussen2.jpg" alt="LED-Flitzer im Außeneinsatz 1" width="606" height="404" srcset="/assets/2009/09/led_flitzer_aussen2.jpg 606w, /assets/2009/09/led_flitzer_aussen2-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy"  title="LED-Flitzer im Außeneinsatz 1" src="/assets/2009/09/led_flitzer_aussen2.jpg" alt="LED-Flitzer im Außeneinsatz 1"   srcset="/assets/2009/09/led_flitzer_aussen2.jpg 606w, /assets/2009/09/led_flitzer_aussen2-300x200.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 ### Projektumfang
 
@@ -68,7 +68,7 @@ Dieser Baustein liegt leider nur in einem QFN16-Gehäuse vor, was das Löten zu 
 
 Bestückung
 Zur Veranschaulichung der Bestückung gibt es hier je ein Bild von der Bestückungs- und von der Lötseite der Platine:
-[<img loading="lazy" src="/assets/2009/10/led\_flitzer\_bestueckung\_bs\_sml.jpg" alt="" title=Bestückungsseite LED-Flitzer" width="120" height="90" class="alignnone size-full wp-image-2080" />](/assets/2009/10/led_flitzer_bestueckung_bs.jpg) [<img src="/assets/2009/10/led_flitzer_bestueckung_ls_sml.jpg" alt="Lötseite" title="led_flitzer_bestueckung_ls_sml" class="alignnone size-full wp-image-2082" />](/assets/2009/10/led_flitzer_bestueckung_ls.jpg)
+[<img loading="lazy" src="/assets/2009/10/led\_flitzer\_bestueckung\_bs\_sml.jpg" alt="" title=Bestückungsseite LED-Flitzer"    />](/assets/2009/10/led_flitzer_bestueckung_bs.jpg) [<img src="/assets/2009/10/led_flitzer_bestueckung_ls_sml.jpg" alt="Lötseite" title="led_flitzer_bestueckung_ls_sml"  />](/assets/2009/10/led_flitzer_bestueckung_ls.jpg)
 
 ### Komponenten:
 
@@ -91,7 +91,7 @@ Im 3ms-Timer findet schließlich die Ansteuerung der LEDs statt.
 PC
 Für den PC gibt es ein kleines Tool in C#. Mit dem man über USB neue Texte auf den LED-Flitzer übertragen kann.
 
-<img loading="lazy" class="alignnone size-full wp-image-1217" title="GUI-Tool zum Upload neuer Texte" src="/assets/2009/09/GUI_tool.png" alt="GUI-Tool zum Upload neuer Texte" width="300" height="300" srcset="/assets/2009/09/GUI_tool.png 300w, /assets/2009/09/GUI_tool-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" />
+<img loading="lazy"  title="GUI-Tool zum Upload neuer Texte" src="/assets/2009/09/GUI_tool.png" alt="GUI-Tool zum Upload neuer Texte"   srcset="/assets/2009/09/GUI_tool.png 300w, /assets/2009/09/GUI_tool-150x150.png 150w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Ablauf Übertragen neuer Text-Messages
 1.Power Off

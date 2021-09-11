@@ -16,10 +16,10 @@ tags:
   - Raspberry Pi
   - Raspberry Pi 2
 ---
-<div id="attachment_3643" style="width: 538px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3643" loading="lazy" src="/assets/2015/02/raspberry_pi_2.jpg" alt="Raspberry Pi 2" width="528" height="609" class="size-full wp-image-3643" />
+<div id="attachment_3643" style="width: 538px" >
+  <img aria-describedby="caption-attachment-3643" loading="lazy" src="/assets/2015/02/raspberry_pi_2.jpg" alt="Raspberry Pi 2"    />
 
-  <p id="caption-attachment-3643" class="wp-caption-text">
+  <p id="caption-attachment-3643" >
     Raspberry Pi 2
   </p>
 </div>

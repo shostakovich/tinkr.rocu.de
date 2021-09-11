@@ -41,7 +41,7 @@ I added a couple of features:
 
 ### Wiring
 
-<img loading="lazy" src="/assets/2012/09/solar_usb_charger_05.jpg" alt="" title="wiring usb charger" width="606" height="455" class="alignnone size-full wp-image-2992" />
+<img loading="lazy" src="/assets/2012/09/solar_usb_charger_05.jpg" alt="" title="wiring usb charger"    />
 Wiring all boards together is fairly simple:
 
 OLED-I2C-display is connected to the I2C (SDA and SCL) and voltage pins (5V and GND) of the Arduino Nano.
@@ -56,7 +56,7 @@ A switch connects the 5V power supply from the DC/DC converter to the Arduino 5V
 The Arduino measures two voltages with it&#8217;s ADC, the first one is the solar battery voltage (nominal 12V DC) and the second voltage comes from the current sense amplifier. It represents the current flowing into the DC/DC converter (12V to 5V).
 After measuring both voltages, they are used to calculate the solar battery voltage and the current. Both values are then displayed on the OLED display.
 
-[cpp]
+```
 //==========================================================//
 //&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-WWW.WIDE.HK&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-//
 //&#8212;-i2c OLED example&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-//
@@ -235,7 +235,7 @@ delay(50);
 
 }
 
-[/cpp]
+```
 
 ### Mechanics
 
@@ -245,9 +245,9 @@ The 3D part for the OLED display can be found here:
 
 After printing the part, I glued the switch and the oled display into the part with silicone glue.
 
-<img loading="lazy" src="/assets/2012/09/solar_usb_charger_02.jpg" alt="" title="3d printed part" width="606" height="529" class="alignnone size-full wp-image-2995" />
-<img loading="lazy" src="/assets/2012/09/solar_usb_charger_03.jpg" alt="" title="mounting the printed part to the enclosure" width="606" height="808" />
-<img loading="lazy" src="/assets/2012/09/solar_usb_charger_04.jpg" alt="" title="finished enclosure" width="606" height="706" />
+<img loading="lazy" src="/assets/2012/09/solar_usb_charger_02.jpg" alt="" title="3d printed part"    />
+<img loading="lazy" src="/assets/2012/09/solar_usb_charger_03.jpg" alt="" title="mounting the printed part to the enclosure"   />
+<img loading="lazy" src="/assets/2012/09/solar_usb_charger_04.jpg" alt="" title="finished enclosure"   />
 
 ### In operation
 

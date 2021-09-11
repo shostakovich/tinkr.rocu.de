@@ -16,7 +16,7 @@ tags:
   - Überweisung
 ---
 Neulich habe ich mir online was bestellt. Hipp und cool wie ich bin, hab ich mir das ganze an die Packstation schicken lassen, schließlich will ich mich ja nicht 30min in die Schlange der hiesigen Post stellen.
-<img loading="lazy" src="/assets/2008/05/packstation-300x295.jpg" alt="Packstation" title="packstation" width="300" height="295" class="alignnone size-medium wp-image-50" />
+<img loading="lazy" src="/assets/2008/05/packstation-300x295.jpg" alt="Packstation" title="packstation"    />
 Tja nur doof, dass ich in meine Postnummer, die mich an der Packstation identifiziert, einen Zahlendreher eingebaut hatte. Von da an nahm das Unglück seinen Lauf. Jemand mit meiner verdrehten Nummer nahm das Paket in Empfang. Was nun damit geschehen ist, weiß ich nicht, da nur der Absender bei solchen Problemen mit der Post in Kontakt treten kann.
 Schon doof, dass man hier z.B. keine Checksumme einbaut, die einen vor Zahlendrehern bewahrt.
 

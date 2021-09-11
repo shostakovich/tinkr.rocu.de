@@ -22,38 +22,38 @@ tags:
 ---
 During my last vacation my umbrella got broke again. Ordinary people would throw it away, but I wanted to fix it.
 
-<div id="attachment_3333" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3333" loading="lazy" src="/assets/2013/05/umbrella_broken.jpg" alt="broken umbrella " width="606" height="357" class="size-full wp-image-3333" />
+<div id="attachment_3333" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3333" loading="lazy" src="/assets/2013/05/umbrella_broken.jpg" alt="broken umbrella "    />
 
-  <p id="caption-attachment-3333" class="wp-caption-text">
+  <p id="caption-attachment-3333" >
     broken umbrella
   </p>
 </div>
 
 Back home a printed a small tube with my 3D printer. This tube is just fitting over the small broken part.
 
-<div id="attachment_3335" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3335" loading="lazy" src="/assets/2013/05/umbrella_broken_tube.jpg" alt="tube " width="606" height="302" class="size-full wp-image-3335" />
+<div id="attachment_3335" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3335" loading="lazy" src="/assets/2013/05/umbrella_broken_tube.jpg" alt="tube "    />
 
-  <p id="caption-attachment-3335" class="wp-caption-text">
+  <p id="caption-attachment-3335" >
     tube
   </p>
 </div>
 
-<div id="attachment_3336" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3336" loading="lazy" src="/assets/2013/05/umbrella_broken_tube_mounted.jpg" alt="repaired umbrella" width="606" height="339" class="size-full wp-image-3336" />
+<div id="attachment_3336" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3336" loading="lazy" src="/assets/2013/05/umbrella_broken_tube_mounted.jpg" alt="repaired umbrella"    />
 
-  <p id="caption-attachment-3336" class="wp-caption-text">
+  <p id="caption-attachment-3336" >
     repaired umbrella
   </p>
 </div>
 
 With some glue it should work till the next rain storm in NYC.
 
-<div id="attachment_3337" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3337" loading="lazy" src="/assets/2013/05/umbrella_fixed.jpg" alt="and done" width="606" height="473" class="size-full wp-image-3337" />
+<div id="attachment_3337" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3337" loading="lazy" src="/assets/2013/05/umbrella_fixed.jpg" alt="and done"    />
 
-  <p id="caption-attachment-3337" class="wp-caption-text">
+  <p id="caption-attachment-3337" >
     and done
   </p>
 </div>

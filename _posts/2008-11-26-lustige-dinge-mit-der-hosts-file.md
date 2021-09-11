@@ -30,7 +30,7 @@ Diese Datei kommt aus einer Zeit, wo es das DNS-System noch nicht gab und enthie
 
 In diesem kleinen Blogpost möchte ich euch zeigen, dass sich mit dieser Datei neben kurzen Aliasen für Domains auch noch ganz andere sinnvolle Dinge anstellen lassen, die im Repertoire eines jeden Hobbywebmasters sein sollten.
 
-[<img loading="lazy" class="alignnone" title="Transcam / CC" src="http://cdn.cloudfiles.mosso.com/c4101/081126_hosts.png" alt="" width="606" height="477" />](http://www.flickr.com/photos/transkamp/54371294/)
+[<img loading="lazy"  title="Transcam / CC" src="http://cdn.cloudfiles.mosso.com/c4101/081126_hosts.png" alt=""   />](http://www.flickr.com/photos/transkamp/54371294/)
 
 ## Tipp 1: Kurzalias mit der Hostfile
 

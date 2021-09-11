@@ -19,6 +19,6 @@ tags:
   - Moodlamp
   - Papier
 ---
-<img loading="lazy" class="alignnone size-medium wp-image-183" title="Lampen-Ball" src="/assets/2009/01/dsc00018_sml-300x225.jpg" alt="Lampen-Ball" width="300" height="225" />
+<img loading="lazy"  title="Lampen-Ball" src="/assets/2009/01/dsc00018_sml-300x225.jpg" alt="Lampen-Ball"   />
 
 Eine neue Lampe solls diesmal wieder fürs Wohnzimmer sein. Natürlich eine Moodlamp, denn das ist ja gerade en-vogue äh IN heißt das jetzt. Einen ersten Prototyp hab ich eben gebastelt. Die Hülle soll dieses Mal aus Papier sein und in einer möglichst runden Form.

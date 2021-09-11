@@ -15,7 +15,7 @@ tags:
   - ESA
   - Hubble
 ---
-[<img loading="lazy" src="/assets/2008/05/hubblecast-300x191.png" alt="" title="hubblecast" width="300" height="191" class="alignnone size-medium wp-image-47" />](/assets/2008/05/hubblecast.png)
+[<img loading="lazy" src="/assets/2008/05/hubblecast-300x191.png" alt="" title="hubblecast"    />](/assets/2008/05/hubblecast.png)
 
 Na toll, nun hat mir die Robbe ein Stöckchen zugeworfen. Stöckchen? Nein nicht das Hündestöckchen, sondern so eine Art Staffellaufstöckchen. Das zwingt äh motiviert mich nun, einen Artikel über Eurodance zu schreiben.
 Aber eigentlich wollte ich an dieser Stelle den tollen Hubblecast der ESA lobpreisen. In diesem Podcast stellt der nette Dr. J. jeden Monat tolle Entdeckungen des Hubble Teleskopes vor. Und das ganze auch noch in HD oder Full HD und dann auch noch umsonst, äh gratis.*

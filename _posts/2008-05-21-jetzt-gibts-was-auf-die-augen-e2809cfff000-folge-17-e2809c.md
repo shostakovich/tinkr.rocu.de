@@ -18,7 +18,7 @@ tags:
 ---
 [FFF000](http://fff000.yigg.de/ "FFF000") Folge 17 - Der barrierefreie und websichere YiGG-Podcast ist heute morgen erschienen. Seitdem ich Hannover und das Team um FFF000 verlassen habe, ist der Podcast regelrechte mutiert zu einer kleinen semiprofessionellen Produktion mit mehreren Kameraperspektiven und Außendrehs. Ich finde es beachtlich, dass die Jungs so viel Freizeit opfern um den Podcast auf die Beine zu stellen.
 
-<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/sonstiges/fff000_logo.png" alt="Die FFF000-Jungs" width="434" height="298" />
+<img loading="lazy" src="http://www.rocket-turtle.de/images/uploads/sonstiges/fff000_logo.png" alt="Die FFF000-Jungs"   />
 
 Nach der letzten Folge, war das [FFF000](http://fff000.yigg.de/ "FFF000")-Team um Jasper, Herschel und Nils jedoch ziemlich demotiviert - noch nicht mal auf die Startseite hatte man es auf YiGG geschafft und es gab nur wenige Kommentare. Ich finde das angesichts der recht breiten YiGG-Leserschaft sehr schade. Es ist mitnichten so, dass die Jungs von YiGG Geld für den Podcast erhalten und ich kann aus eigener Erfahrung sagen, wie blöd man sich fühlt, wenn man ganze Tage in die (Post)produktion eines Podcasts steckt und kein Feedback bekommt.
 

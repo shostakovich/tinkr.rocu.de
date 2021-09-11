@@ -29,7 +29,7 @@ Ihr werdet euch Fragen: Was zum Teufel ist ein Nabaztag? Hier ein Zitat von der 
 
 Hier also mal ein Bild von dem Funkhasen, damit ihr eine grobe Vorstellung davon bekommt, wie so etwas aussieht.
 
-<img loading="lazy" class="alignnone" title="Mein Nabaztag Helmi." src="http://webdude.cachefly.net/images/uploads/electronics/nabaztag.jpg" alt="" width="500" height="375" />
+<img loading="lazy"  title="Mein Nabaztag Helmi." src="http://webdude.cachefly.net/images/uploads/electronics/nabaztag.jpg" alt=""   />
 
 Der Hase braucht daher WLAN, weil er einem Podcasts und Radio vorspielt, E-Mails und RSS-Feeds vorliest oder einen zur rechten Zeit weckt.
 

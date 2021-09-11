@@ -27,18 +27,18 @@ In this article I will show you, how easy it is to sense a magnetic field with a
 
 All we need is a hall sensor, two capacitors, one resistor and some wires and of course an Arduino and a magnet.
 
-<img loading="lazy" src="/assets/2010/09/hall_sensor_arduino.jpg" alt="" title="Arduino - hall sensor test setup" width="606" height="455" class="alignnone size-full wp-image-1816" />
+<img loading="lazy" src="/assets/2010/09/hall_sensor_arduino.jpg" alt="" title="Arduino - hall sensor test setup"    />
 
 I chose the MLX90248ESE [[datasheet](http://www.melexis.com/Asset/MLX90248_DataSheet_DownloadLink_4764.aspx)] from Melexis. Since it senses an omnipolar magnetic field, we don&#8217;t need to care about, where the north and where the south pole on our magnet is.
 
 Let&#8217;s take a look on the schematic that can be found in the datasheet:
-<img loading="lazy" src="/assets/2010/09/hall_sensor_melexis.png" alt="" title="hall sensor schematic" width="498" height="251" class="aligncenter size-full wp-image-1817" />
+<img loading="lazy" src="/assets/2010/09/hall_sensor_melexis.png" alt="" title="hall sensor schematic"    />
 Source: Melexis
 
 In order not to need an additional prototyping shield for soldering the two capacitors and resistor, I soldered them directly on the sensor itself. It&#8217;s kind of tricky, but if you have a certain soldering experience you will get it, otherwise use a prototyping shild instead.
 **Please mind, that you should use the 3.3V supply instead of the 5V for powering the sensor.**
 
-<img loading="lazy" src="/assets/2010/09/hall_sensor_melexis_package2.jpg" alt="" title="Hall-sensor with capacitors and resistor" width="606" height="455" class="aligncenter size-full wp-image-1825" />
+<img loading="lazy" src="/assets/2010/09/hall_sensor_melexis_package2.jpg" alt="" title="Hall-sensor with capacitors and resistor"    />
 
 # Code:
 

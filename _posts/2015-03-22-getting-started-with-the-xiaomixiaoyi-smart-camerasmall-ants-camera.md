@@ -25,10 +25,10 @@ tags:
 ---
 Last weekend I received my Xiaomi/XIAOYI Smart Camera/small ants camera (I am a little confused what the real official name is, since it has also a YI on the box, and I thought that the Yi is more a kind of a GoPro camera). It is a nice inexpensive WiFi camera, that is similar to the Dropcam, but much less expensive. I paid around 38$ including shipping.
 
-<div id="attachment_3679" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3679" loading="lazy" class="size-full wp-image-3679" src="/assets/2015/03/yi_cam_03.jpg" alt="Yi Cam" width="606" height="384" />
+<div id="attachment_3679" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3679" loading="lazy"  src="/assets/2015/03/yi_cam_03.jpg" alt="Yi Cam"   />
 
-  <p id="caption-attachment-3679" class="wp-caption-text">
+  <p id="caption-attachment-3679" >
     Yi Cam
   </p>
 </div>
@@ -44,26 +44,26 @@ other specs:
 
 &nbsp;
 
-<div id="attachment_3681" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3681" loading="lazy" class="size-full wp-image-3681" src="/assets/2015/03/yi_cam_05.jpg" alt="Yi Cam - Screenshot 1" width="606" height="341" />
+<div id="attachment_3681" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3681" loading="lazy"  src="/assets/2015/03/yi_cam_05.jpg" alt="Yi Cam - Screenshot 1"   />
 
-  <p id="caption-attachment-3681" class="wp-caption-text">
+  <p id="caption-attachment-3681" >
     Yi Cam - Screenshot 1
   </p>
 </div>
 
-<div id="attachment_3680" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3680" loading="lazy" class="size-full wp-image-3680" src="/assets/2015/03/yi_cam_04.jpg" alt="Yi Cam - Screenshot 2" width="606" height="1077" srcset="/assets/2015/03/yi_cam_04.jpg 606w, /assets/2015/03/yi_cam_04-576x1024.jpg 576w" sizes="(max-width: 606px) 100vw, 606px" />
+<div id="attachment_3680" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3680" loading="lazy"  src="/assets/2015/03/yi_cam_04.jpg" alt="Yi Cam - Screenshot 2"   srcset="/assets/2015/03/yi_cam_04.jpg 606w, /assets/2015/03/yi_cam_04-576x1024.jpg 576w" sizes="(max-width: 606px) 100vw, 606px" />
 
-  <p id="caption-attachment-3680" class="wp-caption-text">
+  <p id="caption-attachment-3680" >
     Yi Cam - Screenshot 2
   </p>
 </div>
 
-<div id="attachment_3678" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3678" loading="lazy" class="size-full wp-image-3678" src="/assets/2015/03/yi_cam_01.jpg" alt="Yi Cam - Screenshot 3" width="606" height="341" />
+<div id="attachment_3678" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3678" loading="lazy"  src="/assets/2015/03/yi_cam_01.jpg" alt="Yi Cam - Screenshot 3"   />
 
-  <p id="caption-attachment-3678" class="wp-caption-text">
+  <p id="caption-attachment-3678" >
     Yi Cam - Screenshot 3
   </p>
 </div>
@@ -86,10 +86,10 @@ Let us assume you have, just like me, a protected WiFi. And there are no other o
 
 ### VLC-Player
 
-<div id="attachment_3677" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3677" loading="lazy" class="size-full wp-image-3677" src="/assets/2015/03/network_scanner.jpg" alt="Network Scan Tool" width="606" height="446" />
+<div id="attachment_3677" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3677" loading="lazy"  src="/assets/2015/03/network_scanner.jpg" alt="Network Scan Tool"   />
 
-  <p id="caption-attachment-3677" class="wp-caption-text">
+  <p id="caption-attachment-3677" >
     Network Scan Tool
   </p>
 </div>

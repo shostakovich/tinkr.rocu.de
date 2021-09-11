@@ -19,7 +19,7 @@ tags:
 ---
 Ok. Nein ich lache nicht. Ich freue mich das es andersdenkende Menschen gibt und das jedes Deckelchen seinen Topf findet - aber seinen Partner an den Essvorlieben festmachen?
 
-<embed width="606" height="526" type="application/x-shockwave-flash" quality="best" scale="exactfit" src="http://www.polylog.tv/static/modVideocast/videoPlayer.swf" flashvars="v=http%3A%2F%2Fwww.polylog.tv%2Fstatic%2Fsites%2Fvideothek%2Fmedia%2FGreenDating.mp4.flv&#038;i=http://www.polylog.tv/static/sites/videothek/media/Ginster-sucht-Lotusblume-Green-Dating-im-Internet-.thema.jpg">
+<embed   type="application/x-shockwave-flash" quality="best" scale="exactfit" src="http://www.polylog.tv/static/modVideocast/videoPlayer.swf" flashvars="v=http%3A%2F%2Fwww.polylog.tv%2Fstatic%2Fsites%2Fvideothek%2Fmedia%2FGreenDating.mp4.flv&#038;i=http://www.polylog.tv/static/sites/videothek/media/Ginster-sucht-Lotusblume-Green-Dating-im-Internet-.thema.jpg">
 </embed>
 
 

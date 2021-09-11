@@ -8,13 +8,13 @@ guid: http://tinkr.de/?page_id=137
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";i:725;s:11:"_thumb_type";s:10:"attachment";}'
 ---
-<img loading="lazy" src="http://c0724452.cdn.cloudfiles.rackspacecloud.com/wetterstat_jpg.jpg" alt="" title="Wetterstation" width="480" height="643" class="alignnone size-full wp-image-153" />
+<img loading="lazy" src="http://c0724452.cdn.cloudfiles.rackspacecloud.com/wetterstat_jpg.jpg" alt="" title="Wetterstation"    />
 
 ## Einführung
 
 Im Conrad und Co. werden mit vielen bunten Bildchen Wetterstationen noch und nöcher feilgeboten. Doch die meisten haben einen gravierenden Nachteil, sie zeigen ihre Daten nur auf einem popeligen kleinen Displays an und für tolle Aufzeichnungen über längere Zeiträume (Jahreszeiten oder gar Jahre) ischt des nix gescheits, auch ist die Funk-Datenschnittstelle nicht so wirklich offengelegt.
 
-<img loading="lazy" src="/assets/2008/09/wetterstation.jpg" alt="" title="Wetterstation 2.0" width="500" height="366" class="alignnone size-full wp-image-138" />
+<img loading="lazy" src="/assets/2008/09/wetterstation.jpg" alt="" title="Wetterstation 2.0"    />
 
 Drum wärs doch geschickt, des mal richtig zumachen. Aber was soll Sie denn nun alles können, die liebe Wetterstation und wie misst sie den jeweilien Wert?
 
@@ -44,7 +44,7 @@ Zur Stromversorgung verwende ich eine 10W-Solarzelle mit Regler und Gel-Bleiakku
 
 Das nachfolgende Bild stellt die Wetterstation als Blockschaltbild dar.
 
-<img loading="lazy" src="http://c0724432.cdn.cloudfiles.rackspacecloud.com/weatherstation_overview.png" alt="" title="Wetterstation Übersicht" width="300" height="212" class="alignnone size-medium wp-image-101" />
+<img loading="lazy" src="http://c0724432.cdn.cloudfiles.rackspacecloud.com/weatherstation_overview.png" alt="" title="Wetterstation Übersicht"    />
 
 </br>
 
@@ -92,9 +92,9 @@ Ein zweites Panel sollte nun für genügend Leistung, auch bei weniger hellen Pe
 
 ## Update Juni 2009
 
-<img loading="lazy" src="/assets/2008/08/wetterstation_2_panels.jpg" alt="Wetterstation mit 2 Solarpanels" title="Wetterstation mit 2 Solarpanels" width="606" height="485" class="alignnone size-full wp-image-725" srcset="/assets/2008/08/wetterstation_2_panels.jpg 606w, /assets/2008/08/wetterstation_2_panels-300x240.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2008/08/wetterstation_2_panels.jpg" alt="Wetterstation mit 2 Solarpanels" title="Wetterstation mit 2 Solarpanels"    srcset="/assets/2008/08/wetterstation_2_panels.jpg 606w, /assets/2008/08/wetterstation_2_panels-300x240.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 
 Nun wurde ein zweites Solarpanel installiert. Hierzu mussten einige Umbaumaßnahmen getroffen werden: die Batterie-Box brauchte noch eine Kabelverschraubung, der Mast noch einen breiteren Ausleger um ein zweites Panel aufnehmen zu können.
 
-<img loading="lazy" src="/assets/2008/08/wetterstation_box.jpg" alt="Wetterstation Batteriebox" title="Wetterstation Batteriebox" width="606" height="455" class="alignnone size-full wp-image-723" srcset="/assets/2008/08/wetterstation_box.jpg 606w, /assets/2008/08/wetterstation_box-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2008/08/wetterstation_box.jpg" alt="Wetterstation Batteriebox" title="Wetterstation Batteriebox"    srcset="/assets/2008/08/wetterstation_box.jpg 606w, /assets/2008/08/wetterstation_box-300x225.jpg 300w" sizes="(max-width: 606px) 100vw, 606px" />
 Nun zeigt das Multimeter auch Traumwerte am Bleiakku an.

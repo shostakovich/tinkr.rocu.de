@@ -26,16 +26,16 @@ I&#8217;m using the Arduino in 24/7 mode in my weather station. For unknow reaso
 Adding this functionality is fairly simple.
 
 1. you need to include the wdt.h File:
-[cpp]#include <avr/wdt.h>[/cpp]
+```#include <avr/wdt.h>```
 
 2. in the setup routine you add:
-[cpp]wdt\_enable(WDTO\_2S);[/cpp]
+```wdt\_enable(WDTO\_2S);```
 WDT0_2S means, that the time out is 2s. so you have to reset the watch-dog within that period, otherwise it will reset the complete Arduino microcontroller.
 
 other values are also possible: 15 ms, 30 ms, 60 ms, 120 ms, 250 ms, 500 ms, 1 s, 2 s, 4 and 8 s.
 
 3. in the loop routine you add:
-[cpp]wdt_reset(); [/cpp]
+```wdt_reset(); ```
 to reset the watch-dog timer within the watch-dog timeout.
 
 see also: <http://tushev.org/articles/electronics/48-arduino-and-watchdog-timer> for more information.

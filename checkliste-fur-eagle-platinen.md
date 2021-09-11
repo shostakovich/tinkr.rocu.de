@@ -19,13 +19,13 @@ leicht übersieht man, dass die Bohrung in der normalen Board-Ansicht nur als Be
 ##### - Signalpins:
 
 Oft scheint ein Signal richtig verbunden zu sein und taucht trotzdem nur einmal (statt zweimal) in der Netzliste auf (linke Hälfte der Abb.). Darum immer mit dem SHOW Befehl prüfen, ob auch der Pin rot-aufleuchtet und verbunden ist (rechte Hälfte der Abb.).
-<img loading="lazy" src="/assets/2008/08/eagle2_sml-300x91.png" alt="" title="Signal an Pin" width="300" height="91" class="alignnone size-medium wp-image-96" />
+<img loading="lazy" src="/assets/2008/08/eagle2_sml-300x91.png" alt="" title="Signal an Pin"    />
 
 
 
 ##### - Copy&Paste:
 
 Wer viel Strg+C und Strg+V in Eagle einsätz, sollte man besonders vorsichtig sein, was die Signalbezeichnung betrifft. Eagle inkrementiert standardmäßig die Bezeichnungen der Signale. So wird aus dem kopierten Signal\_X -> Signal\_X1. Setze daher nach dem Einfügen der kopierten Signale/Bauteile mit dem Befehl NAME den Signalnamen auf den alten Wert zurück, wenn die beiden Signale verbunden bleiben sollen. Die Nachfolgende Abbildung zeigt das Problem:
-[<img loading="lazy" src="/assets/2008/08/eagle1_sml-300x152.png" alt="" title="Copy&#038;Paste" width="300" height="152" class="alignnone size-medium wp-image-97" />](/assets/2008/08/eagle1_sml.png)
+[<img loading="lazy" src="/assets/2008/08/eagle1_sml-300x152.png" alt="" title="Copy&#038;Paste"    />](/assets/2008/08/eagle1_sml.png)
 
 Wenn du noch andere Punkte kennst, die auch in diese Liste gehören, dann schreib sie einfach in einen Kommentar zu dieser Seite.

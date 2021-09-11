@@ -22,10 +22,10 @@ tags:
 ---
 Headlines with _IOT_ or the _Internet of Things_ can be found everywhere. I was curious too. So I ordered TIs _CC3200 LaunchPad_ - an interesting IOT platform.
 
-<div id="attachment_3650" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3650" loading="lazy" src="/assets/2015/03/cc3200_launchpad.jpg" alt="CC3200 Launchpad" width="606" height="367" class="size-full wp-image-3650" />
+<div id="attachment_3650" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3650" loading="lazy" src="/assets/2015/03/cc3200_launchpad.jpg" alt="CC3200 Launchpad"    />
 
-  <p id="caption-attachment-3650" class="wp-caption-text">
+  <p id="caption-attachment-3650" >
     CC3200 Launchpad
   </p>
 </div>
@@ -39,10 +39,10 @@ The other issue is the SOP2 header, you have to attach and de-attach it during t
 
 Finally after a few hours I finally got it running. Now I can monitor the boards temperature, set an LED and see if the boards accelerometer has been triggered.
 
-<div id="attachment_3652" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3652" loading="lazy" src="/assets/2015/03/exosite_iot.jpg" alt="Exosite IOT website" width="606" height="498" class="size-full wp-image-3652" />
+<div id="attachment_3652" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3652" loading="lazy" src="/assets/2015/03/exosite_iot.jpg" alt="Exosite IOT website"    />
 
-  <p id="caption-attachment-3652" class="wp-caption-text">
+  <p id="caption-attachment-3652" >
     Exosite IOT website
   </p>
 </div>

@@ -35,10 +35,10 @@ After receiving the Flykly wheel, only with one year delay, I was very eager to 
 
 First of all, the guys were totally ignorant to research the situation with the common bike tracks. As far as I know, geared bikes usually have little smaller tracks then single speed bikes. So my bike didn&#8217;t work with the Flykly, the track was falling off when I was trying to take a ride with my modified bike. The Flykly-wheel seems to be designed especially for singled speed bikes, demanding a bigger sized track.
 
-<div id="attachment_3735" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3735" loading="lazy" class="size-full wp-image-3735" src="/assets/2015/05/flykly_mounted.jpg" alt="Flykly mounted on my bike, track does not fit" width="606" height="341" />
+<div id="attachment_3735" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3735" loading="lazy"  src="/assets/2015/05/flykly_mounted.jpg" alt="Flykly mounted on my bike, track does not fit"   />
 
-  <p id="caption-attachment-3735" class="wp-caption-text">
+  <p id="caption-attachment-3735" >
     Flykly mounted on my bike, track does not fit
   </p>
 </div>
@@ -58,10 +58,10 @@ Finally I gave the single speed bike back and bought me a real e-bike from the G
 
 Everybody can turn their bikes into an e-bike, ok not everybody, only if you are a real bike professional and you are not using the Flykly wheel.
 
-<div id="attachment_3736" style="width: 616px" class="wp-caption alignnone">
-  <img aria-describedby="caption-attachment-3736" loading="lazy" class="size-full wp-image-3736" src="/assets/2015/05/flykly_wheel.jpg" alt="Flykly wheel" width="606" height="341" />
+<div id="attachment_3736" style="width: 616px" >
+  <img aria-describedby="caption-attachment-3736" loading="lazy"  src="/assets/2015/05/flykly_wheel.jpg" alt="Flykly wheel"   />
 
-  <p id="caption-attachment-3736" class="wp-caption-text">
+  <p id="caption-attachment-3736" >
     Flykly wheel
   </p>
 </div>

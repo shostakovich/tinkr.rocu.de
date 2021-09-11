@@ -27,17 +27,17 @@ There are four things you should pay attention to:
 
 ### 1. close the fan window
 
-<img loading="lazy" src="/assets/2012/12/up_plus_fan_window.jpg" alt="Up Plus 3D Printer" width="606" height="455" class="alignnone size-full wp-image-3124" srcset="/assets/2012/12/up_plus_fan_window.jpg 606w, /assets/2012/12/up_plus_fan_window-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
+<img loading="lazy" src="/assets/2012/12/up_plus_fan_window.jpg" alt="Up Plus 3D Printer"    srcset="/assets/2012/12/up_plus_fan_window.jpg 606w, /assets/2012/12/up_plus_fan_window-240x180.jpg 240w" sizes="(max-width: 606px) 100vw, 606px" />
 
 ### 2. preheat the heat bed for 15min
 
-<img loading="lazy" src="/assets/2012/12/up_plus_software_preheat.jpg" alt="Up Plus software preheat" width="606" height="480" class="alignnone size-full wp-image-3126" />
+<img loading="lazy" src="/assets/2012/12/up_plus_software_preheat.jpg" alt="Up Plus software preheat"    />
 
 ### 3. calibrate the nozzle height
 
 **3D Print -> Maintainance**
 
-<img loading="lazy" src="/assets/2012/12/up_plus_software_nozzle_height.jpg" alt="Up Plus software - set nozzle height" width="511" height="288" class="alignnone size-full wp-image-3127" />
+<img loading="lazy" src="/assets/2012/12/up_plus_software_nozzle_height.jpg" alt="Up Plus software - set nozzle height"    />
 
 ### 4. limit the air flow around your printer
 

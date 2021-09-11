@@ -20,7 +20,7 @@ tags:
   - Sega
   - Steam
 ---
-[<img loading="lazy" src="/assets/2009/02/schiff-300x183.jpg" alt="Original Spielegrafik (aber von einem anderen Spiel)" title="Original Spielegrafik (aber von einem anderen Spiel)" width="300" height="183" class="alignnone size-medium wp-image-263" />](/assets/2009/02/schiff.jpg)
+[<img loading="lazy" src="/assets/2009/02/schiff-300x183.jpg" alt="Original Spielegrafik (aber von einem anderen Spiel)" title="Original Spielegrafik (aber von einem anderen Spiel)"    />](/assets/2009/02/schiff.jpg)
 Da flattert flux der Download-Befehl von Sega in mein E-Mail-Postfach, die neuste Demo der TotalWar-Reihe herunterzuladen. Ach wie toll, es geht nur mit dem lieben Steam. Wie war da nochmal der alte Accountname? Achja, da hat ich noch einen für des Half-Life, dass auch schön länger keine neue Episode hervorgebracht hat.
 Nach ein paar Klicks und Flucht vor teuren Spieleangeboten (wer bitte schön kauft da ein Spiel, dass er nach dem Spielen nicht mal bei Ebay weiterverkaufen kann zu Preisen, wie es sich sonst nur angestaubte Kaufhausketten erlauben?) beginnt er auch schon der Download. Die Bandbreite passt zu den angestaubten Kaufhausketten-Preisen der feilgebotenen Spiele bei Steam. Mit ISDN-Turboboost läd das Spiel mit 20kB/s herunter. Ach, das ist schon einen Asbach -Uralt (c) wert.
 
