@@ -1,0 +1,44 @@
+Partlist
+
+Exported from LED_steuerung.sch at 06.08.2009 15:04:22 
+
+EAGLE Version 4.11 Copyright (c) 1988-2003 CadSoft
+
+Part     Value            Device             Package      Library        Sheet
+
+C1       22p              C-EUC1206          C1206        rcl            1
+C8       22p              C-EUC1206          C1206        rcl            1
+C10      100n             C-EUC1206          C1206        rcl            1
+C15      10uF             CPOL-EU153CLV-1012 153CLV-1012  rcl            1
+C16      100nF            C-EUC1206          C1206        rcl            1
+C17      10uF             CPOL-EU153CLV-1012 153CLV-1012  rcl            1
+C18      100nF            C-EUC1206          C1206        rcl            1
+J1       Stiftleiste 2reihig, 2x5Pins    MA05-2             MA05-2       con-lstb       1
+LED1     Größe 0805, rot  LEDCHIPLED_0805    CHIPLED_0805 led            1
+LED2     Größe 0805, grün LEDCHIPLED_0805    CHIPLED_0805 led            1
+Q1       BC547B           BC547B             TO92         transistor-npn 1
+Q2       16MHz            CRYTALHC49UP       HC49UP       crystal        1
+Q3       IRF510 o IRF1404 IRF510             TO220        transistor-fet 1
+Q4       BC547B           BC547B             TO92         transistor-npn 1
+Q5       IRF510 o IRF1404 IRF510             TO220        transistor-fet 1
+Q6       BC547B           BC547B             TO92         transistor-npn 1
+Q7       IRF510 o IRF1404 IRF510             TO220        transistor-fet 1
+R9       1k               R-EU_M1206         M1206        rcl            1
+R11      1R8              RKH208-8           KH208-8      resistor-power 1
+R12      10k              R-EU_M1206         M1206        rcl            1
+R13      1k               R-EU_M1206         M1206        rcl            1
+R16      1k               R-EU_M1206         M1206        rcl            1
+R17      1R8              RKH208-8           KH208-8      resistor-power 1
+R18      1R8              RKH208-8           KH208-8      resistor-power 1
+R21      10k poti         TRIM_EU-ST15       ST15         pot            1
+R22      10k poti         TRIM_EU-ST15       ST15         pot            1
+R23      200R             R-EU_M1206         M1206        rcl            1
+R24      200R             R-EU_M1206         M1206        rcl            1
+R49      200R             R-EU_M1206         M1206        rcl            1
+R50      200R             R-EU_M1206         M1206        rcl            1
+SV1      Stiftleiste      MA08-1             MA08-1       con-lstb       1
+U$1      RIA_350_4        RIA_350_4          RIA_1        my_connectors  1
+U$2      RIA_350_4        RIA_350_4          RIA_1        my_connectors  1
+U$4      RIA_350_4        RIA_350_4          RIA_1        my_connectors  1
+U2       MEGA16-A         MEGA16-A           TQFP44       avr            1
+U4       7805             78XXL              78XXL        v-reg          1

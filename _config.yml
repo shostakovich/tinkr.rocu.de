@@ -1,0 +1,11 @@
+title: Tinkr.de
+baseurl: ""
+url: "https://tinkr.de"
+copyright: Sebastian Schuster
+
+theme: zaunkoenig
+plugins:
+  - jekyll-feed
+
+sass:
+  style:            :compressed
